@@ -505,6 +505,45 @@ class Message(Object, Update):
         self.web_app_data = web_app_data
         self.reactions = reactions
 
+    async def wait_for_click(
+        self,
+        from_user_id: Optional[Union[Union[int, str], list[Union[int, str]]]] = None,
+        timeout: Optional[int] = None,
+        filters=None,
+        alert: Union[str, bool] = True,
+    ) -> "types.CallbackQuery":
+        """
+        Waits for a callback query to be clicked on the message.
+
+        Parameters:
+            from_user_id (``Optional[Union[int, str], List[Union[int, str]]]``):
+                The user ID(s) to wait for. If None, waits for any user.
+
+            timeout (``Optional[int]``):
+                The timeout in seconds. If None, waits forever.
+
+            filters (``Optional[Filter]``):
+                A filter to check if the callback query should be accepted.
+
+            alert (``Union[str, bool]``):
+                The alert to show when the button is clicked by users that are not allowed in from_user_id.
+                If True, shows the default alert. If False, shows no alert.
+
+        Returns:
+            :obj:`~hydrogram.types.CallbackQuery`: The callback query that was clicked.
+        """
+        message_id = getattr(self, "id", getattr(self, "message_id", None))
+
+        return await self._client.listen(
+            listener_type=types.ListenerTypes.CALLBACK_QUERY,
+            timeout=timeout,
+            filters=filters,
+            unallowed_click_alert=alert,
+            chat_id=self.chat.id,
+            user_id=from_user_id,
+            message_id=message_id,
+        )
+
     @staticmethod
     async def _parse(
         client: "hydrogram.Client",

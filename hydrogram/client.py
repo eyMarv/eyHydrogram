@@ -307,6 +307,7 @@ class Client(Methods):
         # after some idle time has been detected.
         self.updates_watchdog_task = None
         self.updates_watchdog_event = asyncio.Event()
+        self.updates_watchdog_error = None
         self.last_update_time = datetime.now()
 
         self.loop = asyncio.get_event_loop()
@@ -337,10 +338,11 @@ class Client(Methods):
             else:
                 break
 
-            if datetime.now() - self.last_update_time > timedelta(
-                seconds=self.UPDATES_WATCHDOG_INTERVAL
-            ):
-                await self.invoke(raw.functions.updates.GetState())
+            try:
+                if datetime.now() - self.last_update_time > timedelta(seconds=self.UPDATES_WATCHDOG_INTERVAL):
+                    await self.invoke(raw.functions.updates.GetState())
+            except Exception as ee:
+                self.updates_watchdog_error = ee
 
     async def authorize(self) -> User:
         if self.bot_token:

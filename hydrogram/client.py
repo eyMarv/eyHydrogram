@@ -339,7 +339,9 @@ class Client(Methods):
                 break
 
             try:
-                if datetime.now() - self.last_update_time > timedelta(seconds=self.UPDATES_WATCHDOG_INTERVAL):
+                if datetime.now() - self.last_update_time > timedelta(
+                    seconds=self.UPDATES_WATCHDOG_INTERVAL
+                ):
                     await self.invoke(raw.functions.updates.GetState())
             except Exception as ee:
                 self.updates_watchdog_error = ee

@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://github.com/hydrogram/hydrogram">
+    <a href="https://github.com/eyMarv/eyHydrogram">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hydrogram/hydrogram/main/docs/source/_static/hydrogram-dark.png">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hydrogram/hydrogram/main/docs/source/_static/hydrogram-light.png">
-            <img alt="Hydrogram" width="128" src="https://raw.githubusercontent.com/hydrogram/hydrogram/main/docs/source/_static/hydrogram-light.png">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyMarv/eyHydrogram/main/docs/source/_static/hydrogram-dark.png">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyMarv/eyHydrogram/main/docs/source/_static/hydrogram-light.png">
+            <img alt="eyHydrogram" width="128" src="https://raw.githubusercontent.com/eyMarv/eyHydrogram/main/docs/source/_static/hydrogram-light.png">
         </picture>
     </a>
     <br>
@@ -26,27 +26,30 @@
     </a>
 </p>
 
-# Hydrogram
+# eyHydrogram
 
 [![We use Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![PyPI package version](https://img.shields.io/pypi/v/hydrogram.svg)](https://pypi.python.org/pypi/hydrogram)
 [![PyPI license](https://img.shields.io/pypi/l/hydrogram.svg)](https://pypi.python.org/pypi/hydrogram)
 [![PyPI python versions](https://img.shields.io/pypi/pyversions/hydrogram.svg)](https://pypi.python.org/pypi/hydrogram)
 [![PyPI download month](https://img.shields.io/pypi/dm/hydrogram.svg)](https://pypi.python.org/pypi/hydrogram/)
-[![GitHub Actions status](https://github.com/hydrogram/hydrogram/actions/workflows/python.yml/badge.svg)](https://github.com/hydrogram/hydrogram/actions)
+[![GitHub Actions status](https://github.com/eyMarv/eyHydrogram/actions/workflows/python.yml/badge.svg)](https://github.com/eyMarv/eyHydrogram/actions)
 
 ## Description
+
+eyHydrogram is just a Fork of Hydrogram, which is a fork of the legendary Pyrogram, adapted by eyMarv, for personalized usage.
 
 Hydrogram is a Python library for interacting with the Telegram MTProto API. It provides a simple and intuitive interface for developers to leverage the power of Telegram's API in their Python applications.
 
 ## Installation
 
-To install Hydrogram, you need Python 3 installed on your system. If you don't have Python installed, you can download it from the official website.
+If you want, you can install eyHydrogram too, in order to enjoy the custom added features.
+To install eyHydrogram, you need Python 3 and git installed on your system. If you don't have Python installed, you can download it from the official website.
 
-To install Hydrogram, use pip:
+To install eyHydrogram, use pip, together with this repository URL:
 
 ```bash
-pip install hydrogram -U
+pip install git+https://github.com/eyMarv/eyHydrogram -U
 ```
 
 ## Usage
@@ -86,7 +89,7 @@ app.run()
 
 Hydrogram is an open source project and we welcome contributions from the community. We appreciate all types of contributions, including bug reports, feature requests, documentation improvements, and code contributions.
 
-To get started, please review our [Contribution Guidelines](https://github.com/hydrogram/hydrogram/blob/main/CONTRIBUTING.md) for more information.
+To get started, please review our [Contribution Guidelines](https://github.com/eyMarv/eyHydrogram/blob/main/CONTRIBUTING.md) for more information.
 
 All contributors are expected to adhere to the [Code of Conduct](https://github.com/hydrogram/.github/blob/main/CODE_OF_CONDUCT.md). Please read it before contributing.
 

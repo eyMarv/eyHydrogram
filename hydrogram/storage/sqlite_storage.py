@@ -181,11 +181,14 @@ class SQLiteStorage(BaseStorage):
             Path(self.database).unlink()
 
     async def update_peers(self, peers: list[tuple[int, int, str, str, str]]):
-        await self.conn.executemany(
-            "REPLACE INTO peers (id, access_hash, type, username, phone_number)"
-            "VALUES (?, ?, ?, ?, ?)",
-            peers,
-        )
+        try:
+            await self.conn.executemany(
+                "REPLACE INTO peers (id, access_hash, type, username, phone_number)"
+                "VALUES (?, ?, ?, ?, ?)",
+                peers,
+            )
+        except Exception:
+            pass  # shit happens...
 
     async def get_peer_by_id(self, peer_id: int):
         q = await self.conn.execute(

@@ -1,4 +1,4 @@
-Welcome to Hydrogram
+Welcome to eyHydrogram
 ====================
 
 .. raw:: html
@@ -21,7 +21,7 @@ Welcome to Hydrogram
             Homepage
         </a>
         •
-        <a href="https://github.com/hydrogram/hydrogram">
+        <a href="https://github.com/eyMarv/eyHydrogram">
             Development
         </a>
         •

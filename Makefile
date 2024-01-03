@@ -34,6 +34,8 @@ api:
 
 docs:
 	make clean-docs
+    $(VENV)/bin/pip install \
+     	-e '.[docs]'
 	cd compiler/docs && ../../$(PYTHON) compiler.py
 	$(VENV)/bin/sphinx-build \
 		-b html "docs/source" "docs/build/html" -j auto

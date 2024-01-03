@@ -1077,6 +1077,7 @@ class Message(Object, Update):
         reply_to_message_id: Optional[int] = None,
         schedule_date: Optional[datetime] = None,
         protect_content: Optional[bool] = None,
+        invert_media: bool = None,
         reply_markup=None,
     ) -> "Message":
         """Bound method *reply_text* of :obj:`~hydrogram.types.Message`.
@@ -1131,6 +1132,9 @@ class Message(Object, Update):
             protect_content (``bool``, *optional*):
                 Protects the contents of the sent message from forwarding and saving.
 
+            invert_media (``bool``, *optional*):
+                Moves web page preview to above the message.
+
             reply_markup (:obj:`~hydrogram.types.InlineKeyboardMarkup` | :obj:`~hydrogram.types.ReplyKeyboardMarkup` | :obj:`~hydrogram.types.ReplyKeyboardRemove` | :obj:`~hydrogram.types.ForceReply`, *optional*):
                 Additional interface options. An object for an inline keyboard, custom reply keyboard,
                 instructions to remove reply keyboard or to force a reply from the user.
@@ -1158,6 +1162,7 @@ class Message(Object, Update):
             reply_to_message_id=reply_to_message_id,
             schedule_date=schedule_date,
             protect_content=protect_content,
+            invert_media=invert_media,
             reply_markup=reply_markup,
         )
 

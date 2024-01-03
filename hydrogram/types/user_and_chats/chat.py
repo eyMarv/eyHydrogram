@@ -42,6 +42,7 @@ class Chat(Object):
 
         is_participants_hidden (``bool``, *optional*):
             True, if this chat members has been hidden.
+            Returned only in :meth:`~hydrogram.Client.get_chat`.
 
         is_restricted (``bool``, *optional*):
             True, if this chat has been restricted. Supergroups, channels and bots only.
@@ -61,6 +62,10 @@ class Chat(Object):
 
         is_forum (``bool``, *optional*):
             True, if the supergroup chat is a forum
+
+        is_antispam (``bool``, *optional*):
+            True, if Aggressive Anti-Spam is enabled in chat.
+            Returned only in :meth:`~hydrogram.Client.get_chat`.
 
         title (``str``, *optional*):
             Title, for supergroups, channels and basic group chats.
@@ -161,6 +166,7 @@ class Chat(Object):
         is_fake: Optional[bool] = None,
         is_support: Optional[bool] = None,
         is_forum: Optional[bool] = None,
+        is_antispam: bool = None,
         title: Optional[str] = None,
         username: Optional[str] = None,
         active_usernames: Optional[str] = None,
@@ -196,6 +202,7 @@ class Chat(Object):
         self.is_fake = is_fake
         self.is_support = is_support
         self.is_forum = is_forum
+        self.is_antispam = is_antispam
         self.title = title
         self.username = username
         self.active_usernames = active_usernames
@@ -368,6 +375,7 @@ class Chat(Object):
                 parsed_chat.is_participants_hidden = getattr(
                     full_chat, "participants_hidden", False
                 )
+                parsed_chat.is_antispam = full_chat.antispam
 
                 if linked_chat_raw := chats.get(full_chat.linked_chat_id):
                     parsed_chat.linked_chat = Chat._parse_channel_chat(client, linked_chat_raw)

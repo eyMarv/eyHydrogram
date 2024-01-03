@@ -38,6 +38,7 @@ class SendMessage:
         reply_to_message_id: Optional[int] = None,
         schedule_date: Optional[datetime] = None,
         protect_content: Optional[bool] = None,
+        invert_media: bool = None,
         reply_markup: Union[
             "types.InlineKeyboardMarkup",
             "types.ReplyKeyboardMarkup",
@@ -84,6 +85,9 @@ class SendMessage:
 
             protect_content (``bool``, *optional*):
                 Protects the contents of the sent message from forwarding and saving.
+
+            invert_media (``bool``, *optional*):
+                Moves web page preview to above the message.
 
             reply_markup (:obj:`~hydrogram.types.InlineKeyboardMarkup` | :obj:`~hydrogram.types.ReplyKeyboardMarkup` | :obj:`~hydrogram.types.ReplyKeyboardRemove` | :obj:`~hydrogram.types.ForceReply`, *optional*):
                 Additional interface options. An object for an inline keyboard, custom reply keyboard,
@@ -145,6 +149,7 @@ class SendMessage:
                 message=message,
                 entities=entities,
                 noforwards=protect_content,
+                invert_media=invert_media,
             )
         )
 

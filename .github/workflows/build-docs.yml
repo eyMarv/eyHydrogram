@@ -16,7 +16,6 @@ jobs:
 
     - name: Install dependencies
       run: |
-          make
           make api
           make docs
           rm -rf .github compiler Hydrogram* hydrogram* tests .gitignore COPYING*

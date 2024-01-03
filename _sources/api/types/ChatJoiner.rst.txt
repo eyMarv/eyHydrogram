@@ -1,0 +1,4 @@
+ChatJoiner
+==========
+
+.. autoclass:: hydrogram.types.ChatJoiner()

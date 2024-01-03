@@ -1,0 +1,4 @@
+Chat.unban_member()
+===================
+
+.. automethod:: hydrogram.types.Chat.unban_member()

@@ -1,0 +1,5 @@
+InputNotifyChats
+================
+
+.. autoclass:: hydrogram.raw.types.InputNotifyChats()
+    :members:

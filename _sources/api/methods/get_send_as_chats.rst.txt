@@ -1,0 +1,4 @@
+get_send_as_chats()
+===================
+
+.. automethod:: hydrogram.Client.get_send_as_chats()

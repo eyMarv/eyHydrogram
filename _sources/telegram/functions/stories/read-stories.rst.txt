@@ -1,0 +1,5 @@
+stories.ReadStories
+===================
+
+.. autoclass:: hydrogram.raw.functions.stories.ReadStories()
+    :members:

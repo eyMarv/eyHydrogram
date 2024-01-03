@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeLinkedChat
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeLinkedChat()
+    :members:

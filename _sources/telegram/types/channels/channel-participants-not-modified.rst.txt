@@ -1,0 +1,5 @@
+channels.ChannelParticipantsNotModified
+=======================================
+
+.. autoclass:: hydrogram.raw.types.channels.ChannelParticipantsNotModified()
+    :members:

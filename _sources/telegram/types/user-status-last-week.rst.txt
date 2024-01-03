@@ -1,0 +1,5 @@
+UserStatusLastWeek
+==================
+
+.. autoclass:: hydrogram.raw.types.UserStatusLastWeek()
+    :members:

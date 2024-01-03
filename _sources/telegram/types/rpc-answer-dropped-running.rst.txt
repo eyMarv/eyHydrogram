@@ -1,0 +1,5 @@
+RpcAnswerDroppedRunning
+=======================
+
+.. autoclass:: hydrogram.raw.types.RpcAnswerDroppedRunning()
+    :members:

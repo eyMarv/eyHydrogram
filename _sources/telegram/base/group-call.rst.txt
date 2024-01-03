@@ -1,0 +1,5 @@
+GroupCall
+=========
+
+.. autoclass:: hydrogram.raw.base.GroupCall()
+    :members:

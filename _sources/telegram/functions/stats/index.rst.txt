@@ -1,0 +1,16 @@
+Stats
+=====
+
+.. module:: hydrogram.raw.functions.stats
+
+.. toctree::
+    :titlesonly:
+
+    GetBroadcastStats <get-broadcast-stats>
+    GetMegagroupStats <get-megagroup-stats>
+    GetMessagePublicForwards <get-message-public-forwards>
+    GetMessageStats <get-message-stats>
+    GetStoryPublicForwards <get-story-public-forwards>
+    GetStoryStats <get-story-stats>
+    LoadAsyncGraph <load-async-graph>
+

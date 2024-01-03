@@ -1,0 +1,5 @@
+HighScore
+=========
+
+.. autoclass:: hydrogram.raw.types.HighScore()
+    :members:

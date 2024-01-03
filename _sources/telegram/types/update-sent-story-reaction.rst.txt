@@ -1,0 +1,5 @@
+UpdateSentStoryReaction
+=======================
+
+.. autoclass:: hydrogram.raw.types.UpdateSentStoryReaction()
+    :members:

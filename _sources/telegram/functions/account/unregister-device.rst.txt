@@ -1,0 +1,5 @@
+account.UnregisterDevice
+========================
+
+.. autoclass:: hydrogram.raw.functions.account.UnregisterDevice()
+    :members:

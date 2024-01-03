@@ -1,0 +1,5 @@
+DestroyAuthKey
+==============
+
+.. autoclass:: hydrogram.raw.functions.DestroyAuthKey()
+    :members:

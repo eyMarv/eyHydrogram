@@ -1,0 +1,4 @@
+set_parse_mode()
+================
+
+.. automethod:: hydrogram.Client.set_parse_mode()

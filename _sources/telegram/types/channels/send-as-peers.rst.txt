@@ -1,0 +1,5 @@
+channels.SendAsPeers
+====================
+
+.. autoclass:: hydrogram.raw.types.channels.SendAsPeers()
+    :members:

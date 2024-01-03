@@ -1,0 +1,5 @@
+InputDialogPeer
+===============
+
+.. autoclass:: hydrogram.raw.base.InputDialogPeer()
+    :members:

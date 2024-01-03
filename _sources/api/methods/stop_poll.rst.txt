@@ -1,0 +1,4 @@
+stop_poll()
+===========
+
+.. automethod:: hydrogram.Client.stop_poll()

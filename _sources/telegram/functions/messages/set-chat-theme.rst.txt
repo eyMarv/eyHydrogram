@@ -1,0 +1,5 @@
+messages.SetChatTheme
+=====================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetChatTheme()
+    :members:

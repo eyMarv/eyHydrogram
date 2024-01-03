@@ -1,0 +1,5 @@
+account.GetAutoDownloadSettings
+===============================
+
+.. autoclass:: hydrogram.raw.functions.account.GetAutoDownloadSettings()
+    :members:

@@ -1,0 +1,4 @@
+save_file()
+===========
+
+.. automethod:: hydrogram.Client.save_file()

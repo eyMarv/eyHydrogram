@@ -1,0 +1,5 @@
+help.PassportConfig
+===================
+
+.. autoclass:: hydrogram.raw.base.help.PassportConfig()
+    :members:

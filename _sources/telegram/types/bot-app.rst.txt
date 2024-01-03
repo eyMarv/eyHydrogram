@@ -1,0 +1,5 @@
+BotApp
+======
+
+.. autoclass:: hydrogram.raw.types.BotApp()
+    :members:

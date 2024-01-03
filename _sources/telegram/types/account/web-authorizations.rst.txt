@@ -1,0 +1,5 @@
+account.WebAuthorizations
+=========================
+
+.. autoclass:: hydrogram.raw.types.account.WebAuthorizations()
+    :members:

@@ -1,0 +1,5 @@
+PageBlockList
+=============
+
+.. autoclass:: hydrogram.raw.types.PageBlockList()
+    :members:

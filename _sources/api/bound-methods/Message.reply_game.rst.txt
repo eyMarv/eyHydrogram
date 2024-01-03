@@ -1,0 +1,4 @@
+Message.reply_game()
+====================
+
+.. automethod:: hydrogram.types.Message.reply_game()

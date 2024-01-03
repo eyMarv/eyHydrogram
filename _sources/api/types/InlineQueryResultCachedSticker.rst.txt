@@ -1,0 +1,4 @@
+InlineQueryResultCachedSticker
+==============================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedSticker()

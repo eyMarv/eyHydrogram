@@ -1,0 +1,5 @@
+Poll
+====
+
+.. autoclass:: hydrogram.raw.types.Poll()
+    :members:

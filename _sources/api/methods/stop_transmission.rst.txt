@@ -1,0 +1,4 @@
+stop_transmission()
+===================
+
+.. automethod:: hydrogram.Client.stop_transmission()

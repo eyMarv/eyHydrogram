@@ -1,0 +1,5 @@
+UpdateChannelViewForumAsMessages
+================================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelViewForumAsMessages()
+    :members:

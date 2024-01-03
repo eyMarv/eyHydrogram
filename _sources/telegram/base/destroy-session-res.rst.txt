@@ -1,0 +1,5 @@
+DestroySessionRes
+=================
+
+.. autoclass:: hydrogram.raw.base.DestroySessionRes()
+    :members:

@@ -1,0 +1,5 @@
+channels.ToggleSignatures
+=========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ToggleSignatures()
+    :members:

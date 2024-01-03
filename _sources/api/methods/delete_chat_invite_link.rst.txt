@@ -1,0 +1,4 @@
+delete_chat_invite_link()
+=========================
+
+.. automethod:: hydrogram.Client.delete_chat_invite_link()

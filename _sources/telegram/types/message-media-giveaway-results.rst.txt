@@ -1,0 +1,5 @@
+MessageMediaGiveawayResults
+===========================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaGiveawayResults()
+    :members:

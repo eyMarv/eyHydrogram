@@ -1,0 +1,5 @@
+UpdateBotMenuButton
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotMenuButton()
+    :members:

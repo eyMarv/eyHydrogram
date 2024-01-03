@@ -1,0 +1,5 @@
+StoryFwdHeader
+==============
+
+.. autoclass:: hydrogram.raw.types.StoryFwdHeader()
+    :members:

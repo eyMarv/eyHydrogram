@@ -1,0 +1,5 @@
+chatlists.GetLeaveChatlistSuggestions
+=====================================
+
+.. autoclass:: hydrogram.raw.functions.chatlists.GetLeaveChatlistSuggestions()
+    :members:

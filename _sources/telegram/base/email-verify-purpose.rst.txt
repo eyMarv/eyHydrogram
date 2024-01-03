@@ -1,0 +1,5 @@
+EmailVerifyPurpose
+==================
+
+.. autoclass:: hydrogram.raw.base.EmailVerifyPurpose()
+    :members:

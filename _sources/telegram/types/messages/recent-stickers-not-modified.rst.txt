@@ -1,0 +1,5 @@
+messages.RecentStickersNotModified
+==================================
+
+.. autoclass:: hydrogram.raw.types.messages.RecentStickersNotModified()
+    :members:

@@ -1,0 +1,5 @@
+UpdatePeerSettings
+==================
+
+.. autoclass:: hydrogram.raw.types.UpdatePeerSettings()
+    :members:

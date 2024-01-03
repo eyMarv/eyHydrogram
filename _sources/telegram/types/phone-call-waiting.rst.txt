@@ -1,0 +1,5 @@
+PhoneCallWaiting
+================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallWaiting()
+    :members:

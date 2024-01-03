@@ -1,0 +1,5 @@
+InputSingleMedia
+================
+
+.. autoclass:: hydrogram.raw.base.InputSingleMedia()
+    :members:

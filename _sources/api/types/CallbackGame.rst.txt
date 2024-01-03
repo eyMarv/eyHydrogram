@@ -1,0 +1,4 @@
+CallbackGame
+============
+
+.. autoclass:: hydrogram.types.CallbackGame()

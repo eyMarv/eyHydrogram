@@ -1,0 +1,14 @@
+Premium
+=======
+
+.. module:: hydrogram.raw.functions.premium
+
+.. toctree::
+    :titlesonly:
+
+    ApplyBoost <apply-boost>
+    GetBoostsList <get-boosts-list>
+    GetBoostsStatus <get-boosts-status>
+    GetMyBoosts <get-my-boosts>
+    GetUserBoosts <get-user-boosts>
+

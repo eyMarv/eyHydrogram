@@ -1,0 +1,5 @@
+payments.SendPaymentForm
+========================
+
+.. autoclass:: hydrogram.raw.functions.payments.SendPaymentForm()
+    :members:

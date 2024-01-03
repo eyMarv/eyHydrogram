@@ -1,0 +1,5 @@
+UpdateChannelMessageViews
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelMessageViews()
+    :members:

@@ -1,0 +1,5 @@
+phone.InviteToGroupCall
+=======================
+
+.. autoclass:: hydrogram.raw.functions.phone.InviteToGroupCall()
+    :members:

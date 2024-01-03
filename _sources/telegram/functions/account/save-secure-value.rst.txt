@@ -1,0 +1,5 @@
+account.SaveSecureValue
+=======================
+
+.. autoclass:: hydrogram.raw.functions.account.SaveSecureValue()
+    :members:

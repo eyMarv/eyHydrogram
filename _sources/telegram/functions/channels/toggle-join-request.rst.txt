@@ -1,0 +1,5 @@
+channels.ToggleJoinRequest
+==========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ToggleJoinRequest()
+    :members:

@@ -1,0 +1,5 @@
+contacts.TopPeers
+=================
+
+.. autoclass:: hydrogram.raw.base.contacts.TopPeers()
+    :members:

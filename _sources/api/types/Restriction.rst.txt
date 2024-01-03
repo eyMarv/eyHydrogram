@@ -1,0 +1,4 @@
+Restriction
+===========
+
+.. autoclass:: hydrogram.types.Restriction()

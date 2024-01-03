@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeWallpaper
+=========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeWallpaper()
+    :members:

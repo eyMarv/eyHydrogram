@@ -1,0 +1,5 @@
+InputPrivacyRule
+================
+
+.. autoclass:: hydrogram.raw.base.InputPrivacyRule()
+    :members:

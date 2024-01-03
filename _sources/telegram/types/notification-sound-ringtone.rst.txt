@@ -1,0 +1,5 @@
+NotificationSoundRingtone
+=========================
+
+.. autoclass:: hydrogram.raw.types.NotificationSoundRingtone()
+    :members:

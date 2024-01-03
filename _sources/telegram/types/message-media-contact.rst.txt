@@ -1,0 +1,5 @@
+MessageMediaContact
+===================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaContact()
+    :members:

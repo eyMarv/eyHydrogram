@@ -1,0 +1,5 @@
+MessageActionPaymentSentMe
+==========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionPaymentSentMe()
+    :members:

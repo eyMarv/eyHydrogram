@@ -1,0 +1,14 @@
+Langpack
+========
+
+.. module:: hydrogram.raw.functions.langpack
+
+.. toctree::
+    :titlesonly:
+
+    GetDifference <get-difference>
+    GetLangPack <get-lang-pack>
+    GetLanguage <get-language>
+    GetLanguages <get-languages>
+    GetStrings <get-strings>
+

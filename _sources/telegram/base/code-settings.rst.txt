@@ -1,0 +1,5 @@
+CodeSettings
+============
+
+.. autoclass:: hydrogram.raw.base.CodeSettings()
+    :members:

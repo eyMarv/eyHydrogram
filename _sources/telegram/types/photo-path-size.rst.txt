@@ -1,0 +1,5 @@
+PhotoPathSize
+=============
+
+.. autoclass:: hydrogram.raw.types.PhotoPathSize()
+    :members:

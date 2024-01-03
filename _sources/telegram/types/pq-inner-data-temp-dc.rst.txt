@@ -1,0 +1,5 @@
+PQInnerDataTempDc
+=================
+
+.. autoclass:: hydrogram.raw.types.PQInnerDataTempDc()
+    :members:

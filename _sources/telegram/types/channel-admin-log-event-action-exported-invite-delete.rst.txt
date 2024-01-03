@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionExportedInviteDelete
+==============================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionExportedInviteDelete()
+    :members:

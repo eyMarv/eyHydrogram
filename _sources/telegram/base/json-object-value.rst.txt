@@ -1,0 +1,5 @@
+JSONObjectValue
+===============
+
+.. autoclass:: hydrogram.raw.base.JSONObjectValue()
+    :members:

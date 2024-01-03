@@ -1,0 +1,5 @@
+InputFileBig
+============
+
+.. autoclass:: hydrogram.raw.types.InputFileBig()
+    :members:

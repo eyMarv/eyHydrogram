@@ -1,0 +1,5 @@
+PeerColor
+=========
+
+.. autoclass:: hydrogram.raw.types.PeerColor()
+    :members:

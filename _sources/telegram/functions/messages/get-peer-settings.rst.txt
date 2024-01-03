@@ -1,0 +1,5 @@
+messages.GetPeerSettings
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetPeerSettings()
+    :members:

@@ -1,0 +1,5 @@
+help.PassportConfigNotModified
+==============================
+
+.. autoclass:: hydrogram.raw.types.help.PassportConfigNotModified()
+    :members:

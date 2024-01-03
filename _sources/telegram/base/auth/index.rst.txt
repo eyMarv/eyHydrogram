@@ -1,0 +1,17 @@
+Auth
+====
+
+.. module:: hydrogram.raw.base.auth
+
+.. toctree::
+    :titlesonly:
+
+    Authorization <authorization>
+    CodeType <code-type>
+    ExportedAuthorization <exported-authorization>
+    LoggedOut <logged-out>
+    LoginToken <login-token>
+    PasswordRecovery <password-recovery>
+    SentCode <sent-code>
+    SentCodeType <sent-code-type>
+

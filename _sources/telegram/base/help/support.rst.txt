@@ -1,0 +1,5 @@
+help.Support
+============
+
+.. autoclass:: hydrogram.raw.base.help.Support()
+    :members:

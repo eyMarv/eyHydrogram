@@ -1,0 +1,4 @@
+send_reaction()
+===============
+
+.. automethod:: hydrogram.Client.send_reaction()

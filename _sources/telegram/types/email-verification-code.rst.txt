@@ -1,0 +1,5 @@
+EmailVerificationCode
+=====================
+
+.. autoclass:: hydrogram.raw.types.EmailVerificationCode()
+    :members:

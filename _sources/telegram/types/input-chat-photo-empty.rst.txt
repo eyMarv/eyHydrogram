@@ -1,0 +1,5 @@
+InputChatPhotoEmpty
+===================
+
+.. autoclass:: hydrogram.raw.types.InputChatPhotoEmpty()
+    :members:

@@ -1,0 +1,4 @@
+decline_chat_join_request()
+===========================
+
+.. automethod:: hydrogram.Client.decline_chat_join_request()

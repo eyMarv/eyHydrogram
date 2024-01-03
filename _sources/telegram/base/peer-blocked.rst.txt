@@ -1,0 +1,5 @@
+PeerBlocked
+===========
+
+.. autoclass:: hydrogram.raw.base.PeerBlocked()
+    :members:

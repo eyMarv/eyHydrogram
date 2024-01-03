@@ -1,0 +1,4 @@
+copy_media_group()
+==================
+
+.. automethod:: hydrogram.Client.copy_media_group()

@@ -1,0 +1,5 @@
+ChannelLocationEmpty
+====================
+
+.. autoclass:: hydrogram.raw.types.ChannelLocationEmpty()
+    :members:

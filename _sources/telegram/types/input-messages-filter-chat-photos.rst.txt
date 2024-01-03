@@ -1,0 +1,5 @@
+InputMessagesFilterChatPhotos
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterChatPhotos()
+    :members:

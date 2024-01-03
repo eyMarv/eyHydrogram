@@ -1,0 +1,5 @@
+BaseThemeNight
+==============
+
+.. autoclass:: hydrogram.raw.types.BaseThemeNight()
+    :members:

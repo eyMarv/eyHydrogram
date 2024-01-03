@@ -1,0 +1,5 @@
+account.ResetWebAuthorizations
+==============================
+
+.. autoclass:: hydrogram.raw.functions.account.ResetWebAuthorizations()
+    :members:

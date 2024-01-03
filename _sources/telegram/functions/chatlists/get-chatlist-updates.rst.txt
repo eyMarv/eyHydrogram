@@ -1,0 +1,5 @@
+chatlists.GetChatlistUpdates
+============================
+
+.. autoclass:: hydrogram.raw.functions.chatlists.GetChatlistUpdates()
+    :members:

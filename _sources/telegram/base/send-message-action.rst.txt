@@ -1,0 +1,5 @@
+SendMessageAction
+=================
+
+.. autoclass:: hydrogram.raw.base.SendMessageAction()
+    :members:

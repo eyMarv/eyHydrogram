@@ -1,0 +1,4 @@
+MenuButtonCommands
+==================
+
+.. autoclass:: hydrogram.types.MenuButtonCommands()

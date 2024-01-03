@@ -1,0 +1,5 @@
+upload.FileCdnRedirect
+======================
+
+.. autoclass:: hydrogram.raw.types.upload.FileCdnRedirect()
+    :members:

@@ -1,0 +1,4 @@
+InputPhoneContact
+=================
+
+.. autoclass:: hydrogram.types.InputPhoneContact()

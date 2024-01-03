@@ -1,0 +1,4 @@
+Chat.archive()
+==============
+
+.. automethod:: hydrogram.types.Chat.archive()

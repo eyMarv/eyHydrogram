@@ -1,0 +1,5 @@
+contest.SaveDeveloperInfo
+=========================
+
+.. autoclass:: hydrogram.raw.functions.contest.SaveDeveloperInfo()
+    :members:

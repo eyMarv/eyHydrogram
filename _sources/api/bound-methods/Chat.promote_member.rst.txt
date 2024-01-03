@@ -1,0 +1,4 @@
+Chat.promote_member()
+=====================
+
+.. automethod:: hydrogram.types.Chat.promote_member()

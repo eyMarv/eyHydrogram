@@ -1,0 +1,5 @@
+BotAppNotModified
+=================
+
+.. autoclass:: hydrogram.raw.types.BotAppNotModified()
+    :members:

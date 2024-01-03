@@ -1,0 +1,5 @@
+PageBlockDivider
+================
+
+.. autoclass:: hydrogram.raw.types.PageBlockDivider()
+    :members:

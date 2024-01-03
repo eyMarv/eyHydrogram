@@ -1,0 +1,5 @@
+RpcDropAnswer
+=============
+
+.. autoclass:: hydrogram.raw.base.RpcDropAnswer()
+    :members:

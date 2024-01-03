@@ -1,0 +1,5 @@
+LangPackStringDeleted
+=====================
+
+.. autoclass:: hydrogram.raw.types.LangPackStringDeleted()
+    :members:

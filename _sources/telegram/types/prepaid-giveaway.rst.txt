@@ -1,0 +1,5 @@
+PrepaidGiveaway
+===============
+
+.. autoclass:: hydrogram.raw.types.PrepaidGiveaway()
+    :members:

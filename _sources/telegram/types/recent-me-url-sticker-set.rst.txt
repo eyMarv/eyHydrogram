@@ -1,0 +1,5 @@
+RecentMeUrlStickerSet
+=====================
+
+.. autoclass:: hydrogram.raw.types.RecentMeUrlStickerSet()
+    :members:

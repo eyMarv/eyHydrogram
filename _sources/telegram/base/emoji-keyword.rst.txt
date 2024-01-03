@@ -1,0 +1,5 @@
+EmojiKeyword
+============
+
+.. autoclass:: hydrogram.raw.base.EmojiKeyword()
+    :members:

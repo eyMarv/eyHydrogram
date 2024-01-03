@@ -1,0 +1,5 @@
+messages.WebPage
+================
+
+.. autoclass:: hydrogram.raw.base.messages.WebPage()
+    :members:

@@ -1,0 +1,5 @@
+PeerChannel
+===========
+
+.. autoclass:: hydrogram.raw.types.PeerChannel()
+    :members:

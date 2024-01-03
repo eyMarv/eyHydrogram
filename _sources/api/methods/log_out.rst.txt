@@ -1,0 +1,4 @@
+log_out()
+=========
+
+.. automethod:: hydrogram.Client.log_out()

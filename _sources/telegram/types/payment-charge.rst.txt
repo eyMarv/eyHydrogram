@@ -1,0 +1,5 @@
+PaymentCharge
+=============
+
+.. autoclass:: hydrogram.raw.types.PaymentCharge()
+    :members:

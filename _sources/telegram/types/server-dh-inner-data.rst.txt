@@ -1,0 +1,5 @@
+ServerDHInnerData
+=================
+
+.. autoclass:: hydrogram.raw.types.ServerDHInnerData()
+    :members:

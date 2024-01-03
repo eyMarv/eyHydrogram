@@ -1,0 +1,5 @@
+MessageActionScreenshotTaken
+============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionScreenshotTaken()
+    :members:

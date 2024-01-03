@@ -1,0 +1,4 @@
+search_messages()
+=================
+
+.. automethod:: hydrogram.Client.search_messages()

@@ -1,0 +1,5 @@
+TextUrl
+=======
+
+.. autoclass:: hydrogram.raw.types.TextUrl()
+    :members:

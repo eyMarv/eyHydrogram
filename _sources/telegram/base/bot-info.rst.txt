@@ -1,0 +1,5 @@
+BotInfo
+=======
+
+.. autoclass:: hydrogram.raw.base.BotInfo()
+    :members:

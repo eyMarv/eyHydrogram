@@ -1,0 +1,5 @@
+bots.SendCustomRequest
+======================
+
+.. autoclass:: hydrogram.raw.functions.bots.SendCustomRequest()
+    :members:

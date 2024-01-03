@@ -1,0 +1,5 @@
+ServerDHParamsOk
+================
+
+.. autoclass:: hydrogram.raw.types.ServerDHParamsOk()
+    :members:

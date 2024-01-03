@@ -1,0 +1,5 @@
+messages.CheckHistoryImport
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.CheckHistoryImport()
+    :members:

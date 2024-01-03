@@ -1,0 +1,4 @@
+InlineQueryResultCachedVideo
+============================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedVideo()

@@ -1,0 +1,5 @@
+UpdateUserPhone
+===============
+
+.. autoclass:: hydrogram.raw.types.UpdateUserPhone()
+    :members:

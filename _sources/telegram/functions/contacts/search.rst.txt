@@ -1,0 +1,5 @@
+contacts.Search
+===============
+
+.. autoclass:: hydrogram.raw.functions.contacts.Search()
+    :members:

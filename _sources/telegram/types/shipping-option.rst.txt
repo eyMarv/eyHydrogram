@@ -1,0 +1,5 @@
+ShippingOption
+==============
+
+.. autoclass:: hydrogram.raw.types.ShippingOption()
+    :members:

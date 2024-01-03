@@ -1,0 +1,5 @@
+messages.EmojiGroupsNotModified
+===============================
+
+.. autoclass:: hydrogram.raw.types.messages.EmojiGroupsNotModified()
+    :members:

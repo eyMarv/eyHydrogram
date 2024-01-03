@@ -1,0 +1,5 @@
+TopPeerCategoryPhoneCalls
+=========================
+
+.. autoclass:: hydrogram.raw.types.TopPeerCategoryPhoneCalls()
+    :members:

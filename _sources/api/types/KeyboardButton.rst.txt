@@ -1,0 +1,4 @@
+KeyboardButton
+==============
+
+.. autoclass:: hydrogram.types.KeyboardButton()

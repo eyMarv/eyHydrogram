@@ -1,0 +1,5 @@
+UpdateRecentStickers
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateRecentStickers()
+    :members:

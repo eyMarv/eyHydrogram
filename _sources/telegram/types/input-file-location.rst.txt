@@ -1,0 +1,5 @@
+InputFileLocation
+=================
+
+.. autoclass:: hydrogram.raw.types.InputFileLocation()
+    :members:

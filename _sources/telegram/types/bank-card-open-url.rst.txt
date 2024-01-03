@@ -1,0 +1,5 @@
+BankCardOpenUrl
+===============
+
+.. autoclass:: hydrogram.raw.types.BankCardOpenUrl()
+    :members:

@@ -1,0 +1,5 @@
+InputMessagesFilterPinned
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterPinned()
+    :members:

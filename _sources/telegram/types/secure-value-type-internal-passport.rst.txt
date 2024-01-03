@@ -1,0 +1,5 @@
+SecureValueTypeInternalPassport
+===============================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeInternalPassport()
+    :members:

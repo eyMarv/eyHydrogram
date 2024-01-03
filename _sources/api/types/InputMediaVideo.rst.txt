@@ -1,0 +1,4 @@
+InputMediaVideo
+===============
+
+.. autoclass:: hydrogram.types.InputMediaVideo()

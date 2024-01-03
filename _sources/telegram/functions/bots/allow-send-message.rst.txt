@@ -1,0 +1,5 @@
+bots.AllowSendMessage
+=====================
+
+.. autoclass:: hydrogram.raw.functions.bots.AllowSendMessage()
+    :members:

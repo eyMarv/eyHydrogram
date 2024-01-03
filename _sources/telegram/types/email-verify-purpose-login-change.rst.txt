@@ -1,0 +1,5 @@
+EmailVerifyPurposeLoginChange
+=============================
+
+.. autoclass:: hydrogram.raw.types.EmailVerifyPurposeLoginChange()
+    :members:

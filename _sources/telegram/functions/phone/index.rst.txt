@@ -1,0 +1,40 @@
+Phone
+=====
+
+.. module:: hydrogram.raw.functions.phone
+
+.. toctree::
+    :titlesonly:
+
+    AcceptCall <accept-call>
+    CheckGroupCall <check-group-call>
+    ConfirmCall <confirm-call>
+    CreateGroupCall <create-group-call>
+    DiscardCall <discard-call>
+    DiscardGroupCall <discard-group-call>
+    EditGroupCallParticipant <edit-group-call-participant>
+    EditGroupCallTitle <edit-group-call-title>
+    ExportGroupCallInvite <export-group-call-invite>
+    GetCallConfig <get-call-config>
+    GetGroupCall <get-group-call>
+    GetGroupCallJoinAs <get-group-call-join-as>
+    GetGroupCallStreamChannels <get-group-call-stream-channels>
+    GetGroupCallStreamRtmpUrl <get-group-call-stream-rtmp-url>
+    GetGroupParticipants <get-group-participants>
+    InviteToGroupCall <invite-to-group-call>
+    JoinGroupCall <join-group-call>
+    JoinGroupCallPresentation <join-group-call-presentation>
+    LeaveGroupCall <leave-group-call>
+    LeaveGroupCallPresentation <leave-group-call-presentation>
+    ReceivedCall <received-call>
+    RequestCall <request-call>
+    SaveCallDebug <save-call-debug>
+    SaveCallLog <save-call-log>
+    SaveDefaultGroupCallJoinAs <save-default-group-call-join-as>
+    SendSignalingData <send-signaling-data>
+    SetCallRating <set-call-rating>
+    StartScheduledGroupCall <start-scheduled-group-call>
+    ToggleGroupCallRecord <toggle-group-call-record>
+    ToggleGroupCallSettings <toggle-group-call-settings>
+    ToggleGroupCallStartSubscription <toggle-group-call-start-subscription>
+

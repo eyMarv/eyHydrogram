@@ -1,0 +1,4 @@
+send_game()
+===========
+
+.. automethod:: hydrogram.Client.send_game()

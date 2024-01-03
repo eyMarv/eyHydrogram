@@ -1,0 +1,5 @@
+messages.GetDhConfig
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetDhConfig()
+    :members:

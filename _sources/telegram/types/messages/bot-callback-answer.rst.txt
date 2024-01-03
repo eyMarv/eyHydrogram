@@ -1,0 +1,5 @@
+messages.BotCallbackAnswer
+==========================
+
+.. autoclass:: hydrogram.raw.types.messages.BotCallbackAnswer()
+    :members:

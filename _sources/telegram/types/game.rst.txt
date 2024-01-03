@@ -1,0 +1,5 @@
+Game
+====
+
+.. autoclass:: hydrogram.raw.types.Game()
+    :members:

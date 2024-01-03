@@ -1,0 +1,5 @@
+GetFutureSalts
+==============
+
+.. autoclass:: hydrogram.raw.functions.GetFutureSalts()
+    :members:

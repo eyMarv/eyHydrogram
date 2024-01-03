@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeHistoryTTL
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeHistoryTTL()
+    :members:

@@ -1,0 +1,5 @@
+payments.PaymentResult
+======================
+
+.. autoclass:: hydrogram.raw.base.payments.PaymentResult()
+    :members:

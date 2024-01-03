@@ -1,0 +1,5 @@
+channels.SetDiscussionGroup
+===========================
+
+.. autoclass:: hydrogram.raw.functions.channels.SetDiscussionGroup()
+    :members:

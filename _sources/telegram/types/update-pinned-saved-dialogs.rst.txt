@@ -1,0 +1,5 @@
+UpdatePinnedSavedDialogs
+========================
+
+.. autoclass:: hydrogram.raw.types.UpdatePinnedSavedDialogs()
+    :members:

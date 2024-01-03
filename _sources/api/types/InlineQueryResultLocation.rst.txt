@@ -1,0 +1,4 @@
+InlineQueryResultLocation
+=========================
+
+.. autoclass:: hydrogram.types.InlineQueryResultLocation()

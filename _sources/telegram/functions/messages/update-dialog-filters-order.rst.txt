@@ -1,0 +1,5 @@
+messages.UpdateDialogFiltersOrder
+=================================
+
+.. autoclass:: hydrogram.raw.functions.messages.UpdateDialogFiltersOrder()
+    :members:

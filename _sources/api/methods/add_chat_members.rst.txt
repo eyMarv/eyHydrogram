@@ -1,0 +1,4 @@
+add_chat_members()
+==================
+
+.. automethod:: hydrogram.Client.add_chat_members()

@@ -1,0 +1,5 @@
+messages.CheckHistoryImportPeer
+===============================
+
+.. autoclass:: hydrogram.raw.functions.messages.CheckHistoryImportPeer()
+    :members:

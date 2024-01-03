@@ -1,0 +1,4 @@
+Message.click()
+===============
+
+.. automethod:: hydrogram.types.Message.click()

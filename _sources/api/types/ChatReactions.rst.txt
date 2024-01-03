@@ -1,0 +1,4 @@
+ChatReactions
+=============
+
+.. autoclass:: hydrogram.types.ChatReactions()

@@ -1,0 +1,5 @@
+messages.SetGameScore
+=====================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetGameScore()
+    :members:

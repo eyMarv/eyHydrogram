@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeStickerSet
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeStickerSet()
+    :members:

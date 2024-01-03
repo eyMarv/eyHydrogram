@@ -1,0 +1,4 @@
+ForceReply
+==========
+
+.. autoclass:: hydrogram.types.ForceReply()

@@ -1,0 +1,5 @@
+messages.SearchStickerSets
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.SearchStickerSets()
+    :members:

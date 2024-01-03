@@ -1,0 +1,5 @@
+PhotoSizeEmpty
+==============
+
+.. autoclass:: hydrogram.raw.types.PhotoSizeEmpty()
+    :members:

@@ -1,0 +1,5 @@
+channels.UpdateEmojiStatus
+==========================
+
+.. autoclass:: hydrogram.raw.functions.channels.UpdateEmojiStatus()
+    :members:

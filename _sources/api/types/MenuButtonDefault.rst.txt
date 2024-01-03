@@ -1,0 +1,4 @@
+MenuButtonDefault
+=================
+
+.. autoclass:: hydrogram.types.MenuButtonDefault()

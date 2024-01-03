@@ -1,0 +1,5 @@
+messages.ToggleBotInAttachMenu
+==============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ToggleBotInAttachMenu()
+    :members:

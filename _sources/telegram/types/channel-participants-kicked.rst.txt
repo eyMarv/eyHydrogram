@@ -1,0 +1,5 @@
+ChannelParticipantsKicked
+=========================
+
+.. autoclass:: hydrogram.raw.types.ChannelParticipantsKicked()
+    :members:

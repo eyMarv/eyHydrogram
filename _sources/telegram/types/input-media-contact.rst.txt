@@ -1,0 +1,5 @@
+InputMediaContact
+=================
+
+.. autoclass:: hydrogram.raw.types.InputMediaContact()
+    :members:

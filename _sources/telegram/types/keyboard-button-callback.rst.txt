@@ -1,0 +1,5 @@
+KeyboardButtonCallback
+======================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonCallback()
+    :members:

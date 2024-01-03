@@ -1,0 +1,5 @@
+PhoneCallProtocol
+=================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallProtocol()
+    :members:

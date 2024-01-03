@@ -1,0 +1,5 @@
+messages.InstallStickerSet
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.InstallStickerSet()
+    :members:

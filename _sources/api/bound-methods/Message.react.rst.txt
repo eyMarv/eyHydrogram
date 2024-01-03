@@ -1,0 +1,4 @@
+Message.react()
+===============
+
+.. automethod:: hydrogram.types.Message.react()

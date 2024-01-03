@@ -1,0 +1,5 @@
+SecureValueTypeBankStatement
+============================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeBankStatement()
+    :members:

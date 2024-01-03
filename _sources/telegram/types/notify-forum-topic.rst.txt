@@ -1,0 +1,5 @@
+NotifyForumTopic
+================
+
+.. autoclass:: hydrogram.raw.types.NotifyForumTopic()
+    :members:

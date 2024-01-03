@@ -1,0 +1,5 @@
+JSONValue
+=========
+
+.. autoclass:: hydrogram.raw.base.JSONValue()
+    :members:

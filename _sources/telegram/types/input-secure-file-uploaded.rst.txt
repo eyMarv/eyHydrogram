@@ -1,0 +1,5 @@
+InputSecureFileUploaded
+=======================
+
+.. autoclass:: hydrogram.raw.types.InputSecureFileUploaded()
+    :members:

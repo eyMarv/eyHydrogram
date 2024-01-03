@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantLeave
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantLeave()
+    :members:

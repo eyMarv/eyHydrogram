@@ -1,0 +1,5 @@
+channels.UpdateUsername
+=======================
+
+.. autoclass:: hydrogram.raw.functions.channels.UpdateUsername()
+    :members:

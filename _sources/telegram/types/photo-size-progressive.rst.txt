@@ -1,0 +1,5 @@
+PhotoSizeProgressive
+====================
+
+.. autoclass:: hydrogram.raw.types.PhotoSizeProgressive()
+    :members:

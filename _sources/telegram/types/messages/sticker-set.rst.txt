@@ -1,0 +1,5 @@
+messages.StickerSet
+===================
+
+.. autoclass:: hydrogram.raw.types.messages.StickerSet()
+    :members:

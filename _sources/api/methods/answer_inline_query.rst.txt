@@ -1,0 +1,4 @@
+answer_inline_query()
+=====================
+
+.. automethod:: hydrogram.Client.answer_inline_query()

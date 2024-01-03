@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionExportedInviteEdit
+============================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionExportedInviteEdit()
+    :members:

@@ -1,0 +1,4 @@
+set_administrator_title()
+=========================
+
+.. automethod:: hydrogram.Client.set_administrator_title()

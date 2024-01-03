@@ -1,0 +1,5 @@
+ChatBannedRights
+================
+
+.. autoclass:: hydrogram.raw.types.ChatBannedRights()
+    :members:

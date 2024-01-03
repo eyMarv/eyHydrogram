@@ -1,0 +1,5 @@
+PhoneCallDiscardReasonHangup
+============================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallDiscardReasonHangup()
+    :members:

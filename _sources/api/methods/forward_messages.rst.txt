@@ -1,0 +1,4 @@
+forward_messages()
+==================
+
+.. automethod:: hydrogram.Client.forward_messages()

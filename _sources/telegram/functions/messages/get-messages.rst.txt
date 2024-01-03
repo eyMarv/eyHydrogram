@@ -1,0 +1,5 @@
+messages.GetMessages
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetMessages()
+    :members:

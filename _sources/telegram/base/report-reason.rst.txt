@@ -1,0 +1,5 @@
+ReportReason
+============
+
+.. autoclass:: hydrogram.raw.base.ReportReason()
+    :members:

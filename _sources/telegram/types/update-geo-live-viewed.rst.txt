@@ -1,0 +1,5 @@
+UpdateGeoLiveViewed
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateGeoLiveViewed()
+    :members:

@@ -1,0 +1,5 @@
+messages.RateTranscribedAudio
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.RateTranscribedAudio()
+    :members:

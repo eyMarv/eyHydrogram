@@ -1,0 +1,5 @@
+UpdateNewAuthorization
+======================
+
+.. autoclass:: hydrogram.raw.types.UpdateNewAuthorization()
+    :members:

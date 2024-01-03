@@ -1,0 +1,5 @@
+UpdateConfig
+============
+
+.. autoclass:: hydrogram.raw.types.UpdateConfig()
+    :members:

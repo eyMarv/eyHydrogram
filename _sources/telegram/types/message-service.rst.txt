@@ -1,0 +1,5 @@
+MessageService
+==============
+
+.. autoclass:: hydrogram.raw.types.MessageService()
+    :members:

@@ -1,0 +1,5 @@
+TopPeerCategoryForwardUsers
+===========================
+
+.. autoclass:: hydrogram.raw.types.TopPeerCategoryForwardUsers()
+    :members:

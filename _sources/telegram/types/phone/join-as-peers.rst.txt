@@ -1,0 +1,5 @@
+phone.JoinAsPeers
+=================
+
+.. autoclass:: hydrogram.raw.types.phone.JoinAsPeers()
+    :members:

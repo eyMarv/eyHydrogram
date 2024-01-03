@@ -1,0 +1,4 @@
+get_bot_default_privileges()
+============================
+
+.. automethod:: hydrogram.Client.get_bot_default_privileges()

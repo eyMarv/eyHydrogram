@@ -1,0 +1,5 @@
+UserProfilePhoto
+================
+
+.. autoclass:: hydrogram.raw.types.UserProfilePhoto()
+    :members:

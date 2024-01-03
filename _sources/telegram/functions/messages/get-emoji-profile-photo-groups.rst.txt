@@ -1,0 +1,5 @@
+messages.GetEmojiProfilePhotoGroups
+===================================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiProfilePhotoGroups()
+    :members:

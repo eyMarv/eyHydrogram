@@ -1,0 +1,5 @@
+phone.RequestCall
+=================
+
+.. autoclass:: hydrogram.raw.functions.phone.RequestCall()
+    :members:

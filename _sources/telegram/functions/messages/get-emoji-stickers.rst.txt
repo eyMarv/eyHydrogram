@@ -1,0 +1,5 @@
+messages.GetEmojiStickers
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiStickers()
+    :members:

@@ -1,0 +1,5 @@
+UpdateNotifySettings
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateNotifySettings()
+    :members:

@@ -1,0 +1,4 @@
+InlineKeyboardButton
+====================
+
+.. autoclass:: hydrogram.types.InlineKeyboardButton()

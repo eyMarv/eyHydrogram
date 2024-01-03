@@ -1,0 +1,4 @@
+ChatEventFilter
+===============
+
+.. autoclass:: hydrogram.types.ChatEventFilter()

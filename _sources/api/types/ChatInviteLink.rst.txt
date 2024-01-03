@@ -1,0 +1,4 @@
+ChatInviteLink
+==============
+
+.. autoclass:: hydrogram.types.ChatInviteLink()

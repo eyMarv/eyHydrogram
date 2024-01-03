@@ -1,0 +1,5 @@
+UpdateBotChatInviteRequester
+============================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotChatInviteRequester()
+    :members:

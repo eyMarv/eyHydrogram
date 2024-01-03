@@ -1,0 +1,5 @@
+UpdateChatUserTyping
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateChatUserTyping()
+    :members:

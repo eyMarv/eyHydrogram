@@ -1,0 +1,5 @@
+NotificationSoundNone
+=====================
+
+.. autoclass:: hydrogram.raw.types.NotificationSoundNone()
+    :members:

@@ -1,0 +1,4 @@
+VideoChatStarted
+================
+
+.. autoclass:: hydrogram.types.VideoChatStarted()

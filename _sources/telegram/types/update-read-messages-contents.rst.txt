@@ -1,0 +1,5 @@
+UpdateReadMessagesContents
+==========================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadMessagesContents()
+    :members:

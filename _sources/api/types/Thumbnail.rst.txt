@@ -1,0 +1,4 @@
+Thumbnail
+=========
+
+.. autoclass:: hydrogram.types.Thumbnail()

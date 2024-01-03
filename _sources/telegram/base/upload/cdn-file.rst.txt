@@ -1,0 +1,5 @@
+upload.CdnFile
+==============
+
+.. autoclass:: hydrogram.raw.base.upload.CdnFile()
+    :members:

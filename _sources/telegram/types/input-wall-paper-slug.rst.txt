@@ -1,0 +1,5 @@
+InputWallPaperSlug
+==================
+
+.. autoclass:: hydrogram.raw.types.InputWallPaperSlug()
+    :members:

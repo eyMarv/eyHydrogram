@@ -1,0 +1,5 @@
+MessageActionRequestedPeer
+==========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionRequestedPeer()
+    :members:

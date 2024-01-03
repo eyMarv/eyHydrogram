@@ -1,0 +1,5 @@
+PageBlockKicker
+===============
+
+.. autoclass:: hydrogram.raw.types.PageBlockKicker()
+    :members:

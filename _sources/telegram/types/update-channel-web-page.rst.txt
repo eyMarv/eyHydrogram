@@ -1,0 +1,5 @@
+UpdateChannelWebPage
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelWebPage()
+    :members:

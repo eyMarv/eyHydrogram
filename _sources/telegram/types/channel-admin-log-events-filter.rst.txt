@@ -1,0 +1,5 @@
+ChannelAdminLogEventsFilter
+===========================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventsFilter()
+    :members:

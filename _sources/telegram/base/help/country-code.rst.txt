@@ -1,0 +1,5 @@
+help.CountryCode
+================
+
+.. autoclass:: hydrogram.raw.base.help.CountryCode()
+    :members:

@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeAvailableReactions
+==================================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeAvailableReactions()
+    :members:

@@ -1,0 +1,5 @@
+InputMediaPoll
+==============
+
+.. autoclass:: hydrogram.raw.types.InputMediaPoll()
+    :members:

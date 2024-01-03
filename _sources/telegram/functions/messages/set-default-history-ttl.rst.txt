@@ -1,0 +1,5 @@
+messages.SetDefaultHistoryTTL
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetDefaultHistoryTTL()
+    :members:

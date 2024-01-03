@@ -1,0 +1,5 @@
+TopPeerCategoryBotsPM
+=====================
+
+.. autoclass:: hydrogram.raw.types.TopPeerCategoryBotsPM()
+    :members:

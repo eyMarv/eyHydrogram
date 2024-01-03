@@ -1,0 +1,4 @@
+get_chat_menu_button()
+======================
+
+.. automethod:: hydrogram.Client.get_chat_menu_button()

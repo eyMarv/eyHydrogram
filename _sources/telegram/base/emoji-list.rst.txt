@@ -1,0 +1,5 @@
+EmojiList
+=========
+
+.. autoclass:: hydrogram.raw.base.EmojiList()
+    :members:

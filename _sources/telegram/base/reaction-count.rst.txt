@@ -1,0 +1,5 @@
+ReactionCount
+=============
+
+.. autoclass:: hydrogram.raw.base.ReactionCount()
+    :members:

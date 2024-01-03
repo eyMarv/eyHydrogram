@@ -1,0 +1,5 @@
+channels.ExportMessageLink
+==========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ExportMessageLink()
+    :members:

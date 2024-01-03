@@ -1,0 +1,4 @@
+get_media_group()
+=================
+
+.. automethod:: hydrogram.Client.get_media_group()

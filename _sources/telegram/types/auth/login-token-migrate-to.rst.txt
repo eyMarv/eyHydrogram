@@ -1,0 +1,5 @@
+auth.LoginTokenMigrateTo
+========================
+
+.. autoclass:: hydrogram.raw.types.auth.LoginTokenMigrateTo()
+    :members:

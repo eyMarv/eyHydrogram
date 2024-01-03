@@ -1,0 +1,5 @@
+contacts.ResolvedPeer
+=====================
+
+.. autoclass:: hydrogram.raw.base.contacts.ResolvedPeer()
+    :members:

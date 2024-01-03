@@ -1,0 +1,5 @@
+ChatInvite
+==========
+
+.. autoclass:: hydrogram.raw.types.ChatInvite()
+    :members:

@@ -1,0 +1,5 @@
+UpdateReadFeaturedEmojiStickers
+===============================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadFeaturedEmojiStickers()
+    :members:

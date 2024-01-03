@@ -1,0 +1,5 @@
+messages.ReadFeaturedStickers
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReadFeaturedStickers()
+    :members:

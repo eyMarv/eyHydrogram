@@ -1,0 +1,5 @@
+messages.ReportEncryptedSpam
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReportEncryptedSpam()
+    :members:

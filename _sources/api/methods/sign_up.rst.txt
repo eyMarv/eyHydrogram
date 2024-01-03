@@ -1,0 +1,4 @@
+sign_up()
+=========
+
+.. automethod:: hydrogram.Client.sign_up()

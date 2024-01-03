@@ -1,0 +1,5 @@
+UpdateReadStories
+=================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadStories()
+    :members:

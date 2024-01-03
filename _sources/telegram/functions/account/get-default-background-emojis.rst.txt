@@ -1,0 +1,5 @@
+account.GetDefaultBackgroundEmojis
+==================================
+
+.. autoclass:: hydrogram.raw.functions.account.GetDefaultBackgroundEmojis()
+    :members:

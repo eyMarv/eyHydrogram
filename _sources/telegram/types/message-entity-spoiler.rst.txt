@@ -1,0 +1,5 @@
+MessageEntitySpoiler
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntitySpoiler()
+    :members:

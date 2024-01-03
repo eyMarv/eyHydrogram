@@ -1,0 +1,5 @@
+MediaAreaSuggestedReaction
+==========================
+
+.. autoclass:: hydrogram.raw.types.MediaAreaSuggestedReaction()
+    :members:

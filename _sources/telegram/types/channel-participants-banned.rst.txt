@@ -1,0 +1,5 @@
+ChannelParticipantsBanned
+=========================
+
+.. autoclass:: hydrogram.raw.types.ChannelParticipantsBanned()
+    :members:

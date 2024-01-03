@@ -1,0 +1,4 @@
+InlineQueryResultVoice
+======================
+
+.. autoclass:: hydrogram.types.InlineQueryResultVoice()

@@ -1,0 +1,4 @@
+CallbackQuery.answer()
+======================
+
+.. automethod:: hydrogram.types.CallbackQuery.answer()

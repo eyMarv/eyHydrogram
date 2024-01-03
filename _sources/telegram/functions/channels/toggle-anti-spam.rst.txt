@@ -1,0 +1,5 @@
+channels.ToggleAntiSpam
+=======================
+
+.. autoclass:: hydrogram.raw.functions.channels.ToggleAntiSpam()
+    :members:

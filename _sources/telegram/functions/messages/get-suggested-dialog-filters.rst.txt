@@ -1,0 +1,5 @@
+messages.GetSuggestedDialogFilters
+==================================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetSuggestedDialogFilters()
+    :members:

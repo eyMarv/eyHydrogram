@@ -1,0 +1,5 @@
+channels.DeactivateAllUsernames
+===============================
+
+.. autoclass:: hydrogram.raw.functions.channels.DeactivateAllUsernames()
+    :members:

@@ -1,0 +1,5 @@
+UpdatePeerHistoryTTL
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdatePeerHistoryTTL()
+    :members:

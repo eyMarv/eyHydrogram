@@ -1,0 +1,5 @@
+help.AppConfigNotModified
+=========================
+
+.. autoclass:: hydrogram.raw.types.help.AppConfigNotModified()
+    :members:

@@ -1,0 +1,5 @@
+UpdateChatParticipant
+=====================
+
+.. autoclass:: hydrogram.raw.types.UpdateChatParticipant()
+    :members:

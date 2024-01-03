@@ -1,0 +1,4 @@
+read_chat_history()
+===================
+
+.. automethod:: hydrogram.Client.read_chat_history()

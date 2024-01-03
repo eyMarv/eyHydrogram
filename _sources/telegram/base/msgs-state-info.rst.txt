@@ -1,0 +1,5 @@
+MsgsStateInfo
+=============
+
+.. autoclass:: hydrogram.raw.base.MsgsStateInfo()
+    :members:

@@ -1,0 +1,5 @@
+channels.EditForumTopic
+=======================
+
+.. autoclass:: hydrogram.raw.functions.channels.EditForumTopic()
+    :members:

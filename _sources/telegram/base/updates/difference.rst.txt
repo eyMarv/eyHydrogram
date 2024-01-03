@@ -1,0 +1,5 @@
+updates.Difference
+==================
+
+.. autoclass:: hydrogram.raw.base.updates.Difference()
+    :members:

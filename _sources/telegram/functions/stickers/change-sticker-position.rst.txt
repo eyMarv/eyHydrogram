@@ -1,0 +1,5 @@
+stickers.ChangeStickerPosition
+==============================
+
+.. autoclass:: hydrogram.raw.functions.stickers.ChangeStickerPosition()
+    :members:

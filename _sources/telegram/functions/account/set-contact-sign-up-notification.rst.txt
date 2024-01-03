@@ -1,0 +1,5 @@
+account.SetContactSignUpNotification
+====================================
+
+.. autoclass:: hydrogram.raw.functions.account.SetContactSignUpNotification()
+    :members:

@@ -1,0 +1,5 @@
+StoryReactionPublicRepost
+=========================
+
+.. autoclass:: hydrogram.raw.types.StoryReactionPublicRepost()
+    :members:

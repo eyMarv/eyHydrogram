@@ -1,0 +1,5 @@
+MessageActionTopicCreate
+========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionTopicCreate()
+    :members:

@@ -1,0 +1,5 @@
+StickerSetNoCovered
+===================
+
+.. autoclass:: hydrogram.raw.types.StickerSetNoCovered()
+    :members:

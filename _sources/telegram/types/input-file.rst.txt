@@ -1,0 +1,5 @@
+InputFile
+=========
+
+.. autoclass:: hydrogram.raw.types.InputFile()
+    :members:

@@ -1,0 +1,5 @@
+channels.DeleteTopicHistory
+===========================
+
+.. autoclass:: hydrogram.raw.functions.channels.DeleteTopicHistory()
+    :members:

@@ -1,0 +1,5 @@
+account.ReorderUsernames
+========================
+
+.. autoclass:: hydrogram.raw.functions.account.ReorderUsernames()
+    :members:

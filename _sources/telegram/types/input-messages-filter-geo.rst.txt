@@ -1,0 +1,5 @@
+InputMessagesFilterGeo
+======================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterGeo()
+    :members:

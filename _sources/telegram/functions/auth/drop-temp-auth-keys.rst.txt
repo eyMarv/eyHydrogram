@@ -1,0 +1,5 @@
+auth.DropTempAuthKeys
+=====================
+
+.. autoclass:: hydrogram.raw.functions.auth.DropTempAuthKeys()
+    :members:

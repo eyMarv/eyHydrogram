@@ -1,0 +1,5 @@
+InputPrivacyKeyProfilePhoto
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyKeyProfilePhoto()
+    :members:

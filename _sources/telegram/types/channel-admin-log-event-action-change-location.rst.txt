@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeLocation
+========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeLocation()
+    :members:

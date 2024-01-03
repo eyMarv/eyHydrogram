@@ -1,0 +1,5 @@
+messages.UploadMedia
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.UploadMedia()
+    :members:

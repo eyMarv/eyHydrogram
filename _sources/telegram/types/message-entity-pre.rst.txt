@@ -1,0 +1,5 @@
+MessageEntityPre
+================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityPre()
+    :members:

@@ -1,0 +1,5 @@
+MessageEntityItalic
+===================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityItalic()
+    :members:

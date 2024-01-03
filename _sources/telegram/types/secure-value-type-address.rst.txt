@@ -1,0 +1,5 @@
+SecureValueTypeAddress
+======================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeAddress()
+    :members:

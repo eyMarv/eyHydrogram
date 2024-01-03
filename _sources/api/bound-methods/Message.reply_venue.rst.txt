@@ -1,0 +1,4 @@
+Message.reply_venue()
+=====================
+
+.. automethod:: hydrogram.types.Message.reply_venue()

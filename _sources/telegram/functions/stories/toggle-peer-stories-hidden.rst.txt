@@ -1,0 +1,5 @@
+stories.TogglePeerStoriesHidden
+===============================
+
+.. autoclass:: hydrogram.raw.functions.stories.TogglePeerStoriesHidden()
+    :members:

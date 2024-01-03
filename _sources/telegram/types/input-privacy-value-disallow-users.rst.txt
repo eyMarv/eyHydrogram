@@ -1,0 +1,5 @@
+InputPrivacyValueDisallowUsers
+==============================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyValueDisallowUsers()
+    :members:

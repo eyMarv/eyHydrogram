@@ -1,0 +1,5 @@
+auth.CodeTypeFlashCall
+======================
+
+.. autoclass:: hydrogram.raw.types.auth.CodeTypeFlashCall()
+    :members:

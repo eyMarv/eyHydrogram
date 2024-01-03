@@ -1,0 +1,5 @@
+SetClientDHParams
+=================
+
+.. autoclass:: hydrogram.raw.functions.SetClientDHParams()
+    :members:

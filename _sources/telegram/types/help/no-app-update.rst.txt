@@ -1,0 +1,5 @@
+help.NoAppUpdate
+================
+
+.. autoclass:: hydrogram.raw.types.help.NoAppUpdate()
+    :members:

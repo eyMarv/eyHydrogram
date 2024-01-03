@@ -1,0 +1,5 @@
+InputMediaStory
+===============
+
+.. autoclass:: hydrogram.raw.types.InputMediaStory()
+    :members:

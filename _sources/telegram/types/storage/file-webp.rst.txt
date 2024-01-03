@@ -1,0 +1,5 @@
+storage.FileWebp
+================
+
+.. autoclass:: hydrogram.raw.types.storage.FileWebp()
+    :members:

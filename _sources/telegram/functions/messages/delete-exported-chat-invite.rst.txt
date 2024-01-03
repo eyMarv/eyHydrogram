@@ -1,0 +1,5 @@
+messages.DeleteExportedChatInvite
+=================================
+
+.. autoclass:: hydrogram.raw.functions.messages.DeleteExportedChatInvite()
+    :members:

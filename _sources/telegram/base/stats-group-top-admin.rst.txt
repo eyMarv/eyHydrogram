@@ -1,0 +1,5 @@
+StatsGroupTopAdmin
+==================
+
+.. autoclass:: hydrogram.raw.base.StatsGroupTopAdmin()
+    :members:

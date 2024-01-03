@@ -1,0 +1,5 @@
+channels.UpdatePinnedForumTopic
+===============================
+
+.. autoclass:: hydrogram.raw.functions.channels.UpdatePinnedForumTopic()
+    :members:

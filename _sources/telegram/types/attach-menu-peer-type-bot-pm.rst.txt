@@ -1,0 +1,5 @@
+AttachMenuPeerTypeBotPM
+=======================
+
+.. autoclass:: hydrogram.raw.types.AttachMenuPeerTypeBotPM()
+    :members:

@@ -1,0 +1,5 @@
+stories.Stories
+===============
+
+.. autoclass:: hydrogram.raw.base.stories.Stories()
+    :members:

@@ -1,0 +1,5 @@
+bots.SetBotInfo
+===============
+
+.. autoclass:: hydrogram.raw.functions.bots.SetBotInfo()
+    :members:

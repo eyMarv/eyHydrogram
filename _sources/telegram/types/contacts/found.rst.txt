@@ -1,0 +1,5 @@
+contacts.Found
+==============
+
+.. autoclass:: hydrogram.raw.types.contacts.Found()
+    :members:

@@ -1,0 +1,5 @@
+contacts.EditCloseFriends
+=========================
+
+.. autoclass:: hydrogram.raw.functions.contacts.EditCloseFriends()
+    :members:

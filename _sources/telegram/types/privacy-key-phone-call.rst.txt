@@ -1,0 +1,5 @@
+PrivacyKeyPhoneCall
+===================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyPhoneCall()
+    :members:

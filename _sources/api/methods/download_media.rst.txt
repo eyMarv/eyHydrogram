@@ -1,0 +1,4 @@
+download_media()
+================
+
+.. automethod:: hydrogram.Client.download_media()

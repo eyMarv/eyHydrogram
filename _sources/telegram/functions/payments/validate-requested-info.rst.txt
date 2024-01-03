@@ -1,0 +1,5 @@
+payments.ValidateRequestedInfo
+==============================
+
+.. autoclass:: hydrogram.raw.functions.payments.ValidateRequestedInfo()
+    :members:

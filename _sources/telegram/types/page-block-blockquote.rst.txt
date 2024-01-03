@@ -1,0 +1,5 @@
+PageBlockBlockquote
+===================
+
+.. autoclass:: hydrogram.raw.types.PageBlockBlockquote()
+    :members:

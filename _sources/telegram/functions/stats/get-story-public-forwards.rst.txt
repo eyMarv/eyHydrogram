@@ -1,0 +1,5 @@
+stats.GetStoryPublicForwards
+============================
+
+.. autoclass:: hydrogram.raw.functions.stats.GetStoryPublicForwards()
+    :members:

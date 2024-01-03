@@ -1,0 +1,5 @@
+contacts.ToggleTopPeers
+=======================
+
+.. autoclass:: hydrogram.raw.functions.contacts.ToggleTopPeers()
+    :members:

@@ -1,0 +1,5 @@
+DocumentAttribute
+=================
+
+.. autoclass:: hydrogram.raw.base.DocumentAttribute()
+    :members:

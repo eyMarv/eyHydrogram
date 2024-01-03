@@ -1,0 +1,5 @@
+help.GetInviteText
+==================
+
+.. autoclass:: hydrogram.raw.functions.help.GetInviteText()
+    :members:

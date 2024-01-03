@@ -1,0 +1,5 @@
+InputPeerChat
+=============
+
+.. autoclass:: hydrogram.raw.types.InputPeerChat()
+    :members:

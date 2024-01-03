@@ -1,0 +1,5 @@
+UpdateContactsReset
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateContactsReset()
+    :members:

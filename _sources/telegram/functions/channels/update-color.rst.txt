@@ -1,0 +1,5 @@
+channels.UpdateColor
+====================
+
+.. autoclass:: hydrogram.raw.functions.channels.UpdateColor()
+    :members:

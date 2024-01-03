@@ -1,0 +1,5 @@
+LangPackStringPluralized
+========================
+
+.. autoclass:: hydrogram.raw.types.LangPackStringPluralized()
+    :members:

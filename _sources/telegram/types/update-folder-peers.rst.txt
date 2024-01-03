@@ -1,0 +1,5 @@
+UpdateFolderPeers
+=================
+
+.. autoclass:: hydrogram.raw.types.UpdateFolderPeers()
+    :members:

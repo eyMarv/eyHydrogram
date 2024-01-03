@@ -1,0 +1,5 @@
+TopPeerCategory
+===============
+
+.. autoclass:: hydrogram.raw.base.TopPeerCategory()
+    :members:

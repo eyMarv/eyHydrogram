@@ -1,0 +1,5 @@
+InputWebDocument
+================
+
+.. autoclass:: hydrogram.raw.types.InputWebDocument()
+    :members:

@@ -1,0 +1,5 @@
+ChannelParticipantsSearch
+=========================
+
+.. autoclass:: hydrogram.raw.types.ChannelParticipantsSearch()
+    :members:

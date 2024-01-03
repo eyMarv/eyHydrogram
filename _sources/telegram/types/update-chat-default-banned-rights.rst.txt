@@ -1,0 +1,5 @@
+UpdateChatDefaultBannedRights
+=============================
+
+.. autoclass:: hydrogram.raw.types.UpdateChatDefaultBannedRights()
+    :members:

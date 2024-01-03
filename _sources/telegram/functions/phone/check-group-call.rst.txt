@@ -1,0 +1,5 @@
+phone.CheckGroupCall
+====================
+
+.. autoclass:: hydrogram.raw.functions.phone.CheckGroupCall()
+    :members:

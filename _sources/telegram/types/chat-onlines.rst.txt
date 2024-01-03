@@ -1,0 +1,5 @@
+ChatOnlines
+===========
+
+.. autoclass:: hydrogram.raw.types.ChatOnlines()
+    :members:

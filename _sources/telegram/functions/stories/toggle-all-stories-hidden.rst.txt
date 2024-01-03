@@ -1,0 +1,5 @@
+stories.ToggleAllStoriesHidden
+==============================
+
+.. autoclass:: hydrogram.raw.functions.stories.ToggleAllStoriesHidden()
+    :members:

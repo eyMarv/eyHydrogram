@@ -1,0 +1,4 @@
+MessageReactions
+================
+
+.. autoclass:: hydrogram.types.MessageReactions()

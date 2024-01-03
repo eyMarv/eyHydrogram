@@ -1,0 +1,5 @@
+MessageExtendedMediaPreview
+===========================
+
+.. autoclass:: hydrogram.raw.types.MessageExtendedMediaPreview()
+    :members:

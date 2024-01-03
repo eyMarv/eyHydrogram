@@ -1,0 +1,5 @@
+SecureRequiredType
+==================
+
+.. autoclass:: hydrogram.raw.types.SecureRequiredType()
+    :members:

@@ -1,0 +1,4 @@
+set_emoji_status()
+==================
+
+.. automethod:: hydrogram.Client.set_emoji_status()

@@ -1,0 +1,5 @@
+help.GetPassportConfig
+======================
+
+.. autoclass:: hydrogram.raw.functions.help.GetPassportConfig()
+    :members:

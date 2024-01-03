@@ -1,0 +1,5 @@
+payments.PaymentVerificationNeeded
+==================================
+
+.. autoclass:: hydrogram.raw.types.payments.PaymentVerificationNeeded()
+    :members:

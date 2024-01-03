@@ -1,0 +1,5 @@
+contacts.Block
+==============
+
+.. autoclass:: hydrogram.raw.functions.contacts.Block()
+    :members:

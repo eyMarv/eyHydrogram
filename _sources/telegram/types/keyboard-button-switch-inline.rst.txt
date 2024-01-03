@@ -1,0 +1,5 @@
+KeyboardButtonSwitchInline
+==========================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonSwitchInline()
+    :members:

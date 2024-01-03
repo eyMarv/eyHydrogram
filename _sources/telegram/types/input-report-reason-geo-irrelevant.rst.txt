@@ -1,0 +1,5 @@
+InputReportReasonGeoIrrelevant
+==============================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonGeoIrrelevant()
+    :members:

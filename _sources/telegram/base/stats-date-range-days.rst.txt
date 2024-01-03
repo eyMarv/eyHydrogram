@@ -1,0 +1,5 @@
+StatsDateRangeDays
+==================
+
+.. autoclass:: hydrogram.raw.base.StatsDateRangeDays()
+    :members:

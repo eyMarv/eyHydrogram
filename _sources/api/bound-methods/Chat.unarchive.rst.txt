@@ -1,0 +1,4 @@
+Chat.unarchive()
+================
+
+.. automethod:: hydrogram.types.Chat.unarchive()

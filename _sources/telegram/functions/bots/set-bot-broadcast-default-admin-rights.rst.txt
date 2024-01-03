@@ -1,0 +1,5 @@
+bots.SetBotBroadcastDefaultAdminRights
+======================================
+
+.. autoclass:: hydrogram.raw.functions.bots.SetBotBroadcastDefaultAdminRights()
+    :members:

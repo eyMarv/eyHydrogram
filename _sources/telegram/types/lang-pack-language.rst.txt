@@ -1,0 +1,5 @@
+LangPackLanguage
+================
+
+.. autoclass:: hydrogram.raw.types.LangPackLanguage()
+    :members:

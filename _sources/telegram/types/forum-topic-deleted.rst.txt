@@ -1,0 +1,5 @@
+ForumTopicDeleted
+=================
+
+.. autoclass:: hydrogram.raw.types.ForumTopicDeleted()
+    :members:

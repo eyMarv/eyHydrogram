@@ -1,0 +1,5 @@
+SendAsPeer
+==========
+
+.. autoclass:: hydrogram.raw.base.SendAsPeer()
+    :members:

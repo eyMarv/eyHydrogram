@@ -1,0 +1,5 @@
+UpdateChannelAvailableMessages
+==============================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelAvailableMessages()
+    :members:

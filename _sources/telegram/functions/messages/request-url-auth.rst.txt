@@ -1,0 +1,5 @@
+messages.RequestUrlAuth
+=======================
+
+.. autoclass:: hydrogram.raw.functions.messages.RequestUrlAuth()
+    :members:

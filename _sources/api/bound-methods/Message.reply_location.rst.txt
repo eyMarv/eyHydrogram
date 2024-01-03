@@ -1,0 +1,4 @@
+Message.reply_location()
+========================
+
+.. automethod:: hydrogram.types.Message.reply_location()

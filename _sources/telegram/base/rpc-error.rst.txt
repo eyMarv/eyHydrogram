@@ -1,0 +1,5 @@
+RpcError
+========
+
+.. autoclass:: hydrogram.raw.base.RpcError()
+    :members:

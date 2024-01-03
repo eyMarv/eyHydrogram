@@ -1,0 +1,5 @@
+MessageActionHistoryClear
+=========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionHistoryClear()
+    :members:

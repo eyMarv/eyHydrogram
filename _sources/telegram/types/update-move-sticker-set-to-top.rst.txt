@@ -1,0 +1,5 @@
+UpdateMoveStickerSetToTop
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateMoveStickerSetToTop()
+    :members:

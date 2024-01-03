@@ -1,0 +1,19 @@
+Contacts
+========
+
+.. module:: hydrogram.raw.types.contacts
+
+.. toctree::
+    :titlesonly:
+
+    Blocked <blocked>
+    BlockedSlice <blocked-slice>
+    Contacts <contacts>
+    ContactsNotModified <contacts-not-modified>
+    Found <found>
+    ImportedContacts <imported-contacts>
+    ResolvedPeer <resolved-peer>
+    TopPeers <top-peers>
+    TopPeersDisabled <top-peers-disabled>
+    TopPeersNotModified <top-peers-not-modified>
+

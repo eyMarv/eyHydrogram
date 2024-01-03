@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeProfilePeerColor
+================================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeProfilePeerColor()
+    :members:

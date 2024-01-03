@@ -1,0 +1,5 @@
+DocumentAttributeCustomEmoji
+============================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeCustomEmoji()
+    :members:

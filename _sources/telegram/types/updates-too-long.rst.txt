@@ -1,0 +1,5 @@
+UpdatesTooLong
+==============
+
+.. autoclass:: hydrogram.raw.types.UpdatesTooLong()
+    :members:

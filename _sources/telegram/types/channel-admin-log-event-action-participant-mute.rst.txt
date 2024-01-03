@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantMute
+=========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantMute()
+    :members:

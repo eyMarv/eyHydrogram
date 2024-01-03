@@ -1,0 +1,5 @@
+InputChatPhoto
+==============
+
+.. autoclass:: hydrogram.raw.base.InputChatPhoto()
+    :members:

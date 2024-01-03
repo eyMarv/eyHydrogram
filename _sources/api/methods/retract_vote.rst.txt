@@ -1,0 +1,4 @@
+retract_vote()
+==============
+
+.. automethod:: hydrogram.Client.retract_vote()

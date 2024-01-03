@@ -1,0 +1,4 @@
+send_document()
+===============
+
+.. automethod:: hydrogram.Client.send_document()

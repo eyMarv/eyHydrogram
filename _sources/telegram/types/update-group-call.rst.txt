@@ -1,0 +1,5 @@
+UpdateGroupCall
+===============
+
+.. autoclass:: hydrogram.raw.types.UpdateGroupCall()
+    :members:

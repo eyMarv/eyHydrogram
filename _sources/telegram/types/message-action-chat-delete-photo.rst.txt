@@ -1,0 +1,5 @@
+MessageActionChatDeletePhoto
+============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatDeletePhoto()
+    :members:

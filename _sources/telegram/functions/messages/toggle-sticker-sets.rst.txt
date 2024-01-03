@@ -1,0 +1,5 @@
+messages.ToggleStickerSets
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.ToggleStickerSets()
+    :members:

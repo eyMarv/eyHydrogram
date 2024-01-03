@@ -1,0 +1,5 @@
+NotificationSoundDefault
+========================
+
+.. autoclass:: hydrogram.raw.types.NotificationSoundDefault()
+    :members:

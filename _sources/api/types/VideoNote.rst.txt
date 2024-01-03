@@ -1,0 +1,4 @@
+VideoNote
+=========
+
+.. autoclass:: hydrogram.types.VideoNote()

@@ -1,0 +1,5 @@
+StatsPercentValue
+=================
+
+.. autoclass:: hydrogram.raw.base.StatsPercentValue()
+    :members:

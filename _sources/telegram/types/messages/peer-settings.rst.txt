@@ -1,0 +1,5 @@
+messages.PeerSettings
+=====================
+
+.. autoclass:: hydrogram.raw.types.messages.PeerSettings()
+    :members:

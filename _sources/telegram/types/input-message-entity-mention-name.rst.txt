@@ -1,0 +1,5 @@
+InputMessageEntityMentionName
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessageEntityMentionName()
+    :members:

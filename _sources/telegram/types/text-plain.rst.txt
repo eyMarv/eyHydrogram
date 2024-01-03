@@ -1,0 +1,5 @@
+TextPlain
+=========
+
+.. autoclass:: hydrogram.raw.types.TextPlain()
+    :members:

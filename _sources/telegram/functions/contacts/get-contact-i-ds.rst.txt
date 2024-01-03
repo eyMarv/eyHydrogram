@@ -1,0 +1,5 @@
+contacts.GetContactIDs
+======================
+
+.. autoclass:: hydrogram.raw.functions.contacts.GetContactIDs()
+    :members:

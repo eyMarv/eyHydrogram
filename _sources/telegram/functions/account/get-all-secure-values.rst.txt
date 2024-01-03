@@ -1,0 +1,5 @@
+account.GetAllSecureValues
+==========================
+
+.. autoclass:: hydrogram.raw.functions.account.GetAllSecureValues()
+    :members:

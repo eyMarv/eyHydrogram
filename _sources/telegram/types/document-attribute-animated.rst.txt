@@ -1,0 +1,5 @@
+DocumentAttributeAnimated
+=========================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeAnimated()
+    :members:

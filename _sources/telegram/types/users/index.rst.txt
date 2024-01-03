@@ -1,0 +1,10 @@
+Users
+=====
+
+.. module:: hydrogram.raw.types.users
+
+.. toctree::
+    :titlesonly:
+
+    UserFull <user-full>
+

@@ -1,0 +1,5 @@
+MessageActionSetMessagesTTL
+===========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionSetMessagesTTL()
+    :members:

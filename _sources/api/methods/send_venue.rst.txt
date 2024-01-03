@@ -1,0 +1,4 @@
+send_venue()
+============
+
+.. automethod:: hydrogram.Client.send_venue()

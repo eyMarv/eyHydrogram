@@ -1,0 +1,5 @@
+MessageEntityCustomEmoji
+========================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityCustomEmoji()
+    :members:

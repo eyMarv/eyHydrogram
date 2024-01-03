@@ -1,0 +1,5 @@
+messages.HideAllChatJoinRequests
+================================
+
+.. autoclass:: hydrogram.raw.functions.messages.HideAllChatJoinRequests()
+    :members:

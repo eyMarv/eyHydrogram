@@ -1,0 +1,5 @@
+channels.GetFullChannel
+=======================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetFullChannel()
+    :members:

@@ -1,0 +1,5 @@
+InputReportReasonViolence
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonViolence()
+    :members:

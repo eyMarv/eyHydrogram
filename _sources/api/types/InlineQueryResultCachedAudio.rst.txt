@@ -1,0 +1,4 @@
+InlineQueryResultCachedAudio
+============================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedAudio()

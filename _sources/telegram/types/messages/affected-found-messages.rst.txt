@@ -1,0 +1,5 @@
+messages.AffectedFoundMessages
+==============================
+
+.. autoclass:: hydrogram.raw.types.messages.AffectedFoundMessages()
+    :members:

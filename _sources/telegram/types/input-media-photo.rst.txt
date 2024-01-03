@@ -1,0 +1,5 @@
+InputMediaPhoto
+===============
+
+.. autoclass:: hydrogram.raw.types.InputMediaPhoto()
+    :members:

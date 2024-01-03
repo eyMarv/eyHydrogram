@@ -1,0 +1,5 @@
+messages.GetEmojiURL
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiURL()
+    :members:

@@ -1,0 +1,5 @@
+RequestPeerType
+===============
+
+.. autoclass:: hydrogram.raw.base.RequestPeerType()
+    :members:

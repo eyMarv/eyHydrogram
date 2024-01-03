@@ -1,0 +1,5 @@
+MessageActionGroupCall
+======================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGroupCall()
+    :members:

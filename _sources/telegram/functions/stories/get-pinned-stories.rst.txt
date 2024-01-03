@@ -1,0 +1,5 @@
+stories.GetPinnedStories
+========================
+
+.. autoclass:: hydrogram.raw.functions.stories.GetPinnedStories()
+    :members:

@@ -1,0 +1,4 @@
+Message.reply_inline_bot_result()
+=================================
+
+.. automethod:: hydrogram.types.Message.reply_inline_bot_result()

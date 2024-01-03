@@ -1,0 +1,4 @@
+compose()
+=========
+
+.. autofunction:: hydrogram.compose()

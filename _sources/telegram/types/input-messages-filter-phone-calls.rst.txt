@@ -1,0 +1,5 @@
+InputMessagesFilterPhoneCalls
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterPhoneCalls()
+    :members:

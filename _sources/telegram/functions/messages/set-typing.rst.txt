@@ -1,0 +1,5 @@
+messages.SetTyping
+==================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetTyping()
+    :members:

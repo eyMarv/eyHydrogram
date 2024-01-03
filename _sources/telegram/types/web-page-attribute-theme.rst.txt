@@ -1,0 +1,5 @@
+WebPageAttributeTheme
+=====================
+
+.. autoclass:: hydrogram.raw.types.WebPageAttributeTheme()
+    :members:

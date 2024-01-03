@@ -1,0 +1,5 @@
+MessageEntityBankCard
+=====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityBankCard()
+    :members:

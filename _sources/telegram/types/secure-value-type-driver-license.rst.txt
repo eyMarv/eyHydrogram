@@ -1,0 +1,5 @@
+SecureValueTypeDriverLicense
+============================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeDriverLicense()
+    :members:

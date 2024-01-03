@@ -1,0 +1,5 @@
+SavedContact
+============
+
+.. autoclass:: hydrogram.raw.base.SavedContact()
+    :members:

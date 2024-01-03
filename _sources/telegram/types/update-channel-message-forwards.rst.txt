@@ -1,0 +1,5 @@
+UpdateChannelMessageForwards
+============================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelMessageForwards()
+    :members:

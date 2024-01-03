@@ -1,0 +1,5 @@
+payments.LaunchPrepaidGiveaway
+==============================
+
+.. autoclass:: hydrogram.raw.functions.payments.LaunchPrepaidGiveaway()
+    :members:

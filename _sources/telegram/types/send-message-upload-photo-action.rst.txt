@@ -1,0 +1,5 @@
+SendMessageUploadPhotoAction
+============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageUploadPhotoAction()
+    :members:

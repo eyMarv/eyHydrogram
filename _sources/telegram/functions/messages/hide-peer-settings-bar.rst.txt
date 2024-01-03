@@ -1,0 +1,5 @@
+messages.HidePeerSettingsBar
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.HidePeerSettingsBar()
+    :members:

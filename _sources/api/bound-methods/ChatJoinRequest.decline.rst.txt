@@ -1,0 +1,4 @@
+ChatJoinRequest.decline()
+=========================
+
+.. automethod:: hydrogram.types.ChatJoinRequest.decline()

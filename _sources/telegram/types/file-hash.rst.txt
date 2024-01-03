@@ -1,0 +1,5 @@
+FileHash
+========
+
+.. autoclass:: hydrogram.raw.types.FileHash()
+    :members:

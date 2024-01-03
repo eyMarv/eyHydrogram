@@ -1,0 +1,5 @@
+messages.VotesList
+==================
+
+.. autoclass:: hydrogram.raw.types.messages.VotesList()
+    :members:

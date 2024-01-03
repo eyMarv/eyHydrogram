@@ -1,0 +1,5 @@
+auth.SignUp
+===========
+
+.. autoclass:: hydrogram.raw.functions.auth.SignUp()
+    :members:

@@ -1,0 +1,4 @@
+delete_contacts()
+=================
+
+.. automethod:: hydrogram.Client.delete_contacts()

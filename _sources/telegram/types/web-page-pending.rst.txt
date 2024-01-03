@@ -1,0 +1,5 @@
+WebPagePending
+==============
+
+.. autoclass:: hydrogram.raw.types.WebPagePending()
+    :members:

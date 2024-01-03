@@ -1,0 +1,5 @@
+messages.GetStickers
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetStickers()
+    :members:

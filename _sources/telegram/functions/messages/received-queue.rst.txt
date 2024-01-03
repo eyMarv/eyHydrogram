@@ -1,0 +1,5 @@
+messages.ReceivedQueue
+======================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReceivedQueue()
+    :members:

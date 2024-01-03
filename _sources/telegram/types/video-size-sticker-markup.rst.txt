@@ -1,0 +1,5 @@
+VideoSizeStickerMarkup
+======================
+
+.. autoclass:: hydrogram.raw.types.VideoSizeStickerMarkup()
+    :members:

@@ -1,0 +1,5 @@
+MessageEntityUnknown
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityUnknown()
+    :members:

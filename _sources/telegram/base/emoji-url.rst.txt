@@ -1,0 +1,5 @@
+EmojiURL
+========
+
+.. autoclass:: hydrogram.raw.base.EmojiURL()
+    :members:

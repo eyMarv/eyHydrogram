@@ -1,0 +1,5 @@
+messages.SendReaction
+=====================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendReaction()
+    :members:

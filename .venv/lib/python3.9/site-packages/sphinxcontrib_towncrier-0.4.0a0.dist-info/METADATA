@@ -1,0 +1,118 @@
+Metadata-Version: 2.1
+Name: sphinxcontrib-towncrier
+Version: 0.4.0a0
+Summary: An RST directive for injecting a Towncrier-generated changelog draft containing fragments for the unreleased (next) project version
+Home-page: https://github.com/sphinx-contrib/sphinxcontrib-towncrier
+Author: Sviatoslav Sydorenko
+Author-email: wk+pypi/sphinxcontrib-towncrier@sydorenko.org.ua
+Maintainer: Oleksiy Vasylyshyn
+Maintainer-email: slsh1o-git@protonmail.com
+License: BSD 3-Clause License
+Project-URL: GitHub: repo, https://github.com/sphinx-contrib/sphinxcontrib-towncrier
+Project-URL: GitHub: issues, https://github.com/sphinx-contrib/sphinxcontrib-towncrier/issues
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Sphinx
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Documentation
+Classifier: Topic :: Documentation :: Sphinx
+Classifier: Topic :: System :: Software Distribution
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: sphinx
+Requires-Dist: towncrier >=19.2
+Requires-Dist: importlib-metadata >=4 ; python_version < "3.8"
+
+.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg
+   :target: https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
+   :alt: SWUbanner
+
+.. image:: https://img.shields.io/pypi/v/sphinxcontrib-towncrier.svg?logo=Python&logoColor=white
+   :target: https://pypi.org/project/sphinxcontrib-towncrier
+   :alt: sphinxcontrib-towncrier @ PyPI
+
+.. image:: https://github.com/sphinx-contrib/sphinxcontrib-towncrier/actions/workflows/ci-cd.yml/badge.svg?event=push
+   :target: https://github.com/sphinx-contrib/sphinxcontrib-towncrier/actions/workflows/ci-cd.yml
+   :alt: GitHub Actions CI/CD build status — Python package
+
+.. image:: https://codecov.io/gh/sphinx-contrib/sphinxcontrib-towncrier/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/sphinx-contrib/sphinxcontrib-towncrier
+   :alt: sphinxcontrib-towncrier coverage charts @ Covecov.io
+
+.. DO-NOT-REMOVE-docs-badges-END
+
+.. image:: https://img.shields.io/readthedocs/sphinxcontrib-towncrier/latest.svg?logo=Read%20The%20Docs&logoColor=white
+   :target: https://sphinxcontrib-towncrier.rtfd.io/en/latest/?badge=latest
+   :alt: Documentation Status @ RTD
+
+sphinxcontrib-towncrier
+=======================
+
+.. DO-NOT-REMOVE-docs-intro-START
+
+An RST directive for injecting a Towncrier-generated changelog draft
+containing fragments for the unreleased (next) project version.
+
+
+How to use this?
+----------------
+
+.. code-block:: shell-session
+
+    $ pip install sphinxcontrib-towncrier
+
+.. code-block:: python
+
+    extensions = ['sphinxcontrib.towncrier.ext']
+
+    # Options: draft/sphinx-version/sphinx-release
+    towncrier_draft_autoversion_mode = 'draft'
+    towncrier_draft_include_empty = True
+    towncrier_draft_working_directory = PROJECT_ROOT_DIR
+    # Not yet supported:
+    # towncrier_draft_config_path = 'pyproject.toml'  # relative to cwd
+
+Make sure to point to the dir with ``pyproject.toml`` and pre-configure
+towncrier itself in the config.
+
+If everything above is  set up correctly, you should be able to add
+
+.. code-block:: rst
+
+    .. towncrier-draft-entries::
+
+to your documents, like ``changelog.rst``. With no argument, the version
+title will be generated using the strategy set up in the
+``towncrier_draft_autoversion_mode`` setting.
+
+If you want to be in control, override it with an argument you like:
+
+.. code-block:: rst
+
+    .. towncrier-draft-entries:: |release| [UNRELEASED DRAFT]
+
+Native RST substitutions in the argument work, just make sure to declare
+any non-default ones via ``rst_epilog`` or at the end of the document
+where the ``towncrier-draft-entries`` directive is being used.
+
+
+Does anybody actually use this?
+-------------------------------
+
+So far we know about two projects using ``sphinxcontrib-towncrier`` —
+ansible/pylibssh and pypa/pip. Also, this Sphinx extension is inspired
+by and somewhat based on the ideas used in pytest-dev/pytest and
+tox-dev/tox. We believe that these projects are full of wonderful tricks
+that you may want to explore regardless of whether you'll use our
+project.

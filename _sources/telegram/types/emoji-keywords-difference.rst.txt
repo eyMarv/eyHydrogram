@@ -1,0 +1,5 @@
+EmojiKeywordsDifference
+=======================
+
+.. autoclass:: hydrogram.raw.types.EmojiKeywordsDifference()
+    :members:

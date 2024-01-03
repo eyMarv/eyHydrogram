@@ -1,0 +1,5 @@
+MessageActionCustomAction
+=========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionCustomAction()
+    :members:

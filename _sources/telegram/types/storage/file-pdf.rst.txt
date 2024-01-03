@@ -1,0 +1,5 @@
+storage.FilePdf
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FilePdf()
+    :members:

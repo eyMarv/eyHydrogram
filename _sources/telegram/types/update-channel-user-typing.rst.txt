@@ -1,0 +1,5 @@
+UpdateChannelUserTyping
+=======================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelUserTyping()
+    :members:

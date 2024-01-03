@@ -1,0 +1,5 @@
+InputStickerSetShortName
+========================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetShortName()
+    :members:

@@ -1,0 +1,5 @@
+SecurePlainData
+===============
+
+.. autoclass:: hydrogram.raw.base.SecurePlainData()
+    :members:

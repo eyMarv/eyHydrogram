@@ -1,0 +1,5 @@
+WebPageNotModified
+==================
+
+.. autoclass:: hydrogram.raw.types.WebPageNotModified()
+    :members:

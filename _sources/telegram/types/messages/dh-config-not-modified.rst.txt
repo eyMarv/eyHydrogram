@@ -1,0 +1,5 @@
+messages.DhConfigNotModified
+============================
+
+.. autoclass:: hydrogram.raw.types.messages.DhConfigNotModified()
+    :members:

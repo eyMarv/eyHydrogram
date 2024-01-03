@@ -1,0 +1,5 @@
+messages.GetBotApp
+==================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetBotApp()
+    :members:

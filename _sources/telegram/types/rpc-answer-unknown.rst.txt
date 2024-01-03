@@ -1,0 +1,5 @@
+RpcAnswerUnknown
+================
+
+.. autoclass:: hydrogram.raw.types.RpcAnswerUnknown()
+    :members:

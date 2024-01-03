@@ -1,0 +1,4 @@
+InputMediaAnimation
+===================
+
+.. autoclass:: hydrogram.types.InputMediaAnimation()

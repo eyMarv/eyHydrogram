@@ -1,0 +1,5 @@
+messages.GetDialogUnreadMarks
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetDialogUnreadMarks()
+    :members:

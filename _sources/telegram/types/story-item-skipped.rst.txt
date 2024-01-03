@@ -1,0 +1,5 @@
+StoryItemSkipped
+================
+
+.. autoclass:: hydrogram.raw.types.StoryItemSkipped()
+    :members:

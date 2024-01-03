@@ -1,0 +1,5 @@
+MessageActionSecureValuesSent
+=============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionSecureValuesSent()
+    :members:

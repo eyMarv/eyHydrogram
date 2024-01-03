@@ -1,0 +1,5 @@
+MessageEntityCode
+=================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityCode()
+    :members:

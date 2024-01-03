@@ -1,0 +1,5 @@
+channels.DeleteParticipantHistory
+=================================
+
+.. autoclass:: hydrogram.raw.functions.channels.DeleteParticipantHistory()
+    :members:

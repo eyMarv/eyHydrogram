@@ -1,0 +1,5 @@
+PhotoCachedSize
+===============
+
+.. autoclass:: hydrogram.raw.types.PhotoCachedSize()
+    :members:

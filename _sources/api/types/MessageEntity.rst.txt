@@ -1,0 +1,4 @@
+MessageEntity
+=============
+
+.. autoclass:: hydrogram.types.MessageEntity()

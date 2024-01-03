@@ -1,0 +1,5 @@
+SpeakingInGroupCallAction
+=========================
+
+.. autoclass:: hydrogram.raw.types.SpeakingInGroupCallAction()
+    :members:

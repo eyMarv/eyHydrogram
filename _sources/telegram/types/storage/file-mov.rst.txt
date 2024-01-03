@@ -1,0 +1,5 @@
+storage.FileMov
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FileMov()
+    :members:

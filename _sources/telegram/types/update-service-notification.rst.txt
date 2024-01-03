@@ -1,0 +1,5 @@
+UpdateServiceNotification
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateServiceNotification()
+    :members:

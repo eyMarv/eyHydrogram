@@ -1,0 +1,5 @@
+EmailVerifyPurposePassport
+==========================
+
+.. autoclass:: hydrogram.raw.types.EmailVerifyPurposePassport()
+    :members:

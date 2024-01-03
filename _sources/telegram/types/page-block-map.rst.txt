@@ -1,0 +1,5 @@
+PageBlockMap
+============
+
+.. autoclass:: hydrogram.raw.types.PageBlockMap()
+    :members:

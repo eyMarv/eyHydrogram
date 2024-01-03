@@ -1,0 +1,5 @@
+EmojiListNotModified
+====================
+
+.. autoclass:: hydrogram.raw.types.EmojiListNotModified()
+    :members:

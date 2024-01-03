@@ -1,0 +1,5 @@
+help.GetCountriesList
+=====================
+
+.. autoclass:: hydrogram.raw.functions.help.GetCountriesList()
+    :members:

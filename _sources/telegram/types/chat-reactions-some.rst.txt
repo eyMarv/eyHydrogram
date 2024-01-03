@@ -1,0 +1,5 @@
+ChatReactionsSome
+=================
+
+.. autoclass:: hydrogram.raw.types.ChatReactionsSome()
+    :members:

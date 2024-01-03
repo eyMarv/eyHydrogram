@@ -1,0 +1,5 @@
+DhGenOk
+=======
+
+.. autoclass:: hydrogram.raw.types.DhGenOk()
+    :members:

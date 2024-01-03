@@ -1,0 +1,5 @@
+messages.SendMedia
+==================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendMedia()
+    :members:

@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionStopPoll
+==================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionStopPoll()
+    :members:

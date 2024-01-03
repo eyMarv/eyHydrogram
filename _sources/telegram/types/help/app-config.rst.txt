@@ -1,0 +1,5 @@
+help.AppConfig
+==============
+
+.. autoclass:: hydrogram.raw.types.help.AppConfig()
+    :members:

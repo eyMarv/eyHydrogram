@@ -1,0 +1,4 @@
+Chat.set_description()
+======================
+
+.. automethod:: hydrogram.types.Chat.set_description()

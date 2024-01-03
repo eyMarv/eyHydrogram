@@ -1,0 +1,5 @@
+contacts.GetSaved
+=================
+
+.. autoclass:: hydrogram.raw.functions.contacts.GetSaved()
+    :members:

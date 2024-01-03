@@ -1,0 +1,5 @@
+NewSession
+==========
+
+.. autoclass:: hydrogram.raw.base.NewSession()
+    :members:

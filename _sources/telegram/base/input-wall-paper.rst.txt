@@ -1,0 +1,5 @@
+InputWallPaper
+==============
+
+.. autoclass:: hydrogram.raw.base.InputWallPaper()
+    :members:

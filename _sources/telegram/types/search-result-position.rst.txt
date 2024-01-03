@@ -1,0 +1,5 @@
+SearchResultPosition
+====================
+
+.. autoclass:: hydrogram.raw.types.SearchResultPosition()
+    :members:

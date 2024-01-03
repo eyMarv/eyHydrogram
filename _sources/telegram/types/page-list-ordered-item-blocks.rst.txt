@@ -1,0 +1,5 @@
+PageListOrderedItemBlocks
+=========================
+
+.. autoclass:: hydrogram.raw.types.PageListOrderedItemBlocks()
+    :members:

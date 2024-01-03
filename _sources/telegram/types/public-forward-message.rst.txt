@@ -1,0 +1,5 @@
+PublicForwardMessage
+====================
+
+.. autoclass:: hydrogram.raw.types.PublicForwardMessage()
+    :members:

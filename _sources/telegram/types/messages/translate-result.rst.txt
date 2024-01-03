@@ -1,0 +1,5 @@
+messages.TranslateResult
+========================
+
+.. autoclass:: hydrogram.raw.types.messages.TranslateResult()
+    :members:

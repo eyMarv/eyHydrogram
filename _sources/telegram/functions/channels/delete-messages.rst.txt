@@ -1,0 +1,5 @@
+channels.DeleteMessages
+=======================
+
+.. autoclass:: hydrogram.raw.functions.channels.DeleteMessages()
+    :members:

@@ -1,0 +1,4 @@
+Reaction
+========
+
+.. autoclass:: hydrogram.types.Reaction()

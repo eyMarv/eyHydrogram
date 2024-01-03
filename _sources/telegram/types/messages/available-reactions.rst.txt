@@ -1,0 +1,5 @@
+messages.AvailableReactions
+===========================
+
+.. autoclass:: hydrogram.raw.types.messages.AvailableReactions()
+    :members:

@@ -1,0 +1,5 @@
+ChatInvitePublicJoinRequests
+============================
+
+.. autoclass:: hydrogram.raw.types.ChatInvitePublicJoinRequests()
+    :members:

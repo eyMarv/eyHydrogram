@@ -1,0 +1,5 @@
+PageRelatedArticle
+==================
+
+.. autoclass:: hydrogram.raw.base.PageRelatedArticle()
+    :members:

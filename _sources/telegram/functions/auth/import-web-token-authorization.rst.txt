@@ -1,0 +1,5 @@
+auth.ImportWebTokenAuthorization
+================================
+
+.. autoclass:: hydrogram.raw.functions.auth.ImportWebTokenAuthorization()
+    :members:

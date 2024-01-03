@@ -1,0 +1,5 @@
+contacts.Blocked
+================
+
+.. autoclass:: hydrogram.raw.types.contacts.Blocked()
+    :members:

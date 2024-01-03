@@ -1,0 +1,5 @@
+contacts.GetBlocked
+===================
+
+.. autoclass:: hydrogram.raw.functions.contacts.GetBlocked()
+    :members:

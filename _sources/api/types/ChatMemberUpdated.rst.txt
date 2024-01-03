@@ -1,0 +1,4 @@
+ChatMemberUpdated
+=================
+
+.. autoclass:: hydrogram.types.ChatMemberUpdated()

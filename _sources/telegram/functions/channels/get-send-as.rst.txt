@@ -1,0 +1,5 @@
+channels.GetSendAs
+==================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetSendAs()
+    :members:

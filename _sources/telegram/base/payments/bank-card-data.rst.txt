@@ -1,0 +1,5 @@
+payments.BankCardData
+=====================
+
+.. autoclass:: hydrogram.raw.base.payments.BankCardData()
+    :members:

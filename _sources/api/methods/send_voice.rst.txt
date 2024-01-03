@@ -1,0 +1,4 @@
+send_voice()
+============
+
+.. automethod:: hydrogram.Client.send_voice()

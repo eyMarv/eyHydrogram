@@ -1,0 +1,5 @@
+MessageEmpty
+============
+
+.. autoclass:: hydrogram.raw.types.MessageEmpty()
+    :members:

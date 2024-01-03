@@ -1,0 +1,5 @@
+phone.LeaveGroupCall
+====================
+
+.. autoclass:: hydrogram.raw.functions.phone.LeaveGroupCall()
+    :members:

@@ -1,0 +1,5 @@
+account.AutoSaveSettings
+========================
+
+.. autoclass:: hydrogram.raw.types.account.AutoSaveSettings()
+    :members:

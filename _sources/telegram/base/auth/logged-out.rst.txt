@@ -1,0 +1,5 @@
+auth.LoggedOut
+==============
+
+.. autoclass:: hydrogram.raw.base.auth.LoggedOut()
+    :members:

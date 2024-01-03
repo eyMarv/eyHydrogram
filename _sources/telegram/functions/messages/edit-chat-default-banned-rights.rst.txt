@@ -1,0 +1,5 @@
+messages.EditChatDefaultBannedRights
+====================================
+
+.. autoclass:: hydrogram.raw.functions.messages.EditChatDefaultBannedRights()
+    :members:

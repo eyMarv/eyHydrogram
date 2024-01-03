@@ -1,0 +1,5 @@
+bots.SetBotMenuButton
+=====================
+
+.. autoclass:: hydrogram.raw.functions.bots.SetBotMenuButton()
+    :members:

@@ -1,0 +1,5 @@
+StoryItemDeleted
+================
+
+.. autoclass:: hydrogram.raw.types.StoryItemDeleted()
+    :members:

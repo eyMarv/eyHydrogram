@@ -1,0 +1,5 @@
+RequestPeerTypeBroadcast
+========================
+
+.. autoclass:: hydrogram.raw.types.RequestPeerTypeBroadcast()
+    :members:

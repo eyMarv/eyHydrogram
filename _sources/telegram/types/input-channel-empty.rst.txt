@@ -1,0 +1,5 @@
+InputChannelEmpty
+=================
+
+.. autoclass:: hydrogram.raw.types.InputChannelEmpty()
+    :members:

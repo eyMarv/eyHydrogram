@@ -1,0 +1,4 @@
+ChatJoinRequest.approve()
+=========================
+
+.. automethod:: hydrogram.types.ChatJoinRequest.approve()

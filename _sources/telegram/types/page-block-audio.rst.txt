@@ -1,0 +1,5 @@
+PageBlockAudio
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockAudio()
+    :members:

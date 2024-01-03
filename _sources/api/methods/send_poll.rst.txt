@@ -1,0 +1,4 @@
+send_poll()
+===========
+
+.. automethod:: hydrogram.Client.send_poll()

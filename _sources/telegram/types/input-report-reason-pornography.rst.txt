@@ -1,0 +1,5 @@
+InputReportReasonPornography
+============================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonPornography()
+    :members:

@@ -1,0 +1,4 @@
+ChatJoinRequest
+===============
+
+.. autoclass:: hydrogram.types.ChatJoinRequest()

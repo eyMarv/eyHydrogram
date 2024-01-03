@@ -1,0 +1,5 @@
+ChannelParticipantsRecent
+=========================
+
+.. autoclass:: hydrogram.raw.types.ChannelParticipantsRecent()
+    :members:

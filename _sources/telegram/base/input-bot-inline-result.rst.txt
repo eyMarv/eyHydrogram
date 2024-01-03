@@ -1,0 +1,5 @@
+InputBotInlineResult
+====================
+
+.. autoclass:: hydrogram.raw.base.InputBotInlineResult()
+    :members:

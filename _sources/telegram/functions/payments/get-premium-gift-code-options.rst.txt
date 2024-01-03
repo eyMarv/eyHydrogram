@@ -1,0 +1,5 @@
+payments.GetPremiumGiftCodeOptions
+==================================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetPremiumGiftCodeOptions()
+    :members:

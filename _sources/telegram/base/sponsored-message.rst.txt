@@ -1,0 +1,5 @@
+SponsoredMessage
+================
+
+.. autoclass:: hydrogram.raw.base.SponsoredMessage()
+    :members:

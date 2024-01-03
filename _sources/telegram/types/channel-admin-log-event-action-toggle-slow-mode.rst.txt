@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionToggleSlowMode
+========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionToggleSlowMode()
+    :members:

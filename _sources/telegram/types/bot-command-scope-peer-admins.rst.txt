@@ -1,0 +1,5 @@
+BotCommandScopePeerAdmins
+=========================
+
+.. autoclass:: hydrogram.raw.types.BotCommandScopePeerAdmins()
+    :members:

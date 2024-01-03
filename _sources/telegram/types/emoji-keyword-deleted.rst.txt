@@ -1,0 +1,5 @@
+EmojiKeywordDeleted
+===================
+
+.. autoclass:: hydrogram.raw.types.EmojiKeywordDeleted()
+    :members:

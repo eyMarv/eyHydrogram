@@ -1,0 +1,5 @@
+PageBlockUnsupported
+====================
+
+.. autoclass:: hydrogram.raw.types.PageBlockUnsupported()
+    :members:

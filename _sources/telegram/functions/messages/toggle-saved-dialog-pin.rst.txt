@@ -1,0 +1,5 @@
+messages.ToggleSavedDialogPin
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ToggleSavedDialogPin()
+    :members:

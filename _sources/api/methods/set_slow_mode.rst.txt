@@ -1,0 +1,4 @@
+set_slow_mode()
+===============
+
+.. automethod:: hydrogram.Client.set_slow_mode()

@@ -1,0 +1,4 @@
+Message.unpin()
+===============
+
+.. automethod:: hydrogram.types.Message.unpin()

@@ -1,0 +1,5 @@
+messages.SetDefaultReaction
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetDefaultReaction()
+    :members:

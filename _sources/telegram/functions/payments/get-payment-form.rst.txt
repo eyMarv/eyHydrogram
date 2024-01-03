@@ -1,0 +1,5 @@
+payments.GetPaymentForm
+=======================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetPaymentForm()
+    :members:

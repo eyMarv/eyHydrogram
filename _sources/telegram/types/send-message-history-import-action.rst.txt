@@ -1,0 +1,5 @@
+SendMessageHistoryImportAction
+==============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageHistoryImportAction()
+    :members:

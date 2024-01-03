@@ -1,0 +1,5 @@
+users.GetUsers
+==============
+
+.. autoclass:: hydrogram.raw.functions.users.GetUsers()
+    :members:

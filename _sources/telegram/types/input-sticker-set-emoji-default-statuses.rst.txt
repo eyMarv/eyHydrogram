@@ -1,0 +1,5 @@
+InputStickerSetEmojiDefaultStatuses
+===================================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetEmojiDefaultStatuses()
+    :members:

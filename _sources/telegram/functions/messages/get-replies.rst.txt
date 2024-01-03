@@ -1,0 +1,5 @@
+messages.GetReplies
+===================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetReplies()
+    :members:

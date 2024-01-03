@@ -1,0 +1,5 @@
+InputStickerSetPremiumGifts
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetPremiumGifts()
+    :members:

@@ -1,0 +1,5 @@
+StoryViewPublicForward
+======================
+
+.. autoclass:: hydrogram.raw.types.StoryViewPublicForward()
+    :members:

@@ -1,0 +1,5 @@
+messages.DeleteChat
+===================
+
+.. autoclass:: hydrogram.raw.functions.messages.DeleteChat()
+    :members:

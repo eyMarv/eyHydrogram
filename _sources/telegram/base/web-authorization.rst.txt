@@ -1,0 +1,5 @@
+WebAuthorization
+================
+
+.. autoclass:: hydrogram.raw.base.WebAuthorization()
+    :members:

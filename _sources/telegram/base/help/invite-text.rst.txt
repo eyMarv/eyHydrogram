@@ -1,0 +1,5 @@
+help.InviteText
+===============
+
+.. autoclass:: hydrogram.raw.base.help.InviteText()
+    :members:

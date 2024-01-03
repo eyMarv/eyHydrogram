@@ -1,0 +1,5 @@
+JsonString
+==========
+
+.. autoclass:: hydrogram.raw.types.JsonString()
+    :members:

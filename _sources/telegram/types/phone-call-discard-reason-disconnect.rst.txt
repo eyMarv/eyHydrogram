@@ -1,0 +1,5 @@
+PhoneCallDiscardReasonDisconnect
+================================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallDiscardReasonDisconnect()
+    :members:

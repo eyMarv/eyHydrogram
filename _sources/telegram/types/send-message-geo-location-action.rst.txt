@@ -1,0 +1,5 @@
+SendMessageGeoLocationAction
+============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageGeoLocationAction()
+    :members:

@@ -1,0 +1,5 @@
+updates.ChannelDifference
+=========================
+
+.. autoclass:: hydrogram.raw.base.updates.ChannelDifference()
+    :members:

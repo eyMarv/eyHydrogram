@@ -1,0 +1,5 @@
+account.ResetWallPapers
+=======================
+
+.. autoclass:: hydrogram.raw.functions.account.ResetWallPapers()
+    :members:

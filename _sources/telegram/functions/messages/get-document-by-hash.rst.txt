@@ -1,0 +1,5 @@
+messages.GetDocumentByHash
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetDocumentByHash()
+    :members:

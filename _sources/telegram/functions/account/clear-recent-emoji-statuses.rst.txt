@@ -1,0 +1,5 @@
+account.ClearRecentEmojiStatuses
+================================
+
+.. autoclass:: hydrogram.raw.functions.account.ClearRecentEmojiStatuses()
+    :members:

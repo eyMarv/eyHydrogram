@@ -1,0 +1,5 @@
+InputGameID
+===========
+
+.. autoclass:: hydrogram.raw.types.InputGameID()
+    :members:

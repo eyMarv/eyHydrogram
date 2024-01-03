@@ -1,0 +1,5 @@
+messages.SetChatAvailableReactions
+==================================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetChatAvailableReactions()
+    :members:

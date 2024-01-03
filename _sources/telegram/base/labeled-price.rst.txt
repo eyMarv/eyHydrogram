@@ -1,0 +1,5 @@
+LabeledPrice
+============
+
+.. autoclass:: hydrogram.raw.base.LabeledPrice()
+    :members:

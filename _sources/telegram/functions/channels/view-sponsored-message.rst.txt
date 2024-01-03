@@ -1,0 +1,5 @@
+channels.ViewSponsoredMessage
+=============================
+
+.. autoclass:: hydrogram.raw.functions.channels.ViewSponsoredMessage()
+    :members:

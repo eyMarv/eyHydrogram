@@ -1,0 +1,4 @@
+send_contact()
+==============
+
+.. automethod:: hydrogram.Client.send_contact()

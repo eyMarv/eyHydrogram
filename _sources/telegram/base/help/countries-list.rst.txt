@@ -1,0 +1,5 @@
+help.CountriesList
+==================
+
+.. autoclass:: hydrogram.raw.base.help.CountriesList()
+    :members:

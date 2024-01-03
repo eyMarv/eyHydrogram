@@ -1,0 +1,5 @@
+EncryptedChatWaiting
+====================
+
+.. autoclass:: hydrogram.raw.types.EncryptedChatWaiting()
+    :members:

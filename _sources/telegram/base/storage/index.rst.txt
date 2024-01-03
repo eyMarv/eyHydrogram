@@ -1,0 +1,10 @@
+Storage
+=======
+
+.. module:: hydrogram.raw.base.storage
+
+.. toctree::
+    :titlesonly:
+
+    FileType <file-type>
+

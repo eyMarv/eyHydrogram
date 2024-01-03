@@ -1,0 +1,5 @@
+InputStickerSetDice
+===================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetDice()
+    :members:

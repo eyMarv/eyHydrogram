@@ -1,0 +1,5 @@
+account.DeleteAutoSaveExceptions
+================================
+
+.. autoclass:: hydrogram.raw.functions.account.DeleteAutoSaveExceptions()
+    :members:

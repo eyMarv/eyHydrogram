@@ -1,0 +1,5 @@
+UpdateSavedRingtones
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateSavedRingtones()
+    :members:

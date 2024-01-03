@@ -1,0 +1,5 @@
+channels.ConvertToGigagroup
+===========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ConvertToGigagroup()
+    :members:

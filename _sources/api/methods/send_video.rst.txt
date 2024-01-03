@@ -1,0 +1,4 @@
+send_video()
+============
+
+.. automethod:: hydrogram.Client.send_video()

@@ -1,0 +1,5 @@
+PageBlockPhoto
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockPhoto()
+    :members:

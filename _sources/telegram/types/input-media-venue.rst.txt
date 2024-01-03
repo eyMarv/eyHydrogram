@@ -1,0 +1,5 @@
+InputMediaVenue
+===============
+
+.. autoclass:: hydrogram.raw.types.InputMediaVenue()
+    :members:

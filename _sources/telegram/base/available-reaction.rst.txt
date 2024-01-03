@@ -1,0 +1,5 @@
+AvailableReaction
+=================
+
+.. autoclass:: hydrogram.raw.base.AvailableReaction()
+    :members:

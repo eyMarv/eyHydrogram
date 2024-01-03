@@ -1,0 +1,4 @@
+Document
+========
+
+.. autoclass:: hydrogram.types.Document()

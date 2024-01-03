@@ -1,0 +1,5 @@
+contacts.ResetSaved
+===================
+
+.. autoclass:: hydrogram.raw.functions.contacts.ResetSaved()
+    :members:

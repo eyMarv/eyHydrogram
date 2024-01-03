@@ -1,0 +1,5 @@
+updates.GetChannelDifference
+============================
+
+.. autoclass:: hydrogram.raw.functions.updates.GetChannelDifference()
+    :members:

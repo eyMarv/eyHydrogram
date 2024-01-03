@@ -1,0 +1,5 @@
+AutoSaveSettings
+================
+
+.. autoclass:: hydrogram.raw.types.AutoSaveSettings()
+    :members:

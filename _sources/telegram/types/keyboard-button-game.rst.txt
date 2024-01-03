@@ -1,0 +1,5 @@
+KeyboardButtonGame
+==================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonGame()
+    :members:

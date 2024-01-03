@@ -1,0 +1,4 @@
+Chat.stop_listening()
+=====================
+
+.. automethod:: hydrogram.types.Chat.stop_listening()

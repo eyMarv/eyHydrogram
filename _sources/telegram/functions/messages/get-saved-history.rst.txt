@@ -1,0 +1,5 @@
+messages.GetSavedHistory
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetSavedHistory()
+    :members:

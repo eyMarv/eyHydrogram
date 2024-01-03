@@ -1,0 +1,5 @@
+upload.SaveFilePart
+===================
+
+.. autoclass:: hydrogram.raw.functions.upload.SaveFilePart()
+    :members:

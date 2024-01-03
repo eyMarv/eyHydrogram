@@ -1,0 +1,5 @@
+StoryViews
+==========
+
+.. autoclass:: hydrogram.raw.base.StoryViews()
+    :members:

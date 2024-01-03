@@ -1,0 +1,5 @@
+PremiumSubscriptionOption
+=========================
+
+.. autoclass:: hydrogram.raw.base.PremiumSubscriptionOption()
+    :members:

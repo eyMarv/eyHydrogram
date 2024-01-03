@@ -1,0 +1,4 @@
+ReplyKeyboardRemove
+===================
+
+.. autoclass:: hydrogram.types.ReplyKeyboardRemove()

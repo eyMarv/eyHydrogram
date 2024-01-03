@@ -1,0 +1,5 @@
+MessageActionChatJoinedByLink
+=============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatJoinedByLink()
+    :members:

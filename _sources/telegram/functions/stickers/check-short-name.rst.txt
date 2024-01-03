@@ -1,0 +1,5 @@
+stickers.CheckShortName
+=======================
+
+.. autoclass:: hydrogram.raw.functions.stickers.CheckShortName()
+    :members:

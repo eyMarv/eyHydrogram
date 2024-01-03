@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantToggleBan
+==============================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantToggleBan()
+    :members:

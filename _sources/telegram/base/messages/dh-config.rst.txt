@@ -1,0 +1,5 @@
+messages.DhConfig
+=================
+
+.. autoclass:: hydrogram.raw.base.messages.DhConfig()
+    :members:

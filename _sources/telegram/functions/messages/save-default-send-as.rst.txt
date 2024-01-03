@@ -1,0 +1,5 @@
+messages.SaveDefaultSendAs
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.SaveDefaultSendAs()
+    :members:

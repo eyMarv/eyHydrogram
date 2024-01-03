@@ -1,0 +1,5 @@
+StickerSetMultiCovered
+======================
+
+.. autoclass:: hydrogram.raw.types.StickerSetMultiCovered()
+    :members:

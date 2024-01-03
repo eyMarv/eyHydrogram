@@ -1,0 +1,5 @@
+help.GetTermsOfServiceUpdate
+============================
+
+.. autoclass:: hydrogram.raw.functions.help.GetTermsOfServiceUpdate()
+    :members:

@@ -1,0 +1,4 @@
+get_custom_emoji_stickers()
+===========================
+
+.. automethod:: hydrogram.Client.get_custom_emoji_stickers()

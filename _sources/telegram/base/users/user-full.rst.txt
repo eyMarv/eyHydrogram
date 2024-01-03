@@ -1,0 +1,5 @@
+users.UserFull
+==============
+
+.. autoclass:: hydrogram.raw.base.users.UserFull()
+    :members:

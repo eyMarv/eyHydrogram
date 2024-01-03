@@ -1,0 +1,5 @@
+ChannelForbidden
+================
+
+.. autoclass:: hydrogram.raw.types.ChannelForbidden()
+    :members:

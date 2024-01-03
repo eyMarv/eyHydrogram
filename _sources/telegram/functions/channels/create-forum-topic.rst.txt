@@ -1,0 +1,5 @@
+channels.CreateForumTopic
+=========================
+
+.. autoclass:: hydrogram.raw.functions.channels.CreateForumTopic()
+    :members:

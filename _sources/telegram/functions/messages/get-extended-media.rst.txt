@@ -1,0 +1,5 @@
+messages.GetExtendedMedia
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetExtendedMedia()
+    :members:

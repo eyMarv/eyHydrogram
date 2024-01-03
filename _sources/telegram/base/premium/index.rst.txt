@@ -1,0 +1,12 @@
+Premium
+=======
+
+.. module:: hydrogram.raw.base.premium
+
+.. toctree::
+    :titlesonly:
+
+    BoostsList <boosts-list>
+    BoostsStatus <boosts-status>
+    MyBoosts <my-boosts>
+

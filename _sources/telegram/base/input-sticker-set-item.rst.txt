@@ -1,0 +1,5 @@
+InputStickerSetItem
+===================
+
+.. autoclass:: hydrogram.raw.base.InputStickerSetItem()
+    :members:

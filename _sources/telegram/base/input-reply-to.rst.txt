@@ -1,0 +1,5 @@
+InputReplyTo
+============
+
+.. autoclass:: hydrogram.raw.base.InputReplyTo()
+    :members:

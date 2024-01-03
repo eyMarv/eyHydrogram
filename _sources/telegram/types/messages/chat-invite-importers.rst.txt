@@ -1,0 +1,5 @@
+messages.ChatInviteImporters
+============================
+
+.. autoclass:: hydrogram.raw.types.messages.ChatInviteImporters()
+    :members:

@@ -1,0 +1,5 @@
+channels.ClickSponsoredMessage
+==============================
+
+.. autoclass:: hydrogram.raw.functions.channels.ClickSponsoredMessage()
+    :members:

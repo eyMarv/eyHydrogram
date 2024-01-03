@@ -1,0 +1,5 @@
+auth.AcceptLoginToken
+=====================
+
+.. autoclass:: hydrogram.raw.functions.auth.AcceptLoginToken()
+    :members:

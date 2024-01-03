@@ -1,0 +1,5 @@
+PeerUser
+========
+
+.. autoclass:: hydrogram.raw.types.PeerUser()
+    :members:

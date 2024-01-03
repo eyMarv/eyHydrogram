@@ -1,0 +1,5 @@
+Dialog
+======
+
+.. autoclass:: hydrogram.raw.types.Dialog()
+    :members:

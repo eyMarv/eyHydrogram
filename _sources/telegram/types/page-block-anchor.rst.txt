@@ -1,0 +1,5 @@
+PageBlockAnchor
+===============
+
+.. autoclass:: hydrogram.raw.types.PageBlockAnchor()
+    :members:

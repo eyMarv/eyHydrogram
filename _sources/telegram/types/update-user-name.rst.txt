@@ -1,0 +1,5 @@
+UpdateUserName
+==============
+
+.. autoclass:: hydrogram.raw.types.UpdateUserName()
+    :members:

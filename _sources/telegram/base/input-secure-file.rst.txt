@@ -1,0 +1,5 @@
+InputSecureFile
+===============
+
+.. autoclass:: hydrogram.raw.base.InputSecureFile()
+    :members:

@@ -1,0 +1,5 @@
+messages.SavedDialogsNotModified
+================================
+
+.. autoclass:: hydrogram.raw.types.messages.SavedDialogsNotModified()
+    :members:

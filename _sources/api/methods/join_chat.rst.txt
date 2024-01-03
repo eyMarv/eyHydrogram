@@ -1,0 +1,4 @@
+join_chat()
+===========
+
+.. automethod:: hydrogram.Client.join_chat()

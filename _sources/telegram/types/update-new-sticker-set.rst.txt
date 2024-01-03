@@ -1,0 +1,5 @@
+UpdateNewStickerSet
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateNewStickerSet()
+    :members:

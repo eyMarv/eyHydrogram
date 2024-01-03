@@ -1,0 +1,5 @@
+IpPort
+======
+
+.. autoclass:: hydrogram.raw.types.IpPort()
+    :members:

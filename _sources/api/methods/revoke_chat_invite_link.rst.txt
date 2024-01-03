@@ -1,0 +1,4 @@
+revoke_chat_invite_link()
+=========================
+
+.. automethod:: hydrogram.Client.revoke_chat_invite_link()

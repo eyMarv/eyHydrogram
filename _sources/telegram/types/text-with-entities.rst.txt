@@ -1,0 +1,5 @@
+TextWithEntities
+================
+
+.. autoclass:: hydrogram.raw.types.TextWithEntities()
+    :members:

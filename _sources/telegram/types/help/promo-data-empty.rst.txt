@@ -1,0 +1,5 @@
+help.PromoDataEmpty
+===================
+
+.. autoclass:: hydrogram.raw.types.help.PromoDataEmpty()
+    :members:

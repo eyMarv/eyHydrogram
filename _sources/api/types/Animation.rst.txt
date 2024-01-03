@@ -1,0 +1,4 @@
+Animation
+=========
+
+.. autoclass:: hydrogram.types.Animation()

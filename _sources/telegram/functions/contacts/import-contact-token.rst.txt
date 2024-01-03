@@ -1,0 +1,5 @@
+contacts.ImportContactToken
+===========================
+
+.. autoclass:: hydrogram.raw.functions.contacts.ImportContactToken()
+    :members:

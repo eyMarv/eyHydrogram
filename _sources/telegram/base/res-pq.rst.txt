@@ -1,0 +1,5 @@
+ResPQ
+=====
+
+.. autoclass:: hydrogram.raw.base.ResPQ()
+    :members:

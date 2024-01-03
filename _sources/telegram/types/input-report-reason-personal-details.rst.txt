@@ -1,0 +1,5 @@
+InputReportReasonPersonalDetails
+================================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonPersonalDetails()
+    :members:

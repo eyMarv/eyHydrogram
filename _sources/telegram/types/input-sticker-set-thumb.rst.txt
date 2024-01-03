@@ -1,0 +1,5 @@
+InputStickerSetThumb
+====================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetThumb()
+    :members:

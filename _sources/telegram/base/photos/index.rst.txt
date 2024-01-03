@@ -1,0 +1,11 @@
+Photos
+======
+
+.. module:: hydrogram.raw.base.photos
+
+.. toctree::
+    :titlesonly:
+
+    Photo <photo>
+    Photos <photos>
+

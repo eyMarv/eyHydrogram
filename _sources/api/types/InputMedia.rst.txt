@@ -1,0 +1,4 @@
+InputMedia
+==========
+
+.. autoclass:: hydrogram.types.InputMedia()

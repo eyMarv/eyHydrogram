@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionDiscardGroupCall
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionDiscardGroupCall()
+    :members:

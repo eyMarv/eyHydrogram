@@ -1,0 +1,83 @@
+Messages
+========
+
+.. module:: hydrogram.raw.types.messages
+
+.. toctree::
+    :titlesonly:
+
+    AffectedFoundMessages <affected-found-messages>
+    AffectedHistory <affected-history>
+    AffectedMessages <affected-messages>
+    AllStickers <all-stickers>
+    AllStickersNotModified <all-stickers-not-modified>
+    ArchivedStickers <archived-stickers>
+    AvailableReactions <available-reactions>
+    AvailableReactionsNotModified <available-reactions-not-modified>
+    BotApp <bot-app>
+    BotCallbackAnswer <bot-callback-answer>
+    BotResults <bot-results>
+    ChannelMessages <channel-messages>
+    ChatAdminsWithInvites <chat-admins-with-invites>
+    ChatFull <chat-full>
+    ChatInviteImporters <chat-invite-importers>
+    Chats <chats>
+    ChatsSlice <chats-slice>
+    CheckedHistoryImportPeer <checked-history-import-peer>
+    DhConfig <dh-config>
+    DhConfigNotModified <dh-config-not-modified>
+    Dialogs <dialogs>
+    DialogsNotModified <dialogs-not-modified>
+    DialogsSlice <dialogs-slice>
+    DiscussionMessage <discussion-message>
+    EmojiGroups <emoji-groups>
+    EmojiGroupsNotModified <emoji-groups-not-modified>
+    ExportedChatInvite <exported-chat-invite>
+    ExportedChatInviteReplaced <exported-chat-invite-replaced>
+    ExportedChatInvites <exported-chat-invites>
+    FavedStickers <faved-stickers>
+    FavedStickersNotModified <faved-stickers-not-modified>
+    FeaturedStickers <featured-stickers>
+    FeaturedStickersNotModified <featured-stickers-not-modified>
+    ForumTopics <forum-topics>
+    FoundStickerSets <found-sticker-sets>
+    FoundStickerSetsNotModified <found-sticker-sets-not-modified>
+    HighScores <high-scores>
+    HistoryImport <history-import>
+    HistoryImportParsed <history-import-parsed>
+    InactiveChats <inactive-chats>
+    MessageEditData <message-edit-data>
+    MessageReactionsList <message-reactions-list>
+    MessageViews <message-views>
+    Messages <messages>
+    MessagesNotModified <messages-not-modified>
+    MessagesSlice <messages-slice>
+    PeerDialogs <peer-dialogs>
+    PeerSettings <peer-settings>
+    Reactions <reactions>
+    ReactionsNotModified <reactions-not-modified>
+    RecentStickers <recent-stickers>
+    RecentStickersNotModified <recent-stickers-not-modified>
+    SavedDialogs <saved-dialogs>
+    SavedDialogsNotModified <saved-dialogs-not-modified>
+    SavedDialogsSlice <saved-dialogs-slice>
+    SavedGifs <saved-gifs>
+    SavedGifsNotModified <saved-gifs-not-modified>
+    SearchCounter <search-counter>
+    SearchResultsCalendar <search-results-calendar>
+    SearchResultsPositions <search-results-positions>
+    SentEncryptedFile <sent-encrypted-file>
+    SentEncryptedMessage <sent-encrypted-message>
+    SponsoredMessages <sponsored-messages>
+    SponsoredMessagesEmpty <sponsored-messages-empty>
+    StickerSet <sticker-set>
+    StickerSetInstallResultArchive <sticker-set-install-result-archive>
+    StickerSetInstallResultSuccess <sticker-set-install-result-success>
+    StickerSetNotModified <sticker-set-not-modified>
+    Stickers <stickers>
+    StickersNotModified <stickers-not-modified>
+    TranscribedAudio <transcribed-audio>
+    TranslateResult <translate-result>
+    VotesList <votes-list>
+    WebPage <web-page>
+

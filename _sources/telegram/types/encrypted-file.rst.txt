@@ -1,0 +1,5 @@
+EncryptedFile
+=============
+
+.. autoclass:: hydrogram.raw.types.EncryptedFile()
+    :members:

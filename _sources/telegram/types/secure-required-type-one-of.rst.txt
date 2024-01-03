@@ -1,0 +1,5 @@
+SecureRequiredTypeOneOf
+=======================
+
+.. autoclass:: hydrogram.raw.types.SecureRequiredTypeOneOf()
+    :members:

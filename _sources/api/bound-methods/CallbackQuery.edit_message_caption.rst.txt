@@ -1,0 +1,4 @@
+CallbackQuery.edit_message_caption()
+====================================
+
+.. automethod:: hydrogram.types.CallbackQuery.edit_message_caption()

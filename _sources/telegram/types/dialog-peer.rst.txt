@@ -1,0 +1,5 @@
+DialogPeer
+==========
+
+.. autoclass:: hydrogram.raw.types.DialogPeer()
+    :members:

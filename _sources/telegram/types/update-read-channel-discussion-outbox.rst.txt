@@ -1,0 +1,5 @@
+UpdateReadChannelDiscussionOutbox
+=================================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadChannelDiscussionOutbox()
+    :members:

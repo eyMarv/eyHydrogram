@@ -1,0 +1,4 @@
+InlineQueryResultCachedDocument
+===============================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedDocument()

@@ -1,0 +1,5 @@
+messages.InactiveChats
+======================
+
+.. autoclass:: hydrogram.raw.base.messages.InactiveChats()
+    :members:

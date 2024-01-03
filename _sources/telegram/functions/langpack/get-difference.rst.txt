@@ -1,0 +1,5 @@
+langpack.GetDifference
+======================
+
+.. autoclass:: hydrogram.raw.functions.langpack.GetDifference()
+    :members:

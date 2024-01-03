@@ -1,0 +1,5 @@
+SecureValueTypeTemporaryRegistration
+====================================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeTemporaryRegistration()
+    :members:

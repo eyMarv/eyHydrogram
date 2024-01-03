@@ -1,0 +1,12 @@
+Users
+=====
+
+.. module:: hydrogram.raw.functions.users
+
+.. toctree::
+    :titlesonly:
+
+    GetFullUser <get-full-user>
+    GetUsers <get-users>
+    SetSecureValueErrors <set-secure-value-errors>
+

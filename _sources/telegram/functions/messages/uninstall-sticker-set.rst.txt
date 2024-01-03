@@ -1,0 +1,5 @@
+messages.UninstallStickerSet
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.UninstallStickerSet()
+    :members:

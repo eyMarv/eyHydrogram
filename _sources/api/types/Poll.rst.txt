@@ -1,0 +1,4 @@
+Poll
+====
+
+.. autoclass:: hydrogram.types.Poll()

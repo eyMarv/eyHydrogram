@@ -1,0 +1,4 @@
+User.block()
+============
+
+.. automethod:: hydrogram.types.User.block()

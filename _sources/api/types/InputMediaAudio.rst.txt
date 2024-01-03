@@ -1,0 +1,4 @@
+InputMediaAudio
+===============
+
+.. autoclass:: hydrogram.types.InputMediaAudio()

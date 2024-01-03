@@ -1,0 +1,5 @@
+PageBlockEmbedPost
+==================
+
+.. autoclass:: hydrogram.raw.types.PageBlockEmbedPost()
+    :members:

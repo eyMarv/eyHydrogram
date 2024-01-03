@@ -1,0 +1,5 @@
+UpdatesCombined
+===============
+
+.. autoclass:: hydrogram.raw.types.UpdatesCombined()
+    :members:

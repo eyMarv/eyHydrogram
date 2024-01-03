@@ -1,0 +1,5 @@
+MessagePeerVoteInputOption
+==========================
+
+.. autoclass:: hydrogram.raw.types.MessagePeerVoteInputOption()
+    :members:

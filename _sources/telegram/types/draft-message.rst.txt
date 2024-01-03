@@ -1,0 +1,5 @@
+DraftMessage
+============
+
+.. autoclass:: hydrogram.raw.types.DraftMessage()
+    :members:

@@ -1,0 +1,4 @@
+delete_channel()
+================
+
+.. automethod:: hydrogram.Client.delete_channel()

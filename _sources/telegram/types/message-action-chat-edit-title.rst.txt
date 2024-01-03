@@ -1,0 +1,5 @@
+MessageActionChatEditTitle
+==========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatEditTitle()
+    :members:

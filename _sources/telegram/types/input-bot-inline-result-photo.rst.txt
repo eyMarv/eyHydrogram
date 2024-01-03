@@ -1,0 +1,5 @@
+InputBotInlineResultPhoto
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputBotInlineResultPhoto()
+    :members:

@@ -1,0 +1,5 @@
+SendMessageRecordAudioAction
+============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageRecordAudioAction()
+    :members:

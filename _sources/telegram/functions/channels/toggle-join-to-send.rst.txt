@@ -1,0 +1,5 @@
+channels.ToggleJoinToSend
+=========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ToggleJoinToSend()
+    :members:

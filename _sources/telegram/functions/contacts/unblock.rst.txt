@@ -1,0 +1,5 @@
+contacts.Unblock
+================
+
+.. autoclass:: hydrogram.raw.functions.contacts.Unblock()
+    :members:

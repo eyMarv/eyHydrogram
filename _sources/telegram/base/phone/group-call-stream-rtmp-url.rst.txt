@@ -1,0 +1,5 @@
+phone.GroupCallStreamRtmpUrl
+============================
+
+.. autoclass:: hydrogram.raw.base.phone.GroupCallStreamRtmpUrl()
+    :members:

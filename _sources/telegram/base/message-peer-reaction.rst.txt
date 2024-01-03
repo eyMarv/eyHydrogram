@@ -1,0 +1,5 @@
+MessagePeerReaction
+===================
+
+.. autoclass:: hydrogram.raw.base.MessagePeerReaction()
+    :members:

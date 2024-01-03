@@ -1,0 +1,5 @@
+TextPhone
+=========
+
+.. autoclass:: hydrogram.raw.types.TextPhone()
+    :members:

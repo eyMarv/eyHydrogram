@@ -1,0 +1,5 @@
+PhoneCallEmpty
+==============
+
+.. autoclass:: hydrogram.raw.types.PhoneCallEmpty()
+    :members:

@@ -1,0 +1,4 @@
+ChatPrivileges
+==============
+
+.. autoclass:: hydrogram.types.ChatPrivileges()

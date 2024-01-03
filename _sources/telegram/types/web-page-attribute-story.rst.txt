@@ -1,0 +1,5 @@
+WebPageAttributeStory
+=====================
+
+.. autoclass:: hydrogram.raw.types.WebPageAttributeStory()
+    :members:

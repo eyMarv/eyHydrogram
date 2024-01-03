@@ -1,0 +1,4 @@
+User.stop_listening()
+=====================
+
+.. automethod:: hydrogram.types.User.stop_listening()

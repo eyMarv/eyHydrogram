@@ -1,0 +1,5 @@
+messages.HighScores
+===================
+
+.. autoclass:: hydrogram.raw.base.messages.HighScores()
+    :members:

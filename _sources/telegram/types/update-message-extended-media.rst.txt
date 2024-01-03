@@ -1,0 +1,5 @@
+UpdateMessageExtendedMedia
+==========================
+
+.. autoclass:: hydrogram.raw.types.UpdateMessageExtendedMedia()
+    :members:

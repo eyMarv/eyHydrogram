@@ -1,0 +1,5 @@
+InputChannel
+============
+
+.. autoclass:: hydrogram.raw.types.InputChannel()
+    :members:

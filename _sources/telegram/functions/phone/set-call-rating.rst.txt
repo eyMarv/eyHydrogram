@@ -1,0 +1,5 @@
+phone.SetCallRating
+===================
+
+.. autoclass:: hydrogram.raw.functions.phone.SetCallRating()
+    :members:

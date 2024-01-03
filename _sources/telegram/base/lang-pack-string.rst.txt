@@ -1,0 +1,5 @@
+LangPackString
+==============
+
+.. autoclass:: hydrogram.raw.base.LangPackString()
+    :members:

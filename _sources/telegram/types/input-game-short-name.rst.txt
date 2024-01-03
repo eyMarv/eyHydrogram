@@ -1,0 +1,5 @@
+InputGameShortName
+==================
+
+.. autoclass:: hydrogram.raw.types.InputGameShortName()
+    :members:

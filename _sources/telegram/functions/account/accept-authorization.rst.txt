@@ -1,0 +1,5 @@
+account.AcceptAuthorization
+===========================
+
+.. autoclass:: hydrogram.raw.functions.account.AcceptAuthorization()
+    :members:

@@ -1,0 +1,5 @@
+PageBlockCover
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockCover()
+    :members:

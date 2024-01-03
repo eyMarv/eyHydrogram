@@ -1,0 +1,4 @@
+send_dice()
+===========
+
+.. automethod:: hydrogram.Client.send_dice()

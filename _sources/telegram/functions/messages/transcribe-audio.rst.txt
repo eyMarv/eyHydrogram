@@ -1,0 +1,5 @@
+messages.TranscribeAudio
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.TranscribeAudio()
+    :members:

@@ -1,0 +1,5 @@
+PageBlockPreformatted
+=====================
+
+.. autoclass:: hydrogram.raw.types.PageBlockPreformatted()
+    :members:

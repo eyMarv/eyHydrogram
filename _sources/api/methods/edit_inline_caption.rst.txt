@@ -1,0 +1,4 @@
+edit_inline_caption()
+=====================
+
+.. automethod:: hydrogram.Client.edit_inline_caption()

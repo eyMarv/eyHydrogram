@@ -1,0 +1,5 @@
+messages.SendWebViewResultMessage
+=================================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendWebViewResultMessage()
+    :members:

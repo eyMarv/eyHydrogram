@@ -1,0 +1,5 @@
+PublicForward
+=============
+
+.. autoclass:: hydrogram.raw.base.PublicForward()
+    :members:

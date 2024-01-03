@@ -1,0 +1,5 @@
+ChannelLocation
+===============
+
+.. autoclass:: hydrogram.raw.types.ChannelLocation()
+    :members:

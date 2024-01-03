@@ -1,0 +1,5 @@
+channels.AdminLogResults
+========================
+
+.. autoclass:: hydrogram.raw.base.channels.AdminLogResults()
+    :members:

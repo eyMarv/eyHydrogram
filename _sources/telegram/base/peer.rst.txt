@@ -1,0 +1,5 @@
+Peer
+====
+
+.. autoclass:: hydrogram.raw.base.Peer()
+    :members:

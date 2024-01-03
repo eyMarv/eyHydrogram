@@ -1,0 +1,484 @@
+Available Methods
+=================
+
+This page is about Hydrogram methods. All the methods listed here are bound to a :class:`~hydrogram.Client` instance,
+except for :meth:`~hydrogram.idle()` and :meth:`~hydrogram.compose()`, which are special functions that can be found in
+the main package directly.
+
+.. code-block:: python
+
+    from hydrogram import Client
+
+    app = Client("my_account")
+
+    with app:
+        app.send_message("me", "hi")
+
+-----
+
+.. currentmodule:: hydrogram.Client
+
+Utilities
+---------
+
+.. autosummary::
+    :nosignatures:
+
+    start <start>
+    stop <stop>
+    run <run>
+    restart <restart>
+    add_handler <add_handler>
+    remove_handler <remove_handler>
+    stop_transmission <stop_transmission>
+    export_session_string <export_session_string>
+    set_parse_mode <set_parse_mode>
+
+.. toctree::
+    :hidden:
+
+    start <start>
+    stop <stop>
+    run <run>
+    restart <restart>
+    add_handler <add_handler>
+    remove_handler <remove_handler>
+    stop_transmission <stop_transmission>
+    export_session_string <export_session_string>
+    set_parse_mode <set_parse_mode>
+
+.. currentmodule:: hydrogram
+
+.. autosummary::
+    :nosignatures:
+
+    idle
+    compose
+
+.. toctree::
+    :hidden:
+
+    idle
+    compose
+
+.. currentmodule:: hydrogram.Client
+
+Messages
+--------
+
+.. autosummary::
+    :nosignatures:
+
+    send_message <send_message>
+    forward_messages <forward_messages>
+    copy_message <copy_message>
+    copy_media_group <copy_media_group>
+    send_photo <send_photo>
+    send_audio <send_audio>
+    send_document <send_document>
+    send_sticker <send_sticker>
+    send_video <send_video>
+    send_animation <send_animation>
+    send_voice <send_voice>
+    send_video_note <send_video_note>
+    send_media_group <send_media_group>
+    send_location <send_location>
+    send_venue <send_venue>
+    send_contact <send_contact>
+    send_cached_media <send_cached_media>
+    send_reaction <send_reaction>
+    edit_message_text <edit_message_text>
+    edit_message_caption <edit_message_caption>
+    edit_message_media <edit_message_media>
+    edit_message_reply_markup <edit_message_reply_markup>
+    edit_inline_text <edit_inline_text>
+    edit_inline_caption <edit_inline_caption>
+    edit_inline_media <edit_inline_media>
+    edit_inline_reply_markup <edit_inline_reply_markup>
+    send_chat_action <send_chat_action>
+    delete_messages <delete_messages>
+    get_messages <get_messages>
+    get_media_group <get_media_group>
+    get_chat_history <get_chat_history>
+    get_chat_history_count <get_chat_history_count>
+    read_chat_history <read_chat_history>
+    send_poll <send_poll>
+    vote_poll <vote_poll>
+    stop_poll <stop_poll>
+    retract_vote <retract_vote>
+    send_dice <send_dice>
+    search_messages <search_messages>
+    search_messages_count <search_messages_count>
+    search_global <search_global>
+    search_global_count <search_global_count>
+    download_media <download_media>
+    stream_media <stream_media>
+    get_discussion_message <get_discussion_message>
+    get_discussion_replies <get_discussion_replies>
+    get_discussion_replies_count <get_discussion_replies_count>
+    get_custom_emoji_stickers <get_custom_emoji_stickers>
+
+.. toctree::
+    :hidden:
+
+    send_message <send_message>
+    forward_messages <forward_messages>
+    copy_message <copy_message>
+    copy_media_group <copy_media_group>
+    send_photo <send_photo>
+    send_audio <send_audio>
+    send_document <send_document>
+    send_sticker <send_sticker>
+    send_video <send_video>
+    send_animation <send_animation>
+    send_voice <send_voice>
+    send_video_note <send_video_note>
+    send_media_group <send_media_group>
+    send_location <send_location>
+    send_venue <send_venue>
+    send_contact <send_contact>
+    send_cached_media <send_cached_media>
+    send_reaction <send_reaction>
+    edit_message_text <edit_message_text>
+    edit_message_caption <edit_message_caption>
+    edit_message_media <edit_message_media>
+    edit_message_reply_markup <edit_message_reply_markup>
+    edit_inline_text <edit_inline_text>
+    edit_inline_caption <edit_inline_caption>
+    edit_inline_media <edit_inline_media>
+    edit_inline_reply_markup <edit_inline_reply_markup>
+    send_chat_action <send_chat_action>
+    delete_messages <delete_messages>
+    get_messages <get_messages>
+    get_media_group <get_media_group>
+    get_chat_history <get_chat_history>
+    get_chat_history_count <get_chat_history_count>
+    read_chat_history <read_chat_history>
+    send_poll <send_poll>
+    vote_poll <vote_poll>
+    stop_poll <stop_poll>
+    retract_vote <retract_vote>
+    send_dice <send_dice>
+    search_messages <search_messages>
+    search_messages_count <search_messages_count>
+    search_global <search_global>
+    search_global_count <search_global_count>
+    download_media <download_media>
+    stream_media <stream_media>
+    get_discussion_message <get_discussion_message>
+    get_discussion_replies <get_discussion_replies>
+    get_discussion_replies_count <get_discussion_replies_count>
+    get_custom_emoji_stickers <get_custom_emoji_stickers>
+
+Chats
+-----
+
+.. autosummary::
+    :nosignatures:
+
+    join_chat <join_chat>
+    leave_chat <leave_chat>
+    ban_chat_member <ban_chat_member>
+    unban_chat_member <unban_chat_member>
+    restrict_chat_member <restrict_chat_member>
+    promote_chat_member <promote_chat_member>
+    set_administrator_title <set_administrator_title>
+    set_chat_photo <set_chat_photo>
+    delete_chat_photo <delete_chat_photo>
+    set_chat_title <set_chat_title>
+    set_chat_description <set_chat_description>
+    set_chat_permissions <set_chat_permissions>
+    pin_chat_message <pin_chat_message>
+    unpin_chat_message <unpin_chat_message>
+    unpin_all_chat_messages <unpin_all_chat_messages>
+    get_chat <get_chat>
+    get_chat_member <get_chat_member>
+    get_chat_members <get_chat_members>
+    get_chat_members_count <get_chat_members_count>
+    get_dialogs <get_dialogs>
+    get_dialogs_count <get_dialogs_count>
+    set_chat_username <set_chat_username>
+    get_nearby_chats <get_nearby_chats>
+    archive_chats <archive_chats>
+    unarchive_chats <unarchive_chats>
+    add_chat_members <add_chat_members>
+    create_channel <create_channel>
+    create_group <create_group>
+    create_supergroup <create_supergroup>
+    delete_channel <delete_channel>
+    delete_supergroup <delete_supergroup>
+    delete_user_history <delete_user_history>
+    set_slow_mode <set_slow_mode>
+    mark_chat_unread <mark_chat_unread>
+    get_chat_event_log <get_chat_event_log>
+    get_chat_online_count <get_chat_online_count>
+    get_send_as_chats <get_send_as_chats>
+    set_send_as_chat <set_send_as_chat>
+    set_chat_protected_content <set_chat_protected_content>
+
+.. toctree::
+    :hidden:
+
+    join_chat <join_chat>
+    leave_chat <leave_chat>
+    ban_chat_member <ban_chat_member>
+    unban_chat_member <unban_chat_member>
+    restrict_chat_member <restrict_chat_member>
+    promote_chat_member <promote_chat_member>
+    set_administrator_title <set_administrator_title>
+    set_chat_photo <set_chat_photo>
+    delete_chat_photo <delete_chat_photo>
+    set_chat_title <set_chat_title>
+    set_chat_description <set_chat_description>
+    set_chat_permissions <set_chat_permissions>
+    pin_chat_message <pin_chat_message>
+    unpin_chat_message <unpin_chat_message>
+    unpin_all_chat_messages <unpin_all_chat_messages>
+    get_chat <get_chat>
+    get_chat_member <get_chat_member>
+    get_chat_members <get_chat_members>
+    get_chat_members_count <get_chat_members_count>
+    get_dialogs <get_dialogs>
+    get_dialogs_count <get_dialogs_count>
+    set_chat_username <set_chat_username>
+    get_nearby_chats <get_nearby_chats>
+    archive_chats <archive_chats>
+    unarchive_chats <unarchive_chats>
+    add_chat_members <add_chat_members>
+    create_channel <create_channel>
+    create_group <create_group>
+    create_supergroup <create_supergroup>
+    delete_channel <delete_channel>
+    delete_supergroup <delete_supergroup>
+    delete_user_history <delete_user_history>
+    set_slow_mode <set_slow_mode>
+    mark_chat_unread <mark_chat_unread>
+    get_chat_event_log <get_chat_event_log>
+    get_chat_online_count <get_chat_online_count>
+    get_send_as_chats <get_send_as_chats>
+    set_send_as_chat <set_send_as_chat>
+    set_chat_protected_content <set_chat_protected_content>
+
+Users
+-----
+
+.. autosummary::
+    :nosignatures:
+
+    get_me <get_me>
+    get_users <get_users>
+    get_chat_photos <get_chat_photos>
+    get_chat_photos_count <get_chat_photos_count>
+    set_profile_photo <set_profile_photo>
+    delete_profile_photos <delete_profile_photos>
+    set_username <set_username>
+    update_profile <update_profile>
+    block_user <block_user>
+    unblock_user <unblock_user>
+    get_common_chats <get_common_chats>
+    get_default_emoji_statuses <get_default_emoji_statuses>
+    set_emoji_status <set_emoji_status>
+
+.. toctree::
+    :hidden:
+
+    get_me <get_me>
+    get_users <get_users>
+    get_chat_photos <get_chat_photos>
+    get_chat_photos_count <get_chat_photos_count>
+    set_profile_photo <set_profile_photo>
+    delete_profile_photos <delete_profile_photos>
+    set_username <set_username>
+    update_profile <update_profile>
+    block_user <block_user>
+    unblock_user <unblock_user>
+    get_common_chats <get_common_chats>
+    get_default_emoji_statuses <get_default_emoji_statuses>
+    set_emoji_status <set_emoji_status>
+
+Invite Links
+------------
+
+.. autosummary::
+    :nosignatures:
+
+    get_chat_invite_link <get_chat_invite_link>
+    export_chat_invite_link <export_chat_invite_link>
+    create_chat_invite_link <create_chat_invite_link>
+    edit_chat_invite_link <edit_chat_invite_link>
+    revoke_chat_invite_link <revoke_chat_invite_link>
+    delete_chat_invite_link <delete_chat_invite_link>
+    get_chat_invite_link_joiners <get_chat_invite_link_joiners>
+    get_chat_invite_link_joiners_count <get_chat_invite_link_joiners_count>
+    get_chat_admin_invite_links <get_chat_admin_invite_links>
+    get_chat_admin_invite_links_count <get_chat_admin_invite_links_count>
+    get_chat_admins_with_invite_links <get_chat_admins_with_invite_links>
+    get_chat_join_requests <get_chat_join_requests>
+    delete_chat_admin_invite_links <delete_chat_admin_invite_links>
+    approve_chat_join_request <approve_chat_join_request>
+    approve_all_chat_join_requests <approve_all_chat_join_requests>
+    decline_chat_join_request <decline_chat_join_request>
+    decline_all_chat_join_requests <decline_all_chat_join_requests>
+
+.. toctree::
+    :hidden:
+
+    get_chat_invite_link <get_chat_invite_link>
+    export_chat_invite_link <export_chat_invite_link>
+    create_chat_invite_link <create_chat_invite_link>
+    edit_chat_invite_link <edit_chat_invite_link>
+    revoke_chat_invite_link <revoke_chat_invite_link>
+    delete_chat_invite_link <delete_chat_invite_link>
+    get_chat_invite_link_joiners <get_chat_invite_link_joiners>
+    get_chat_invite_link_joiners_count <get_chat_invite_link_joiners_count>
+    get_chat_admin_invite_links <get_chat_admin_invite_links>
+    get_chat_admin_invite_links_count <get_chat_admin_invite_links_count>
+    get_chat_admins_with_invite_links <get_chat_admins_with_invite_links>
+    get_chat_join_requests <get_chat_join_requests>
+    delete_chat_admin_invite_links <delete_chat_admin_invite_links>
+    approve_chat_join_request <approve_chat_join_request>
+    approve_all_chat_join_requests <approve_all_chat_join_requests>
+    decline_chat_join_request <decline_chat_join_request>
+    decline_all_chat_join_requests <decline_all_chat_join_requests>
+
+Contacts
+--------
+
+.. autosummary::
+    :nosignatures:
+
+    add_contact <add_contact>
+    delete_contacts <delete_contacts>
+    import_contacts <import_contacts>
+    get_contacts <get_contacts>
+    get_contacts_count <get_contacts_count>
+
+.. toctree::
+    :hidden:
+
+    add_contact <add_contact>
+    delete_contacts <delete_contacts>
+    import_contacts <import_contacts>
+    get_contacts <get_contacts>
+    get_contacts_count <get_contacts_count>
+
+Password
+--------
+
+.. autosummary::
+    :nosignatures:
+
+    enable_cloud_password <enable_cloud_password>
+    change_cloud_password <change_cloud_password>
+    remove_cloud_password <remove_cloud_password>
+
+.. toctree::
+    :hidden:
+
+    enable_cloud_password <enable_cloud_password>
+    change_cloud_password <change_cloud_password>
+    remove_cloud_password <remove_cloud_password>
+
+Bots
+----
+
+.. autosummary::
+    :nosignatures:
+
+    get_inline_bot_results <get_inline_bot_results>
+    send_inline_bot_result <send_inline_bot_result>
+    answer_callback_query <answer_callback_query>
+    answer_inline_query <answer_inline_query>
+    request_callback_answer <request_callback_answer>
+    send_game <send_game>
+    set_game_score <set_game_score>
+    get_game_high_scores <get_game_high_scores>
+    set_bot_commands <set_bot_commands>
+    get_bot_commands <get_bot_commands>
+    delete_bot_commands <delete_bot_commands>
+    set_bot_default_privileges <set_bot_default_privileges>
+    get_bot_default_privileges <get_bot_default_privileges>
+    set_chat_menu_button <set_chat_menu_button>
+    get_chat_menu_button <get_chat_menu_button>
+    answer_web_app_query <answer_web_app_query>
+
+.. toctree::
+    :hidden:
+
+    get_inline_bot_results <get_inline_bot_results>
+    send_inline_bot_result <send_inline_bot_result>
+    answer_callback_query <answer_callback_query>
+    answer_inline_query <answer_inline_query>
+    request_callback_answer <request_callback_answer>
+    send_game <send_game>
+    set_game_score <set_game_score>
+    get_game_high_scores <get_game_high_scores>
+    set_bot_commands <set_bot_commands>
+    get_bot_commands <get_bot_commands>
+    delete_bot_commands <delete_bot_commands>
+    set_bot_default_privileges <set_bot_default_privileges>
+    get_bot_default_privileges <get_bot_default_privileges>
+    set_chat_menu_button <set_chat_menu_button>
+    get_chat_menu_button <get_chat_menu_button>
+    answer_web_app_query <answer_web_app_query>
+
+Authorization
+-------------
+
+.. autosummary::
+    :nosignatures:
+
+    connect <connect>
+    disconnect <disconnect>
+    initialize <initialize>
+    terminate <terminate>
+    send_code <send_code>
+    resend_code <resend_code>
+    sign_in <sign_in>
+    sign_in_bot <sign_in_bot>
+    sign_up <sign_up>
+    get_password_hint <get_password_hint>
+    check_password <check_password>
+    send_recovery_code <send_recovery_code>
+    recover_password <recover_password>
+    accept_terms_of_service <accept_terms_of_service>
+    log_out <log_out>
+
+.. toctree::
+    :hidden:
+
+    connect <connect>
+    disconnect <disconnect>
+    initialize <initialize>
+    terminate <terminate>
+    send_code <send_code>
+    resend_code <resend_code>
+    sign_in <sign_in>
+    sign_in_bot <sign_in_bot>
+    sign_up <sign_up>
+    get_password_hint <get_password_hint>
+    check_password <check_password>
+    send_recovery_code <send_recovery_code>
+    recover_password <recover_password>
+    accept_terms_of_service <accept_terms_of_service>
+    log_out <log_out>
+
+Advanced
+--------
+
+Methods used only when dealing with the raw Telegram API.
+Learn more about how to use the raw API at :doc:`Advanced Usage <../../topics/advanced-usage>`.
+
+.. autosummary::
+    :nosignatures:
+
+    invoke <invoke>
+    resolve_peer <resolve_peer>
+    save_file <save_file>
+
+.. toctree::
+    :hidden:
+
+    invoke <invoke>
+    resolve_peer <resolve_peer>
+    save_file <save_file>

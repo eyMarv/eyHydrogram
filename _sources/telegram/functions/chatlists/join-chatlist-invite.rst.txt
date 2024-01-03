@@ -1,0 +1,5 @@
+chatlists.JoinChatlistInvite
+============================
+
+.. autoclass:: hydrogram.raw.functions.chatlists.JoinChatlistInvite()
+    :members:

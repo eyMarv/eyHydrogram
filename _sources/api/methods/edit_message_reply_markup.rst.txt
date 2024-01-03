@@ -1,0 +1,4 @@
+edit_message_reply_markup()
+===========================
+
+.. automethod:: hydrogram.Client.edit_message_reply_markup()

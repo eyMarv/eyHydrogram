@@ -1,0 +1,4 @@
+accept_terms_of_service()
+=========================
+
+.. automethod:: hydrogram.Client.accept_terms_of_service()

@@ -1,0 +1,5 @@
+InputNotifyBroadcasts
+=====================
+
+.. autoclass:: hydrogram.raw.types.InputNotifyBroadcasts()
+    :members:

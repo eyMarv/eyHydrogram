@@ -1,0 +1,5 @@
+UpdatePeerLocated
+=================
+
+.. autoclass:: hydrogram.raw.types.UpdatePeerLocated()
+    :members:

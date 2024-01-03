@@ -1,0 +1,5 @@
+messages.EditChatTitle
+======================
+
+.. autoclass:: hydrogram.raw.functions.messages.EditChatTitle()
+    :members:

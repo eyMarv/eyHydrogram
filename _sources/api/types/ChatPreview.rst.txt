@@ -1,0 +1,4 @@
+ChatPreview
+===========
+
+.. autoclass:: hydrogram.types.ChatPreview()

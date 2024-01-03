@@ -1,0 +1,5 @@
+InputKeyboardButtonUrlAuth
+==========================
+
+.. autoclass:: hydrogram.raw.types.InputKeyboardButtonUrlAuth()
+    :members:

@@ -1,0 +1,5 @@
+channels.EditBanned
+===================
+
+.. autoclass:: hydrogram.raw.functions.channels.EditBanned()
+    :members:

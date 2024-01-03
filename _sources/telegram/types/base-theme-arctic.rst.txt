@@ -1,0 +1,5 @@
+BaseThemeArctic
+===============
+
+.. autoclass:: hydrogram.raw.types.BaseThemeArctic()
+    :members:

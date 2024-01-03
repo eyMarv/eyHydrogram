@@ -1,0 +1,5 @@
+stickers.DeleteStickerSet
+=========================
+
+.. autoclass:: hydrogram.raw.functions.stickers.DeleteStickerSet()
+    :members:

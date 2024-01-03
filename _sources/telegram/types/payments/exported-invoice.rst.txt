@@ -1,0 +1,5 @@
+payments.ExportedInvoice
+========================
+
+.. autoclass:: hydrogram.raw.types.payments.ExportedInvoice()
+    :members:

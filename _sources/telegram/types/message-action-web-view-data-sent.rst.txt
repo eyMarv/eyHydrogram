@@ -1,0 +1,5 @@
+MessageActionWebViewDataSent
+============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionWebViewDataSent()
+    :members:

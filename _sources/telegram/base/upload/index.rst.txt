@@ -1,0 +1,12 @@
+Upload
+======
+
+.. module:: hydrogram.raw.base.upload
+
+.. toctree::
+    :titlesonly:
+
+    CdnFile <cdn-file>
+    File <file>
+    WebFile <web-file>
+

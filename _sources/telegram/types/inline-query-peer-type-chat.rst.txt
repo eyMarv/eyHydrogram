@@ -1,0 +1,5 @@
+InlineQueryPeerTypeChat
+=======================
+
+.. autoclass:: hydrogram.raw.types.InlineQueryPeerTypeChat()
+    :members:

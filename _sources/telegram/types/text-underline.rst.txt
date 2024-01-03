@@ -1,0 +1,5 @@
+TextUnderline
+=============
+
+.. autoclass:: hydrogram.raw.types.TextUnderline()
+    :members:

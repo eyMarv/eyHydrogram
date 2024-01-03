@@ -1,0 +1,4 @@
+send_animation()
+================
+
+.. automethod:: hydrogram.Client.send_animation()

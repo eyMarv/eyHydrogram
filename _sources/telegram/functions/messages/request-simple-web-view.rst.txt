@@ -1,0 +1,5 @@
+messages.RequestSimpleWebView
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.RequestSimpleWebView()
+    :members:

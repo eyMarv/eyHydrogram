@@ -1,0 +1,5 @@
+FolderPeer
+==========
+
+.. autoclass:: hydrogram.raw.base.FolderPeer()
+    :members:

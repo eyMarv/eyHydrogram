@@ -1,0 +1,5 @@
+messages.ReadEncryptedHistory
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReadEncryptedHistory()
+    :members:

@@ -1,0 +1,5 @@
+messages.FavedStickers
+======================
+
+.. autoclass:: hydrogram.raw.types.messages.FavedStickers()
+    :members:

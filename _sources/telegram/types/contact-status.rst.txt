@@ -1,0 +1,5 @@
+ContactStatus
+=============
+
+.. autoclass:: hydrogram.raw.types.ContactStatus()
+    :members:

@@ -1,0 +1,5 @@
+InvokeWithTakeout
+=================
+
+.. autoclass:: hydrogram.raw.functions.InvokeWithTakeout()
+    :members:

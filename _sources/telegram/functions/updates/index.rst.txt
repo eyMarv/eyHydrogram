@@ -1,0 +1,12 @@
+Updates
+=======
+
+.. module:: hydrogram.raw.functions.updates
+
+.. toctree::
+    :titlesonly:
+
+    GetChannelDifference <get-channel-difference>
+    GetDifference <get-difference>
+    GetState <get-state>
+

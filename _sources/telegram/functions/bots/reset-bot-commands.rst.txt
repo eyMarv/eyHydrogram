@@ -1,0 +1,5 @@
+bots.ResetBotCommands
+=====================
+
+.. autoclass:: hydrogram.raw.functions.bots.ResetBotCommands()
+    :members:

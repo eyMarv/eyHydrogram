@@ -1,0 +1,5 @@
+PrivacyKeyChatInvite
+====================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyChatInvite()
+    :members:

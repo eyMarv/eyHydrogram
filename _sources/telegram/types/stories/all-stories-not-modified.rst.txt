@@ -1,0 +1,5 @@
+stories.AllStoriesNotModified
+=============================
+
+.. autoclass:: hydrogram.raw.types.stories.AllStoriesNotModified()
+    :members:

@@ -1,0 +1,5 @@
+WebPageEmpty
+============
+
+.. autoclass:: hydrogram.raw.types.WebPageEmpty()
+    :members:

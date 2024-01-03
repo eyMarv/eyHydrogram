@@ -1,0 +1,5 @@
+messages.ClearAllDrafts
+=======================
+
+.. autoclass:: hydrogram.raw.functions.messages.ClearAllDrafts()
+    :members:

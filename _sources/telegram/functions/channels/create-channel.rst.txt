@@ -1,0 +1,5 @@
+channels.CreateChannel
+======================
+
+.. autoclass:: hydrogram.raw.functions.channels.CreateChannel()
+    :members:

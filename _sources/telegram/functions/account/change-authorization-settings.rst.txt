@@ -1,0 +1,5 @@
+account.ChangeAuthorizationSettings
+===================================
+
+.. autoclass:: hydrogram.raw.functions.account.ChangeAuthorizationSettings()
+    :members:

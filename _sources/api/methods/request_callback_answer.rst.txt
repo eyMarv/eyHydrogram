@@ -1,0 +1,4 @@
+request_callback_answer()
+=========================
+
+.. automethod:: hydrogram.Client.request_callback_answer()

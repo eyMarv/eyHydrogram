@@ -1,0 +1,5 @@
+InputBotAppID
+=============
+
+.. autoclass:: hydrogram.raw.types.InputBotAppID()
+    :members:

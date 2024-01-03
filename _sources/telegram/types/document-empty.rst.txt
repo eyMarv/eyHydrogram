@@ -1,0 +1,5 @@
+DocumentEmpty
+=============
+
+.. autoclass:: hydrogram.raw.types.DocumentEmpty()
+    :members:

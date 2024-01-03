@@ -1,0 +1,5 @@
+InputBotInlineMessageID64
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputBotInlineMessageID64()
+    :members:

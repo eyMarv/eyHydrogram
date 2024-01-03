@@ -1,0 +1,5 @@
+contacts.BlockedSlice
+=====================
+
+.. autoclass:: hydrogram.raw.types.contacts.BlockedSlice()
+    :members:

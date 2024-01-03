@@ -1,0 +1,5 @@
+StoriesStealthMode
+==================
+
+.. autoclass:: hydrogram.raw.types.StoriesStealthMode()
+    :members:

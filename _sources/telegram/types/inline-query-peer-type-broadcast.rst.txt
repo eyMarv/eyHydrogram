@@ -1,0 +1,5 @@
+InlineQueryPeerTypeBroadcast
+============================
+
+.. autoclass:: hydrogram.raw.types.InlineQueryPeerTypeBroadcast()
+    :members:

@@ -1,0 +1,5 @@
+InputMessageReplyTo
+===================
+
+.. autoclass:: hydrogram.raw.types.InputMessageReplyTo()
+    :members:

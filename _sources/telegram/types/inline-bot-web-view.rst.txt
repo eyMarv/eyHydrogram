@@ -1,0 +1,5 @@
+InlineBotWebView
+================
+
+.. autoclass:: hydrogram.raw.types.InlineBotWebView()
+    :members:

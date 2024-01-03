@@ -1,0 +1,5 @@
+InputPeer
+=========
+
+.. autoclass:: hydrogram.raw.base.InputPeer()
+    :members:

@@ -1,0 +1,5 @@
+bots.GetBotCommands
+===================
+
+.. autoclass:: hydrogram.raw.functions.bots.GetBotCommands()
+    :members:

@@ -1,0 +1,5 @@
+TextAnchor
+==========
+
+.. autoclass:: hydrogram.raw.types.TextAnchor()
+    :members:

@@ -1,0 +1,5 @@
+BotInlineMessageMediaInvoice
+============================
+
+.. autoclass:: hydrogram.raw.types.BotInlineMessageMediaInvoice()
+    :members:

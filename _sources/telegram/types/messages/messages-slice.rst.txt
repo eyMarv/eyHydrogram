@@ -1,0 +1,5 @@
+messages.MessagesSlice
+======================
+
+.. autoclass:: hydrogram.raw.types.messages.MessagesSlice()
+    :members:

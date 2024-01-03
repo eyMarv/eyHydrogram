@@ -1,0 +1,4 @@
+CallbackQuery
+=============
+
+.. autoclass:: hydrogram.types.CallbackQuery()

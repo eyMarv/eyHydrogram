@@ -1,0 +1,5 @@
+Document
+========
+
+.. autoclass:: hydrogram.raw.types.Document()
+    :members:

@@ -1,0 +1,4 @@
+initialize()
+============
+
+.. automethod:: hydrogram.Client.initialize()

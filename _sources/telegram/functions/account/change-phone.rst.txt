@@ -1,0 +1,5 @@
+account.ChangePhone
+===================
+
+.. autoclass:: hydrogram.raw.functions.account.ChangePhone()
+    :members:

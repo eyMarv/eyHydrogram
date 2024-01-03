@@ -1,0 +1,4 @@
+Chat.ask()
+==========
+
+.. automethod:: hydrogram.types.Chat.ask()

@@ -1,0 +1,5 @@
+PageBlockChannel
+================
+
+.. autoclass:: hydrogram.raw.types.PageBlockChannel()
+    :members:

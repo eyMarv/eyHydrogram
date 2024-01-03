@@ -1,0 +1,5 @@
+auth.LoginTokenSuccess
+======================
+
+.. autoclass:: hydrogram.raw.types.auth.LoginTokenSuccess()
+    :members:

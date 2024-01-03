@@ -1,0 +1,5 @@
+BotInlineMediaResult
+====================
+
+.. autoclass:: hydrogram.raw.types.BotInlineMediaResult()
+    :members:

@@ -1,0 +1,5 @@
+contacts.BlockFromReplies
+=========================
+
+.. autoclass:: hydrogram.raw.functions.contacts.BlockFromReplies()
+    :members:

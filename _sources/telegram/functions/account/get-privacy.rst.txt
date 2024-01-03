@@ -1,0 +1,5 @@
+account.GetPrivacy
+==================
+
+.. autoclass:: hydrogram.raw.functions.account.GetPrivacy()
+    :members:

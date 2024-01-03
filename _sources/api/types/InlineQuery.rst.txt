@@ -1,0 +1,4 @@
+InlineQuery
+===========
+
+.. autoclass:: hydrogram.types.InlineQuery()

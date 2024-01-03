@@ -1,0 +1,5 @@
+stories.DeleteStories
+=====================
+
+.. autoclass:: hydrogram.raw.functions.stories.DeleteStories()
+    :members:

@@ -1,0 +1,5 @@
+RestrictionReason
+=================
+
+.. autoclass:: hydrogram.raw.base.RestrictionReason()
+    :members:

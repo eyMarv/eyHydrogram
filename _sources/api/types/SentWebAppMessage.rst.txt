@@ -1,0 +1,4 @@
+SentWebAppMessage
+=================
+
+.. autoclass:: hydrogram.types.SentWebAppMessage()

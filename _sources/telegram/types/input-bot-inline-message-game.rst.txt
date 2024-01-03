@@ -1,0 +1,5 @@
+InputBotInlineMessageGame
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputBotInlineMessageGame()
+    :members:

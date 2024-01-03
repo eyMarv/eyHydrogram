@@ -1,0 +1,5 @@
+auth.ImportAuthorization
+========================
+
+.. autoclass:: hydrogram.raw.functions.auth.ImportAuthorization()
+    :members:

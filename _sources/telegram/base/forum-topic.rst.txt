@@ -1,0 +1,5 @@
+ForumTopic
+==========
+
+.. autoclass:: hydrogram.raw.base.ForumTopic()
+    :members:

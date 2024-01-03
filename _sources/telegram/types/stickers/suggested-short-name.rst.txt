@@ -1,0 +1,5 @@
+stickers.SuggestedShortName
+===========================
+
+.. autoclass:: hydrogram.raw.types.stickers.SuggestedShortName()
+    :members:

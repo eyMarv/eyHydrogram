@@ -1,0 +1,4 @@
+InlineQueryResultCachedAnimation
+================================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedAnimation()

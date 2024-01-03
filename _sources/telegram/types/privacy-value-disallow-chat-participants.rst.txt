@@ -1,0 +1,5 @@
+PrivacyValueDisallowChatParticipants
+====================================
+
+.. autoclass:: hydrogram.raw.types.PrivacyValueDisallowChatParticipants()
+    :members:

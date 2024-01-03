@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantUnmute
+===========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantUnmute()
+    :members:

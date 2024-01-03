@@ -1,0 +1,5 @@
+MessageEntityUnderline
+======================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityUnderline()
+    :members:

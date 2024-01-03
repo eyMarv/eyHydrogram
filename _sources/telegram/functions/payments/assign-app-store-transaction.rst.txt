@@ -1,0 +1,5 @@
+payments.AssignAppStoreTransaction
+==================================
+
+.. autoclass:: hydrogram.raw.functions.payments.AssignAppStoreTransaction()
+    :members:

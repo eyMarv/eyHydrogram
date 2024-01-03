@@ -1,0 +1,5 @@
+UpdateEncryptedMessagesRead
+===========================
+
+.. autoclass:: hydrogram.raw.types.UpdateEncryptedMessagesRead()
+    :members:

@@ -1,0 +1,5 @@
+EmailVerificationApple
+======================
+
+.. autoclass:: hydrogram.raw.types.EmailVerificationApple()
+    :members:

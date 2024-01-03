@@ -1,0 +1,5 @@
+payments.CanPurchasePremium
+===========================
+
+.. autoclass:: hydrogram.raw.functions.payments.CanPurchasePremium()
+    :members:

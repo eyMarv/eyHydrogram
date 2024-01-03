@@ -1,0 +1,5 @@
+messages.GetPollResults
+=======================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetPollResults()
+    :members:

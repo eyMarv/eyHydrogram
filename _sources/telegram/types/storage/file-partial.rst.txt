@@ -1,0 +1,5 @@
+storage.FilePartial
+===================
+
+.. autoclass:: hydrogram.raw.types.storage.FilePartial()
+    :members:

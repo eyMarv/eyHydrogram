@@ -1,0 +1,5 @@
+messages.StickerSetInstallResultSuccess
+=======================================
+
+.. autoclass:: hydrogram.raw.types.messages.StickerSetInstallResultSuccess()
+    :members:

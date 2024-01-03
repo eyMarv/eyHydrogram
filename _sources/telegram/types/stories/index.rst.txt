@@ -1,0 +1,16 @@
+Stories
+=======
+
+.. module:: hydrogram.raw.types.stories
+
+.. toctree::
+    :titlesonly:
+
+    AllStories <all-stories>
+    AllStoriesNotModified <all-stories-not-modified>
+    PeerStories <peer-stories>
+    Stories <stories>
+    StoryReactionsList <story-reactions-list>
+    StoryViews <story-views>
+    StoryViewsList <story-views-list>
+

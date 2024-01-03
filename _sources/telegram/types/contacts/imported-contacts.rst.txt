@@ -1,0 +1,5 @@
+contacts.ImportedContacts
+=========================
+
+.. autoclass:: hydrogram.raw.types.contacts.ImportedContacts()
+    :members:

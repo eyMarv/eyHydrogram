@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantToggleAdmin
+================================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantToggleAdmin()
+    :members:

@@ -1,0 +1,5 @@
+messages.BotResults
+===================
+
+.. autoclass:: hydrogram.raw.base.messages.BotResults()
+    :members:

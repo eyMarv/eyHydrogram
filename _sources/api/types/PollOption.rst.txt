@@ -1,0 +1,4 @@
+PollOption
+==========
+
+.. autoclass:: hydrogram.types.PollOption()

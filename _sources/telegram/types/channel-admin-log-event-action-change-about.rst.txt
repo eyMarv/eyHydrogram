@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeAbout
+=====================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeAbout()
+    :members:

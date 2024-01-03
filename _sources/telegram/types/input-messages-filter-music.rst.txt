@@ -1,0 +1,5 @@
+InputMessagesFilterMusic
+========================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterMusic()
+    :members:

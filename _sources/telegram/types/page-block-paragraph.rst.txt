@@ -1,0 +1,5 @@
+PageBlockParagraph
+==================
+
+.. autoclass:: hydrogram.raw.types.PageBlockParagraph()
+    :members:

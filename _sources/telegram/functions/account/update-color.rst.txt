@@ -1,0 +1,5 @@
+account.UpdateColor
+===================
+
+.. autoclass:: hydrogram.raw.functions.account.UpdateColor()
+    :members:

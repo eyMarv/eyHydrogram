@@ -1,0 +1,4 @@
+BotCommandScopeAllPrivateChats
+==============================
+
+.. autoclass:: hydrogram.types.BotCommandScopeAllPrivateChats()

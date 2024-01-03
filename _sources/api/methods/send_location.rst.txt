@@ -1,0 +1,4 @@
+send_location()
+===============
+
+.. automethod:: hydrogram.Client.send_location()

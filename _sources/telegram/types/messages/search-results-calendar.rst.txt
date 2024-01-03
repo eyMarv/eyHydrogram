@@ -1,0 +1,5 @@
+messages.SearchResultsCalendar
+==============================
+
+.. autoclass:: hydrogram.raw.types.messages.SearchResultsCalendar()
+    :members:

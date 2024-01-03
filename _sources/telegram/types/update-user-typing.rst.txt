@@ -1,0 +1,5 @@
+UpdateUserTyping
+================
+
+.. autoclass:: hydrogram.raw.types.UpdateUserTyping()
+    :members:

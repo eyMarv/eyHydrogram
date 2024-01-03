@@ -1,0 +1,4 @@
+send_chat_action()
+==================
+
+.. automethod:: hydrogram.Client.send_chat_action()

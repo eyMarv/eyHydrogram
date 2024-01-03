@@ -1,0 +1,5 @@
+InputPrivacyValueDisallowContacts
+=================================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyValueDisallowContacts()
+    :members:

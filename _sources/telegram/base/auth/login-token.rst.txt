@@ -1,0 +1,5 @@
+auth.LoginToken
+===============
+
+.. autoclass:: hydrogram.raw.base.auth.LoginToken()
+    :members:

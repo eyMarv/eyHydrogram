@@ -1,0 +1,5 @@
+account.SavedRingtone
+=====================
+
+.. autoclass:: hydrogram.raw.types.account.SavedRingtone()
+    :members:

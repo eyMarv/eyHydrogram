@@ -1,0 +1,5 @@
+MessageMedia
+============
+
+.. autoclass:: hydrogram.raw.base.MessageMedia()
+    :members:

@@ -1,0 +1,5 @@
+messages.ReceivedMessages
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReceivedMessages()
+    :members:

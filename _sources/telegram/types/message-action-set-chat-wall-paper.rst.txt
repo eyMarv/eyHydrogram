@@ -1,0 +1,5 @@
+MessageActionSetChatWallPaper
+=============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionSetChatWallPaper()
+    :members:

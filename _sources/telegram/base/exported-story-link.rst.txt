@@ -1,0 +1,5 @@
+ExportedStoryLink
+=================
+
+.. autoclass:: hydrogram.raw.base.ExportedStoryLink()
+    :members:

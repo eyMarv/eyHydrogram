@@ -1,0 +1,5 @@
+WebDocumentNoProxy
+==================
+
+.. autoclass:: hydrogram.raw.types.WebDocumentNoProxy()
+    :members:

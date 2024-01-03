@@ -1,0 +1,5 @@
+contacts.TopPeersNotModified
+============================
+
+.. autoclass:: hydrogram.raw.types.contacts.TopPeersNotModified()
+    :members:

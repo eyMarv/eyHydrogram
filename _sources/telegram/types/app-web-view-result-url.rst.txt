@@ -1,0 +1,5 @@
+AppWebViewResultUrl
+===================
+
+.. autoclass:: hydrogram.raw.types.AppWebViewResultUrl()
+    :members:

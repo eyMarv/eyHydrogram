@@ -1,0 +1,4 @@
+Venue
+=====
+
+.. autoclass:: hydrogram.types.Venue()

@@ -1,0 +1,5 @@
+GroupCallStreamChannel
+======================
+
+.. autoclass:: hydrogram.raw.base.GroupCallStreamChannel()
+    :members:

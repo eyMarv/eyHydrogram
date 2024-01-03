@@ -1,0 +1,5 @@
+InputMessagesFilterRoundVideo
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterRoundVideo()
+    :members:

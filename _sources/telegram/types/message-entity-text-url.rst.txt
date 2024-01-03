@@ -1,0 +1,5 @@
+MessageEntityTextUrl
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityTextUrl()
+    :members:

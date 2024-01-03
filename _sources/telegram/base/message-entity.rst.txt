@@ -1,0 +1,5 @@
+MessageEntity
+=============
+
+.. autoclass:: hydrogram.raw.base.MessageEntity()
+    :members:

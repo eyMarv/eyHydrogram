@@ -1,0 +1,5 @@
+SecureValueTypePhone
+====================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypePhone()
+    :members:

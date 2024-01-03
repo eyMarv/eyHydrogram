@@ -1,0 +1,5 @@
+TextStrike
+==========
+
+.. autoclass:: hydrogram.raw.types.TextStrike()
+    :members:

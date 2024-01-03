@@ -1,0 +1,5 @@
+messages.ForumTopics
+====================
+
+.. autoclass:: hydrogram.raw.types.messages.ForumTopics()
+    :members:

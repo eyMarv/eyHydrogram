@@ -1,0 +1,5 @@
+help.PeerColorProfileSet
+========================
+
+.. autoclass:: hydrogram.raw.types.help.PeerColorProfileSet()
+    :members:

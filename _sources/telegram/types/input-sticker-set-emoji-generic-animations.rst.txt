@@ -1,0 +1,5 @@
+InputStickerSetEmojiGenericAnimations
+=====================================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetEmojiGenericAnimations()
+    :members:

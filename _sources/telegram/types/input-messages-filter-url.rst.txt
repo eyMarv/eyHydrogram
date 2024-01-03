@@ -1,0 +1,5 @@
+InputMessagesFilterUrl
+======================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterUrl()
+    :members:

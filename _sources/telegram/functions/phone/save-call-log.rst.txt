@@ -1,0 +1,5 @@
+phone.SaveCallLog
+=================
+
+.. autoclass:: hydrogram.raw.functions.phone.SaveCallLog()
+    :members:

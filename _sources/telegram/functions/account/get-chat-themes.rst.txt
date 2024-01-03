@@ -1,0 +1,5 @@
+account.GetChatThemes
+=====================
+
+.. autoclass:: hydrogram.raw.functions.account.GetChatThemes()
+    :members:

@@ -1,0 +1,5 @@
+contacts.GetTopPeers
+====================
+
+.. autoclass:: hydrogram.raw.functions.contacts.GetTopPeers()
+    :members:

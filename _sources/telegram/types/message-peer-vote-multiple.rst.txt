@@ -1,0 +1,5 @@
+MessagePeerVoteMultiple
+=======================
+
+.. autoclass:: hydrogram.raw.types.MessagePeerVoteMultiple()
+    :members:

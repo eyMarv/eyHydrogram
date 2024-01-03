@@ -1,0 +1,4 @@
+delete_profile_photos()
+=======================
+
+.. automethod:: hydrogram.Client.delete_profile_photos()

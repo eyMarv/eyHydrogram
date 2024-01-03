@@ -1,0 +1,5 @@
+DocumentAttributeImageSize
+==========================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeImageSize()
+    :members:

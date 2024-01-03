@@ -1,0 +1,4 @@
+SentCode
+========
+
+.. autoclass:: hydrogram.types.SentCode()

@@ -1,0 +1,5 @@
+ChatParticipantsForbidden
+=========================
+
+.. autoclass:: hydrogram.raw.types.ChatParticipantsForbidden()
+    :members:

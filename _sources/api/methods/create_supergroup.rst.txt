@@ -1,0 +1,4 @@
+create_supergroup()
+===================
+
+.. automethod:: hydrogram.Client.create_supergroup()

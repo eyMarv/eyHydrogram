@@ -1,0 +1,5 @@
+MessageActionGiftCode
+=====================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGiftCode()
+    :members:

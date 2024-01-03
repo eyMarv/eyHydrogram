@@ -1,0 +1,5 @@
+InputMessagesFilterContacts
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterContacts()
+    :members:

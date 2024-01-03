@@ -1,0 +1,5 @@
+SecureValueTypeRentalAgreement
+==============================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeRentalAgreement()
+    :members:

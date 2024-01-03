@@ -1,0 +1,5 @@
+NotificationSound
+=================
+
+.. autoclass:: hydrogram.raw.base.NotificationSound()
+    :members:

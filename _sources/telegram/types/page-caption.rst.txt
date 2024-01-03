@@ -1,0 +1,5 @@
+PageCaption
+===========
+
+.. autoclass:: hydrogram.raw.types.PageCaption()
+    :members:

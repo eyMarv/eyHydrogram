@@ -1,0 +1,4 @@
+Message.forward()
+=================
+
+.. automethod:: hydrogram.types.Message.forward()

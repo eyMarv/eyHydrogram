@@ -1,0 +1,5 @@
+storage.FileMp3
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FileMp3()
+    :members:

@@ -1,0 +1,5 @@
+StoryReaction
+=============
+
+.. autoclass:: hydrogram.raw.types.StoryReaction()
+    :members:

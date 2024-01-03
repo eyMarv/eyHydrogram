@@ -1,0 +1,5 @@
+DocumentAttributeSticker
+========================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeSticker()
+    :members:

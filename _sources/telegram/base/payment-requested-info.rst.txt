@@ -1,0 +1,5 @@
+PaymentRequestedInfo
+====================
+
+.. autoclass:: hydrogram.raw.base.PaymentRequestedInfo()
+    :members:

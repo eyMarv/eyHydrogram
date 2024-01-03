@@ -1,0 +1,5 @@
+messages.SearchCustomEmoji
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.SearchCustomEmoji()
+    :members:

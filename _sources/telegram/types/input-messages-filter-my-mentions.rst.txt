@@ -1,0 +1,5 @@
+InputMessagesFilterMyMentions
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterMyMentions()
+    :members:

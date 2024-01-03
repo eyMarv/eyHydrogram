@@ -1,0 +1,5 @@
+TextItalic
+==========
+
+.. autoclass:: hydrogram.raw.types.TextItalic()
+    :members:

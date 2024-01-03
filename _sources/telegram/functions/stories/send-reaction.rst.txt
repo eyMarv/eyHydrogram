@@ -1,0 +1,5 @@
+stories.SendReaction
+====================
+
+.. autoclass:: hydrogram.raw.functions.stories.SendReaction()
+    :members:

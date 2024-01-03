@@ -1,0 +1,5 @@
+MessageMediaVenue
+=================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaVenue()
+    :members:

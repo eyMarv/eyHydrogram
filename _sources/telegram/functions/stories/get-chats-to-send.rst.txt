@@ -1,0 +1,5 @@
+stories.GetChatsToSend
+======================
+
+.. autoclass:: hydrogram.raw.functions.stories.GetChatsToSend()
+    :members:

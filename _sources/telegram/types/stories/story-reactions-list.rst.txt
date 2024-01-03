@@ -1,0 +1,5 @@
+stories.StoryReactionsList
+==========================
+
+.. autoclass:: hydrogram.raw.types.stories.StoryReactionsList()
+    :members:

@@ -1,0 +1,5 @@
+DcOption
+========
+
+.. autoclass:: hydrogram.raw.types.DcOption()
+    :members:

@@ -1,0 +1,5 @@
+InputMediaWebPage
+=================
+
+.. autoclass:: hydrogram.raw.types.InputMediaWebPage()
+    :members:

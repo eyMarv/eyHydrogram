@@ -1,0 +1,5 @@
+messages.ReorderStickerSets
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReorderStickerSets()
+    :members:

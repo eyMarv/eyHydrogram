@@ -1,0 +1,4 @@
+InlineQueryResultContact
+========================
+
+.. autoclass:: hydrogram.types.InlineQueryResultContact()

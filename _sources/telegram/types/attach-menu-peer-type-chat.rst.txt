@@ -1,0 +1,5 @@
+AttachMenuPeerTypeChat
+======================
+
+.. autoclass:: hydrogram.raw.types.AttachMenuPeerTypeChat()
+    :members:

@@ -1,0 +1,5 @@
+UpdatePendingJoinRequests
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdatePendingJoinRequests()
+    :members:

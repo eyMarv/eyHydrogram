@@ -1,0 +1,5 @@
+DialogPeerFolder
+================
+
+.. autoclass:: hydrogram.raw.types.DialogPeerFolder()
+    :members:

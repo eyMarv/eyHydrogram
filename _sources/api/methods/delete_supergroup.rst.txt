@@ -1,0 +1,4 @@
+delete_supergroup()
+===================
+
+.. automethod:: hydrogram.Client.delete_supergroup()

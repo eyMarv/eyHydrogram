@@ -1,0 +1,4 @@
+MenuButtonWebApp
+================
+
+.. autoclass:: hydrogram.types.MenuButtonWebApp()

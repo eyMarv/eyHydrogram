@@ -1,0 +1,5 @@
+phone.GetGroupCallStreamChannels
+================================
+
+.. autoclass:: hydrogram.raw.functions.phone.GetGroupCallStreamChannels()
+    :members:

@@ -1,0 +1,5 @@
+InputPrivacyValueAllowCloseFriends
+==================================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyValueAllowCloseFriends()
+    :members:

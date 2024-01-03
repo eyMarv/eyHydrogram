@@ -1,0 +1,4 @@
+Sticker
+=======
+
+.. autoclass:: hydrogram.types.Sticker()

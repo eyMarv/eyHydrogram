@@ -1,0 +1,5 @@
+TextMarked
+==========
+
+.. autoclass:: hydrogram.raw.types.TextMarked()
+    :members:

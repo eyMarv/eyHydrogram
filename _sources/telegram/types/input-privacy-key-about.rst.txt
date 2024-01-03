@@ -1,0 +1,5 @@
+InputPrivacyKeyAbout
+====================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyKeyAbout()
+    :members:

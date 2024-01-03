@@ -1,0 +1,5 @@
+stories.EditStory
+=================
+
+.. autoclass:: hydrogram.raw.functions.stories.EditStory()
+    :members:

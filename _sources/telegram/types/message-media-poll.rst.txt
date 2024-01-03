@@ -1,0 +1,5 @@
+MessageMediaPoll
+================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaPoll()
+    :members:

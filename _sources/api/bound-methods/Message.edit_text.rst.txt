@@ -1,0 +1,4 @@
+Message.edit_text()
+===================
+
+.. automethod:: hydrogram.types.Message.edit_text()

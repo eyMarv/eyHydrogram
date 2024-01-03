@@ -1,0 +1,5 @@
+EmojiGroup
+==========
+
+.. autoclass:: hydrogram.raw.types.EmojiGroup()
+    :members:

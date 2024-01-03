@@ -1,0 +1,5 @@
+account.ContentSettings
+=======================
+
+.. autoclass:: hydrogram.raw.base.account.ContentSettings()
+    :members:

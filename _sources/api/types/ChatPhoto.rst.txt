@@ -1,0 +1,4 @@
+ChatPhoto
+=========
+
+.. autoclass:: hydrogram.types.ChatPhoto()

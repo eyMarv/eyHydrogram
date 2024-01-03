@@ -1,0 +1,5 @@
+updates.ChannelDifferenceEmpty
+==============================
+
+.. autoclass:: hydrogram.raw.types.updates.ChannelDifferenceEmpty()
+    :members:

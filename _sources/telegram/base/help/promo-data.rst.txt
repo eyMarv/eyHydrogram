@@ -1,0 +1,5 @@
+help.PromoData
+==============
+
+.. autoclass:: hydrogram.raw.base.help.PromoData()
+    :members:

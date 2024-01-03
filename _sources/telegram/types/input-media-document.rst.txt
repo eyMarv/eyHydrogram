@@ -1,0 +1,5 @@
+InputMediaDocument
+==================
+
+.. autoclass:: hydrogram.raw.types.InputMediaDocument()
+    :members:

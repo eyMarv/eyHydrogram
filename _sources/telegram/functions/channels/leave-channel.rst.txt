@@ -1,0 +1,5 @@
+channels.LeaveChannel
+=====================
+
+.. autoclass:: hydrogram.raw.functions.channels.LeaveChannel()
+    :members:

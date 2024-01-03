@@ -1,0 +1,5 @@
+Photo
+=====
+
+.. autoclass:: hydrogram.raw.base.Photo()
+    :members:

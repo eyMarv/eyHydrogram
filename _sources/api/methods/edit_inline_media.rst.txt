@@ -1,0 +1,4 @@
+edit_inline_media()
+===================
+
+.. automethod:: hydrogram.Client.edit_inline_media()

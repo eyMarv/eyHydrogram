@@ -1,0 +1,4 @@
+Message.get_media_group()
+=========================
+
+.. automethod:: hydrogram.types.Message.get_media_group()

@@ -1,0 +1,4 @@
+Message.copy()
+==============
+
+.. automethod:: hydrogram.types.Message.copy()

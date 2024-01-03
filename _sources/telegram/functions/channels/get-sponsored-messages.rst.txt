@@ -1,0 +1,5 @@
+channels.GetSponsoredMessages
+=============================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetSponsoredMessages()
+    :members:

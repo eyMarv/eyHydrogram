@@ -1,0 +1,4 @@
+export_session_string()
+=======================
+
+.. automethod:: hydrogram.Client.export_session_string()

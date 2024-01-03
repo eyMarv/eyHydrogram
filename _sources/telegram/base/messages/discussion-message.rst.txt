@@ -1,0 +1,5 @@
+messages.DiscussionMessage
+==========================
+
+.. autoclass:: hydrogram.raw.base.messages.DiscussionMessage()
+    :members:

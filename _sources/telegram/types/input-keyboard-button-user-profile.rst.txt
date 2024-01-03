@@ -1,0 +1,5 @@
+InputKeyboardButtonUserProfile
+==============================
+
+.. autoclass:: hydrogram.raw.types.InputKeyboardButtonUserProfile()
+    :members:

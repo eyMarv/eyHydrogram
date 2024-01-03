@@ -1,0 +1,5 @@
+PageBlockRelatedArticles
+========================
+
+.. autoclass:: hydrogram.raw.types.PageBlockRelatedArticles()
+    :members:

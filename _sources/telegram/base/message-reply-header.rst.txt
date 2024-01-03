@@ -1,0 +1,5 @@
+MessageReplyHeader
+==================
+
+.. autoclass:: hydrogram.raw.base.MessageReplyHeader()
+    :members:

@@ -1,0 +1,5 @@
+UpdateReadFeaturedStickers
+==========================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadFeaturedStickers()
+    :members:

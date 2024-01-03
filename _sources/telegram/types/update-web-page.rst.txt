@@ -1,0 +1,5 @@
+UpdateWebPage
+=============
+
+.. autoclass:: hydrogram.raw.types.UpdateWebPage()
+    :members:

@@ -1,0 +1,5 @@
+GroupCallDiscarded
+==================
+
+.. autoclass:: hydrogram.raw.types.GroupCallDiscarded()
+    :members:

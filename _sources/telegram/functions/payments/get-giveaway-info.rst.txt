@@ -1,0 +1,5 @@
+payments.GetGiveawayInfo
+========================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetGiveawayInfo()
+    :members:

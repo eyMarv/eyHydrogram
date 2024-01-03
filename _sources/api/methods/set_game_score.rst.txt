@@ -1,0 +1,4 @@
+set_game_score()
+================
+
+.. automethod:: hydrogram.Client.set_game_score()

@@ -1,0 +1,5 @@
+MessagesFilter
+==============
+
+.. autoclass:: hydrogram.raw.base.MessagesFilter()
+    :members:

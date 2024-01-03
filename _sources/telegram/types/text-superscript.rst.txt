@@ -1,0 +1,5 @@
+TextSuperscript
+===============
+
+.. autoclass:: hydrogram.raw.types.TextSuperscript()
+    :members:

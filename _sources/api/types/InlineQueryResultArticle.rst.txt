@@ -1,0 +1,4 @@
+InlineQueryResultArticle
+========================
+
+.. autoclass:: hydrogram.types.InlineQueryResultArticle()

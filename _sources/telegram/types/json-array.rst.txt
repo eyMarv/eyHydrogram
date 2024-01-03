@@ -1,0 +1,5 @@
+JsonArray
+=========
+
+.. autoclass:: hydrogram.raw.types.JsonArray()
+    :members:

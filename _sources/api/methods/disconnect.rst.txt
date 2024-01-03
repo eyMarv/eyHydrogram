@@ -1,0 +1,4 @@
+disconnect()
+============
+
+.. automethod:: hydrogram.Client.disconnect()

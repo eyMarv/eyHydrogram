@@ -1,0 +1,5 @@
+KeyboardButtonRow
+=================
+
+.. autoclass:: hydrogram.raw.base.KeyboardButtonRow()
+    :members:

@@ -1,0 +1,5 @@
+updates.State
+=============
+
+.. autoclass:: hydrogram.raw.types.updates.State()
+    :members:

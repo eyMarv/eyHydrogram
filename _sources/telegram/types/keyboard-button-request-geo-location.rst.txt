@@ -1,0 +1,5 @@
+KeyboardButtonRequestGeoLocation
+================================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonRequestGeoLocation()
+    :members:

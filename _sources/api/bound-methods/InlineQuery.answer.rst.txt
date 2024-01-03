@@ -1,0 +1,4 @@
+InlineQuery.answer()
+====================
+
+.. automethod:: hydrogram.types.InlineQuery.answer()

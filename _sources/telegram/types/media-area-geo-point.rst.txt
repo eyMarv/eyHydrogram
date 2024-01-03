@@ -1,0 +1,5 @@
+MediaAreaGeoPoint
+=================
+
+.. autoclass:: hydrogram.raw.types.MediaAreaGeoPoint()
+    :members:

@@ -1,0 +1,5 @@
+Config
+======
+
+.. autoclass:: hydrogram.raw.base.Config()
+    :members:

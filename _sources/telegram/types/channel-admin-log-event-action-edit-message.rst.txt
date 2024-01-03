@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionEditMessage
+=====================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionEditMessage()
+    :members:

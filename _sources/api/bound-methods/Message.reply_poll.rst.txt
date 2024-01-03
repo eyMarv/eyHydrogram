@@ -1,0 +1,4 @@
+Message.reply_poll()
+====================
+
+.. automethod:: hydrogram.types.Message.reply_poll()

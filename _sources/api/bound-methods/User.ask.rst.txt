@@ -1,0 +1,4 @@
+User.ask()
+==========
+
+.. automethod:: hydrogram.types.User.ask()

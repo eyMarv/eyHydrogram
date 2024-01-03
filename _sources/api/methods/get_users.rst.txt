@@ -1,0 +1,4 @@
+get_users()
+===========
+
+.. automethod:: hydrogram.Client.get_users()

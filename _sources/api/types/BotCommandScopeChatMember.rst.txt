@@ -1,0 +1,4 @@
+BotCommandScopeChatMember
+=========================
+
+.. autoclass:: hydrogram.types.BotCommandScopeChatMember()

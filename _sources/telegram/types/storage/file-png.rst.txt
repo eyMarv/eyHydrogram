@@ -1,0 +1,5 @@
+storage.FilePng
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FilePng()
+    :members:

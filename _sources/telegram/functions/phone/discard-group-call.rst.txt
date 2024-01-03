@@ -1,0 +1,5 @@
+phone.DiscardGroupCall
+======================
+
+.. autoclass:: hydrogram.raw.functions.phone.DiscardGroupCall()
+    :members:

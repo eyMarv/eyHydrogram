@@ -1,0 +1,5 @@
+messages.GetAttachMenuBots
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetAttachMenuBots()
+    :members:

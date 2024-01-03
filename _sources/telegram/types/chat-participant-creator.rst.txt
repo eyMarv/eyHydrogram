@@ -1,0 +1,5 @@
+ChatParticipantCreator
+======================
+
+.. autoclass:: hydrogram.raw.types.ChatParticipantCreator()
+    :members:

@@ -1,0 +1,5 @@
+ReplyKeyboardMarkup
+===================
+
+.. autoclass:: hydrogram.raw.types.ReplyKeyboardMarkup()
+    :members:

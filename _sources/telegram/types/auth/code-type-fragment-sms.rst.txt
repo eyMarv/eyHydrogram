@@ -1,0 +1,5 @@
+auth.CodeTypeFragmentSms
+========================
+
+.. autoclass:: hydrogram.raw.types.auth.CodeTypeFragmentSms()
+    :members:

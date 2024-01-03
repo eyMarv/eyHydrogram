@@ -1,0 +1,4 @@
+get_discussion_replies_count()
+==============================
+
+.. automethod:: hydrogram.Client.get_discussion_replies_count()

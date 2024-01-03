@@ -1,0 +1,5 @@
+auth.SentCodeType
+=================
+
+.. autoclass:: hydrogram.raw.base.auth.SentCodeType()
+    :members:

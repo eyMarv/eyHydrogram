@@ -1,0 +1,5 @@
+UserStatusRecently
+==================
+
+.. autoclass:: hydrogram.raw.types.UserStatusRecently()
+    :members:

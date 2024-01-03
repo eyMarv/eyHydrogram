@@ -1,0 +1,4 @@
+Message.reply_sticker()
+=======================
+
+.. automethod:: hydrogram.types.Message.reply_sticker()

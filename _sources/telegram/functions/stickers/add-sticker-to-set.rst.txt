@@ -1,0 +1,5 @@
+stickers.AddStickerToSet
+========================
+
+.. autoclass:: hydrogram.raw.functions.stickers.AddStickerToSet()
+    :members:

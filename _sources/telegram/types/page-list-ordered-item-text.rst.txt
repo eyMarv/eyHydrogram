@@ -1,0 +1,5 @@
+PageListOrderedItemText
+=======================
+
+.. autoclass:: hydrogram.raw.types.PageListOrderedItemText()
+    :members:

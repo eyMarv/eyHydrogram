@@ -1,0 +1,5 @@
+KeyboardButtonRequestPhone
+==========================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonRequestPhone()
+    :members:

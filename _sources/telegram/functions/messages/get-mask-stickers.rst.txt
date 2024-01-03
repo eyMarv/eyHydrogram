@@ -1,0 +1,5 @@
+messages.GetMaskStickers
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetMaskStickers()
+    :members:

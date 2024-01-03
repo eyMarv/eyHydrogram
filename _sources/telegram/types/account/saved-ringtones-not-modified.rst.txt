@@ -1,0 +1,5 @@
+account.SavedRingtonesNotModified
+=================================
+
+.. autoclass:: hydrogram.raw.types.account.SavedRingtonesNotModified()
+    :members:

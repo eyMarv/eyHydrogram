@@ -1,0 +1,5 @@
+SecureValueTypeIdentityCard
+===========================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeIdentityCard()
+    :members:

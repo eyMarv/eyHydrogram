@@ -1,0 +1,5 @@
+ReplyKeyboardHide
+=================
+
+.. autoclass:: hydrogram.raw.types.ReplyKeyboardHide()
+    :members:

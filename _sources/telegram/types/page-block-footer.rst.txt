@@ -1,0 +1,5 @@
+PageBlockFooter
+===============
+
+.. autoclass:: hydrogram.raw.types.PageBlockFooter()
+    :members:

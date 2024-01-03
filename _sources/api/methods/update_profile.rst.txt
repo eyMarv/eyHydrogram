@@ -1,0 +1,4 @@
+update_profile()
+================
+
+.. automethod:: hydrogram.Client.update_profile()

@@ -1,0 +1,4 @@
+InputTextMessageContent
+=======================
+
+.. autoclass:: hydrogram.types.InputTextMessageContent()

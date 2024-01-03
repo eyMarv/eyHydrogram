@@ -1,0 +1,4 @@
+restart()
+=========
+
+.. automethod:: hydrogram.Client.restart()

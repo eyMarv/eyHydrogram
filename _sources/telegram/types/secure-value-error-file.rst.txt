@@ -1,0 +1,5 @@
+SecureValueErrorFile
+====================
+
+.. autoclass:: hydrogram.raw.types.SecureValueErrorFile()
+    :members:

@@ -1,0 +1,4 @@
+GameHighScore
+=============
+
+.. autoclass:: hydrogram.types.GameHighScore()

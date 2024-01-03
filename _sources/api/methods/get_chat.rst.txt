@@ -1,0 +1,4 @@
+get_chat()
+==========
+
+.. automethod:: hydrogram.Client.get_chat()

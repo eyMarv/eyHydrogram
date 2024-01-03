@@ -1,0 +1,5 @@
+UpdateMessagePoll
+=================
+
+.. autoclass:: hydrogram.raw.types.UpdateMessagePoll()
+    :members:

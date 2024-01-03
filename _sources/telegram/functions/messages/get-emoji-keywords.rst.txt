@@ -1,0 +1,5 @@
+messages.GetEmojiKeywords
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiKeywords()
+    :members:

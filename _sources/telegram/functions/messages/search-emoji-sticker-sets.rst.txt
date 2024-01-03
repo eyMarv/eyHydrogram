@@ -1,0 +1,5 @@
+messages.SearchEmojiStickerSets
+===============================
+
+.. autoclass:: hydrogram.raw.functions.messages.SearchEmojiStickerSets()
+    :members:

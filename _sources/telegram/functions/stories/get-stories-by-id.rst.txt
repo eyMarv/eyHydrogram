@@ -1,0 +1,5 @@
+stories.GetStoriesByID
+======================
+
+.. autoclass:: hydrogram.raw.functions.stories.GetStoriesByID()
+    :members:

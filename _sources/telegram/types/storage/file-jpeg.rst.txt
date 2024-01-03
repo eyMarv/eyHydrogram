@@ -1,0 +1,5 @@
+storage.FileJpeg
+================
+
+.. autoclass:: hydrogram.raw.types.storage.FileJpeg()
+    :members:

@@ -1,0 +1,5 @@
+UrlAuthResultDefault
+====================
+
+.. autoclass:: hydrogram.raw.types.UrlAuthResultDefault()
+    :members:

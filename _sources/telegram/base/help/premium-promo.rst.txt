@@ -1,0 +1,5 @@
+help.PremiumPromo
+=================
+
+.. autoclass:: hydrogram.raw.base.help.PremiumPromo()
+    :members:

@@ -1,0 +1,5 @@
+RequestPeerTypeChat
+===================
+
+.. autoclass:: hydrogram.raw.types.RequestPeerTypeChat()
+    :members:

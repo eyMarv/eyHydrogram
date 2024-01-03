@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionDefaultBannedRights
+=============================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionDefaultBannedRights()
+    :members:

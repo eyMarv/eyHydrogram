@@ -1,0 +1,5 @@
+InputWebFileAudioAlbumThumbLocation
+===================================
+
+.. autoclass:: hydrogram.raw.types.InputWebFileAudioAlbumThumbLocation()
+    :members:

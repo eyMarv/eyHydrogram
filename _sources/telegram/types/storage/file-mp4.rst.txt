@@ -1,0 +1,5 @@
+storage.FileMp4
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FileMp4()
+    :members:

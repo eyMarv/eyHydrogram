@@ -1,0 +1,5 @@
+messages.EditInlineBotMessage
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.EditInlineBotMessage()
+    :members:

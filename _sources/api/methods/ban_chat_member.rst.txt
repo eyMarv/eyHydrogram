@@ -1,0 +1,4 @@
+ban_chat_member()
+=================
+
+.. automethod:: hydrogram.Client.ban_chat_member()

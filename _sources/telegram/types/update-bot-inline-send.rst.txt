@@ -1,0 +1,5 @@
+UpdateBotInlineSend
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotInlineSend()
+    :members:

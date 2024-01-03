@@ -1,0 +1,5 @@
+StatsAbsValueAndPrev
+====================
+
+.. autoclass:: hydrogram.raw.base.StatsAbsValueAndPrev()
+    :members:

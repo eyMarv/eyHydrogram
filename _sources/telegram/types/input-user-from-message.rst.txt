@@ -1,0 +1,5 @@
+InputUserFromMessage
+====================
+
+.. autoclass:: hydrogram.raw.types.InputUserFromMessage()
+    :members:

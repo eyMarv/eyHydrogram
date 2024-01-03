@@ -1,0 +1,4 @@
+get_game_high_scores()
+======================
+
+.. automethod:: hydrogram.Client.get_game_high_scores()

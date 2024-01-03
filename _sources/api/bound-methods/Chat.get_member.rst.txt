@@ -1,0 +1,4 @@
+Chat.get_member()
+=================
+
+.. automethod:: hydrogram.types.Chat.get_member()

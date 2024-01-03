@@ -1,0 +1,5 @@
+PeerNotifySettings
+==================
+
+.. autoclass:: hydrogram.raw.base.PeerNotifySettings()
+    :members:

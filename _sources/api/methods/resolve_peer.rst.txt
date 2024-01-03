@@ -1,0 +1,4 @@
+resolve_peer()
+==============
+
+.. automethod:: hydrogram.Client.resolve_peer()

@@ -1,0 +1,4 @@
+search_global_count()
+=====================
+
+.. automethod:: hydrogram.Client.search_global_count()

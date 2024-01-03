@@ -1,0 +1,5 @@
+messages.ChatAdminsWithInvites
+==============================
+
+.. autoclass:: hydrogram.raw.types.messages.ChatAdminsWithInvites()
+    :members:

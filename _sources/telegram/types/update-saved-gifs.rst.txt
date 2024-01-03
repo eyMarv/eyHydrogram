@@ -1,0 +1,5 @@
+UpdateSavedGifs
+===============
+
+.. autoclass:: hydrogram.raw.types.UpdateSavedGifs()
+    :members:

@@ -1,0 +1,5 @@
+PrivacyValueDisallowContacts
+============================
+
+.. autoclass:: hydrogram.raw.types.PrivacyValueDisallowContacts()
+    :members:

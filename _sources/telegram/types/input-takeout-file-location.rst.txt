@@ -1,0 +1,5 @@
+InputTakeoutFileLocation
+========================
+
+.. autoclass:: hydrogram.raw.types.InputTakeoutFileLocation()
+    :members:

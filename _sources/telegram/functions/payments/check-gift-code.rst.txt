@@ -1,0 +1,5 @@
+payments.CheckGiftCode
+======================
+
+.. autoclass:: hydrogram.raw.functions.payments.CheckGiftCode()
+    :members:

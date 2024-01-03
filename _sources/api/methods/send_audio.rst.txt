@@ -1,0 +1,4 @@
+send_audio()
+============
+
+.. automethod:: hydrogram.Client.send_audio()

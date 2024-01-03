@@ -1,0 +1,5 @@
+payments.GetSavedInfo
+=====================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetSavedInfo()
+    :members:

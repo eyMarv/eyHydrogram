@@ -1,0 +1,4 @@
+User.archive()
+==============
+
+.. automethod:: hydrogram.types.User.archive()

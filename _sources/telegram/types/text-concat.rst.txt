@@ -1,0 +1,5 @@
+TextConcat
+==========
+
+.. autoclass:: hydrogram.raw.types.TextConcat()
+    :members:

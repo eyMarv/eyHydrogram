@@ -1,0 +1,4 @@
+Photo
+=====
+
+.. autoclass:: hydrogram.types.Photo()

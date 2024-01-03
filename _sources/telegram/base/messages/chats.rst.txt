@@ -1,0 +1,5 @@
+messages.Chats
+==============
+
+.. autoclass:: hydrogram.raw.base.messages.Chats()
+    :members:

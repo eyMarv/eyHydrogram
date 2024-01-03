@@ -1,0 +1,4 @@
+Dialog
+======
+
+.. autoclass:: hydrogram.types.Dialog()

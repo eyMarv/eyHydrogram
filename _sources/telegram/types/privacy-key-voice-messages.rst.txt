@@ -1,0 +1,5 @@
+PrivacyKeyVoiceMessages
+=======================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyVoiceMessages()
+    :members:

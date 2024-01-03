@@ -1,0 +1,5 @@
+DefaultHistoryTTL
+=================
+
+.. autoclass:: hydrogram.raw.base.DefaultHistoryTTL()
+    :members:

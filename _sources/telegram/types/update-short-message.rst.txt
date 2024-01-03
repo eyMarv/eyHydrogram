@@ -1,0 +1,5 @@
+UpdateShortMessage
+==================
+
+.. autoclass:: hydrogram.raw.types.UpdateShortMessage()
+    :members:

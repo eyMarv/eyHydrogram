@@ -1,0 +1,5 @@
+TextFixed
+=========
+
+.. autoclass:: hydrogram.raw.types.TextFixed()
+    :members:

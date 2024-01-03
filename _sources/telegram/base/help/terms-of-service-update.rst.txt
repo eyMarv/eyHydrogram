@@ -1,0 +1,5 @@
+help.TermsOfServiceUpdate
+=========================
+
+.. autoclass:: hydrogram.raw.base.help.TermsOfServiceUpdate()
+    :members:

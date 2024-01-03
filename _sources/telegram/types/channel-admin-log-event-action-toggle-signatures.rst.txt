@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionToggleSignatures
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionToggleSignatures()
+    :members:

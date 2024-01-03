@@ -1,0 +1,5 @@
+UpdateDraftMessage
+==================
+
+.. autoclass:: hydrogram.raw.types.UpdateDraftMessage()
+    :members:

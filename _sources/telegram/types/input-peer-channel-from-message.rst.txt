@@ -1,0 +1,5 @@
+InputPeerChannelFromMessage
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputPeerChannelFromMessage()
+    :members:

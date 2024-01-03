@@ -1,0 +1,5 @@
+UpdateTranscribedAudio
+======================
+
+.. autoclass:: hydrogram.raw.types.UpdateTranscribedAudio()
+    :members:

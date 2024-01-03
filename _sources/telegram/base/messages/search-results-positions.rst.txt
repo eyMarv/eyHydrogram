@@ -1,0 +1,5 @@
+messages.SearchResultsPositions
+===============================
+
+.. autoclass:: hydrogram.raw.base.messages.SearchResultsPositions()
+    :members:

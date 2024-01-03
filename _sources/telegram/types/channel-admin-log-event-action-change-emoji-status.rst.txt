@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionChangeEmojiStatus
+===========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionChangeEmojiStatus()
+    :members:

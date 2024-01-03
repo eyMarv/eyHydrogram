@@ -1,0 +1,5 @@
+SendMessageGamePlayAction
+=========================
+
+.. autoclass:: hydrogram.raw.types.SendMessageGamePlayAction()
+    :members:

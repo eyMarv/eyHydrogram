@@ -1,0 +1,5 @@
+stories.ActivateStealthMode
+===========================
+
+.. autoclass:: hydrogram.raw.functions.stories.ActivateStealthMode()
+    :members:

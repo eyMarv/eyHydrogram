@@ -1,0 +1,5 @@
+EmojiLanguage
+=============
+
+.. autoclass:: hydrogram.raw.types.EmojiLanguage()
+    :members:

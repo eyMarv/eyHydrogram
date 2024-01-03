@@ -1,0 +1,5 @@
+chatlists.HideChatlistUpdates
+=============================
+
+.. autoclass:: hydrogram.raw.functions.chatlists.HideChatlistUpdates()
+    :members:

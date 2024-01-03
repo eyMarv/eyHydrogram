@@ -1,0 +1,5 @@
+account.GetChannelDefaultEmojiStatuses
+======================================
+
+.. autoclass:: hydrogram.raw.functions.account.GetChannelDefaultEmojiStatuses()
+    :members:

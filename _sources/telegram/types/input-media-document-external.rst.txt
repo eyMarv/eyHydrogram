@@ -1,0 +1,5 @@
+InputMediaDocumentExternal
+==========================
+
+.. autoclass:: hydrogram.raw.types.InputMediaDocumentExternal()
+    :members:

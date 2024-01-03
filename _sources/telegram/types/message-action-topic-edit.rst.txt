@@ -1,0 +1,5 @@
+MessageActionTopicEdit
+======================
+
+.. autoclass:: hydrogram.raw.types.MessageActionTopicEdit()
+    :members:

@@ -1,0 +1,5 @@
+EncryptedChatEmpty
+==================
+
+.. autoclass:: hydrogram.raw.types.EncryptedChatEmpty()
+    :members:

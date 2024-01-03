@@ -1,0 +1,5 @@
+messages.ProlongWebView
+=======================
+
+.. autoclass:: hydrogram.raw.functions.messages.ProlongWebView()
+    :members:

@@ -1,0 +1,5 @@
+InputNotifyForumTopic
+=====================
+
+.. autoclass:: hydrogram.raw.types.InputNotifyForumTopic()
+    :members:

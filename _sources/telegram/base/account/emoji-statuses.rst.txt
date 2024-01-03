@@ -1,0 +1,5 @@
+account.EmojiStatuses
+=====================
+
+.. autoclass:: hydrogram.raw.base.account.EmojiStatuses()
+    :members:

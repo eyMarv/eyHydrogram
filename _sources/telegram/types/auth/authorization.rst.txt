@@ -1,0 +1,5 @@
+auth.Authorization
+==================
+
+.. autoclass:: hydrogram.raw.types.auth.Authorization()
+    :members:

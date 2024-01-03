@@ -1,0 +1,5 @@
+InputChatlistDialogFilter
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputChatlistDialogFilter()
+    :members:

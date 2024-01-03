@@ -1,0 +1,4 @@
+Chat.listen()
+=============
+
+.. automethod:: hydrogram.types.Chat.listen()

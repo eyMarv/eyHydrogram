@@ -1,0 +1,5 @@
+upload.WebFile
+==============
+
+.. autoclass:: hydrogram.raw.types.upload.WebFile()
+    :members:

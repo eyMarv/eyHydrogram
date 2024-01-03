@@ -1,0 +1,5 @@
+payments.GetBankCardData
+========================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetBankCardData()
+    :members:

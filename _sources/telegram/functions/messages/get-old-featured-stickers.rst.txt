@@ -1,0 +1,5 @@
+messages.GetOldFeaturedStickers
+===============================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetOldFeaturedStickers()
+    :members:

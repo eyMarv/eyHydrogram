@@ -1,0 +1,4 @@
+get_contacts_count()
+====================
+
+.. automethod:: hydrogram.Client.get_contacts_count()

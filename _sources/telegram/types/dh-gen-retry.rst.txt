@@ -1,0 +1,5 @@
+DhGenRetry
+==========
+
+.. autoclass:: hydrogram.raw.types.DhGenRetry()
+    :members:

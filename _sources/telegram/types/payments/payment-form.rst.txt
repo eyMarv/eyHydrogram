@@ -1,0 +1,5 @@
+payments.PaymentForm
+====================
+
+.. autoclass:: hydrogram.raw.types.payments.PaymentForm()
+    :members:

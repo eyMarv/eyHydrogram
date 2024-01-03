@@ -1,0 +1,5 @@
+InputFolderPeer
+===============
+
+.. autoclass:: hydrogram.raw.types.InputFolderPeer()
+    :members:

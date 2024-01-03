@@ -1,0 +1,5 @@
+account.CreateTheme
+===================
+
+.. autoclass:: hydrogram.raw.functions.account.CreateTheme()
+    :members:

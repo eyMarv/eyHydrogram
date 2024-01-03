@@ -1,0 +1,5 @@
+UpdateEncryption
+================
+
+.. autoclass:: hydrogram.raw.types.UpdateEncryption()
+    :members:

@@ -1,0 +1,4 @@
+Message.reply()
+===============
+
+.. automethod:: hydrogram.types.Message.reply()

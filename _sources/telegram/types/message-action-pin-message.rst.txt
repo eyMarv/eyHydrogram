@@ -1,0 +1,5 @@
+MessageActionPinMessage
+=======================
+
+.. autoclass:: hydrogram.raw.types.MessageActionPinMessage()
+    :members:

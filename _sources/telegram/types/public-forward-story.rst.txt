@@ -1,0 +1,5 @@
+PublicForwardStory
+==================
+
+.. autoclass:: hydrogram.raw.types.PublicForwardStory()
+    :members:

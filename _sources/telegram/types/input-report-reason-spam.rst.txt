@@ -1,0 +1,5 @@
+InputReportReasonSpam
+=====================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonSpam()
+    :members:

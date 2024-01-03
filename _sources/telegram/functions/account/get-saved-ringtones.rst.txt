@@ -1,0 +1,5 @@
+account.GetSavedRingtones
+=========================
+
+.. autoclass:: hydrogram.raw.functions.account.GetSavedRingtones()
+    :members:

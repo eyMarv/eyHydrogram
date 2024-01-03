@@ -1,0 +1,5 @@
+MessageFwdHeader
+================
+
+.. autoclass:: hydrogram.raw.types.MessageFwdHeader()
+    :members:

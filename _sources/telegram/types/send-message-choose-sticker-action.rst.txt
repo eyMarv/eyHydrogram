@@ -1,0 +1,5 @@
+SendMessageChooseStickerAction
+==============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageChooseStickerAction()
+    :members:

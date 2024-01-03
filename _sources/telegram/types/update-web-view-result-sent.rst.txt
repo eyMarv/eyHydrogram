@@ -1,0 +1,5 @@
+UpdateWebViewResultSent
+=======================
+
+.. autoclass:: hydrogram.raw.types.UpdateWebViewResultSent()
+    :members:

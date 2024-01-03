@@ -1,0 +1,5 @@
+MediaAreaChannelPost
+====================
+
+.. autoclass:: hydrogram.raw.types.MediaAreaChannelPost()
+    :members:

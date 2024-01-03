@@ -1,0 +1,5 @@
+updates.DifferenceTooLong
+=========================
+
+.. autoclass:: hydrogram.raw.types.updates.DifferenceTooLong()
+    :members:

@@ -1,0 +1,4 @@
+InlineKeyboardMarkup
+====================
+
+.. autoclass:: hydrogram.types.InlineKeyboardMarkup()

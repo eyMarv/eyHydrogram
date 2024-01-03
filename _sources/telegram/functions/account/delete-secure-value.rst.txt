@@ -1,0 +1,5 @@
+account.DeleteSecureValue
+=========================
+
+.. autoclass:: hydrogram.raw.functions.account.DeleteSecureValue()
+    :members:

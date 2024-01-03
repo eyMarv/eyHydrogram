@@ -1,0 +1,5 @@
+PageBlockSubheader
+==================
+
+.. autoclass:: hydrogram.raw.types.PageBlockSubheader()
+    :members:

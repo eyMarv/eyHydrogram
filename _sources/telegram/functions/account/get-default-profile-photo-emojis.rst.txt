@@ -1,0 +1,5 @@
+account.GetDefaultProfilePhotoEmojis
+====================================
+
+.. autoclass:: hydrogram.raw.functions.account.GetDefaultProfilePhotoEmojis()
+    :members:

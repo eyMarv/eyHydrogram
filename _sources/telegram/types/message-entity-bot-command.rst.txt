@@ -1,0 +1,5 @@
+MessageEntityBotCommand
+=======================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityBotCommand()
+    :members:

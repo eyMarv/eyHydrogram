@@ -1,0 +1,4 @@
+add_handler()
+=============
+
+.. automethod:: hydrogram.Client.add_handler()

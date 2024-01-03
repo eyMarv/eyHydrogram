@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionToggleNoForwards
+==========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionToggleNoForwards()
+    :members:

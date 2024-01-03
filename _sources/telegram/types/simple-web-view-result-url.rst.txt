@@ -1,0 +1,5 @@
+SimpleWebViewResultUrl
+======================
+
+.. autoclass:: hydrogram.raw.types.SimpleWebViewResultUrl()
+    :members:

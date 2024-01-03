@@ -1,0 +1,5 @@
+account.GetWallPaper
+====================
+
+.. autoclass:: hydrogram.raw.functions.account.GetWallPaper()
+    :members:

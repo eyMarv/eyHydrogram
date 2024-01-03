@@ -1,0 +1,5 @@
+messages.FaveSticker
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.FaveSticker()
+    :members:

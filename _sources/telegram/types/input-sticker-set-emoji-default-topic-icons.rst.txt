@@ -1,0 +1,5 @@
+InputStickerSetEmojiDefaultTopicIcons
+=====================================
+
+.. autoclass:: hydrogram.raw.types.InputStickerSetEmojiDefaultTopicIcons()
+    :members:

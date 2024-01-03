@@ -1,0 +1,5 @@
+stories.Report
+==============
+
+.. autoclass:: hydrogram.raw.functions.stories.Report()
+    :members:

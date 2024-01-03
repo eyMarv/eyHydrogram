@@ -1,0 +1,5 @@
+AppWebViewResult
+================
+
+.. autoclass:: hydrogram.raw.base.AppWebViewResult()
+    :members:

@@ -1,0 +1,5 @@
+InputPrivacyKey
+===============
+
+.. autoclass:: hydrogram.raw.base.InputPrivacyKey()
+    :members:

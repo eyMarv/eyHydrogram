@@ -1,0 +1,5 @@
+messages.TogglePeerTranslations
+===============================
+
+.. autoclass:: hydrogram.raw.functions.messages.TogglePeerTranslations()
+    :members:

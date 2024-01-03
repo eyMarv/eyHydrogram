@@ -1,0 +1,5 @@
+InlineBotSwitchPM
+=================
+
+.. autoclass:: hydrogram.raw.base.InlineBotSwitchPM()
+    :members:

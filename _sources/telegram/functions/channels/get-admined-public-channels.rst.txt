@@ -1,0 +1,5 @@
+channels.GetAdminedPublicChannels
+=================================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetAdminedPublicChannels()
+    :members:

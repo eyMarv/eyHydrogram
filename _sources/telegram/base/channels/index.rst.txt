@@ -1,0 +1,13 @@
+Channels
+========
+
+.. module:: hydrogram.raw.base.channels
+
+.. toctree::
+    :titlesonly:
+
+    AdminLogResults <admin-log-results>
+    ChannelParticipant <channel-participant>
+    ChannelParticipants <channel-participants>
+    SendAsPeers <send-as-peers>
+

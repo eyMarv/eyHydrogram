@@ -1,0 +1,5 @@
+UpdatePhoneCallSignalingData
+============================
+
+.. autoclass:: hydrogram.raw.types.UpdatePhoneCallSignalingData()
+    :members:

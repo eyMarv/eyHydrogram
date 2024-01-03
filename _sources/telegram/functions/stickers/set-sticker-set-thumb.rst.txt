@@ -1,0 +1,5 @@
+stickers.SetStickerSetThumb
+===========================
+
+.. autoclass:: hydrogram.raw.functions.stickers.SetStickerSetThumb()
+    :members:

@@ -1,0 +1,5 @@
+BotInlineMessageMediaVenue
+==========================
+
+.. autoclass:: hydrogram.raw.types.BotInlineMessageMediaVenue()
+    :members:

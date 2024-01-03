@@ -1,0 +1,5 @@
+RecentMeUrlUnknown
+==================
+
+.. autoclass:: hydrogram.raw.types.RecentMeUrlUnknown()
+    :members:

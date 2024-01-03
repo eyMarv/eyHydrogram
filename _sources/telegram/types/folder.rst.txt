@@ -1,0 +1,5 @@
+Folder
+======
+
+.. autoclass:: hydrogram.raw.types.Folder()
+    :members:

@@ -1,0 +1,4 @@
+delete_bot_commands()
+=====================
+
+.. automethod:: hydrogram.Client.delete_bot_commands()

@@ -1,0 +1,5 @@
+DialogFilter
+============
+
+.. autoclass:: hydrogram.raw.base.DialogFilter()
+    :members:

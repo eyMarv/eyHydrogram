@@ -1,0 +1,5 @@
+stickers.ChangeSticker
+======================
+
+.. autoclass:: hydrogram.raw.functions.stickers.ChangeSticker()
+    :members:

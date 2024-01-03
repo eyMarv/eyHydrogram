@@ -1,0 +1,4 @@
+VideoChatMembersInvited
+=======================
+
+.. autoclass:: hydrogram.types.VideoChatMembersInvited()

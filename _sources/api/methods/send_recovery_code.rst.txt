@@ -1,0 +1,4 @@
+send_recovery_code()
+====================
+
+.. automethod:: hydrogram.Client.send_recovery_code()

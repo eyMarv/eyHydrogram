@@ -1,0 +1,5 @@
+premium.MyBoosts
+================
+
+.. autoclass:: hydrogram.raw.base.premium.MyBoosts()
+    :members:

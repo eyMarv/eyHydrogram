@@ -1,0 +1,4 @@
+import_contacts()
+=================
+
+.. automethod:: hydrogram.Client.import_contacts()

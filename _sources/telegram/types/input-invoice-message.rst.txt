@@ -1,0 +1,5 @@
+InputInvoiceMessage
+===================
+
+.. autoclass:: hydrogram.raw.types.InputInvoiceMessage()
+    :members:

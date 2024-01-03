@@ -1,0 +1,5 @@
+messages.GetMessageEditData
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetMessageEditData()
+    :members:

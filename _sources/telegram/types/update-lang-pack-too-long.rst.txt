@@ -1,0 +1,5 @@
+UpdateLangPackTooLong
+=====================
+
+.. autoclass:: hydrogram.raw.types.UpdateLangPackTooLong()
+    :members:

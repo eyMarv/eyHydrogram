@@ -1,0 +1,4 @@
+Message.edit_media()
+====================
+
+.. automethod:: hydrogram.types.Message.edit_media()

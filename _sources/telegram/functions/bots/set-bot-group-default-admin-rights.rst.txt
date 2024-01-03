@@ -1,0 +1,5 @@
+bots.SetBotGroupDefaultAdminRights
+==================================
+
+.. autoclass:: hydrogram.raw.functions.bots.SetBotGroupDefaultAdminRights()
+    :members:

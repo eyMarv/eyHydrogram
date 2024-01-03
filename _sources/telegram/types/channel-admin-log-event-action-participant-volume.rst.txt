@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionParticipantVolume
+===========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionParticipantVolume()
+    :members:

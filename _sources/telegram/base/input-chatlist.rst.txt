@@ -1,0 +1,5 @@
+InputChatlist
+=============
+
+.. autoclass:: hydrogram.raw.base.InputChatlist()
+    :members:

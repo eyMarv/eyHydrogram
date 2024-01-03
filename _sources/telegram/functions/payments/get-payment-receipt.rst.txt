@@ -1,0 +1,5 @@
+payments.GetPaymentReceipt
+==========================
+
+.. autoclass:: hydrogram.raw.functions.payments.GetPaymentReceipt()
+    :members:

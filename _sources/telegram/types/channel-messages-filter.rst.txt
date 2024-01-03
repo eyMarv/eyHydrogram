@@ -1,0 +1,5 @@
+ChannelMessagesFilter
+=====================
+
+.. autoclass:: hydrogram.raw.types.ChannelMessagesFilter()
+    :members:

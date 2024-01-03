@@ -1,0 +1,5 @@
+UpdateBotShippingQuery
+======================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotShippingQuery()
+    :members:

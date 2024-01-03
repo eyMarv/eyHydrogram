@@ -1,0 +1,5 @@
+CdnPublicKey
+============
+
+.. autoclass:: hydrogram.raw.types.CdnPublicKey()
+    :members:

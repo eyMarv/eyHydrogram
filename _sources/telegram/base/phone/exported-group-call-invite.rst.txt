@@ -1,0 +1,5 @@
+phone.ExportedGroupCallInvite
+=============================
+
+.. autoclass:: hydrogram.raw.base.phone.ExportedGroupCallInvite()
+    :members:

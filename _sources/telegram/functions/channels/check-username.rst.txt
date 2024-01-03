@@ -1,0 +1,5 @@
+channels.CheckUsername
+======================
+
+.. autoclass:: hydrogram.raw.functions.channels.CheckUsername()
+    :members:

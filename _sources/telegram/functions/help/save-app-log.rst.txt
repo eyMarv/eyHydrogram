@@ -1,0 +1,5 @@
+help.SaveAppLog
+===============
+
+.. autoclass:: hydrogram.raw.functions.help.SaveAppLog()
+    :members:

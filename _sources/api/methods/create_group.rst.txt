@@ -1,0 +1,4 @@
+create_group()
+==============
+
+.. automethod:: hydrogram.Client.create_group()

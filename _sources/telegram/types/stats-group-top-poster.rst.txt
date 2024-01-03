@@ -1,0 +1,5 @@
+StatsGroupTopPoster
+===================
+
+.. autoclass:: hydrogram.raw.types.StatsGroupTopPoster()
+    :members:

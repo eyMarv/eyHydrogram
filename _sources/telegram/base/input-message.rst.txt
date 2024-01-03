@@ -1,0 +1,5 @@
+InputMessage
+============
+
+.. autoclass:: hydrogram.raw.base.InputMessage()
+    :members:

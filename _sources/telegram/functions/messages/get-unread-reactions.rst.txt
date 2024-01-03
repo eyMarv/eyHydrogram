@@ -1,0 +1,5 @@
+messages.GetUnreadReactions
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetUnreadReactions()
+    :members:

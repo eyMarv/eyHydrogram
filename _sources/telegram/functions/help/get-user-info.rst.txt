@@ -1,0 +1,5 @@
+help.GetUserInfo
+================
+
+.. autoclass:: hydrogram.raw.functions.help.GetUserInfo()
+    :members:

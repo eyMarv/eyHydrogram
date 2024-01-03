@@ -1,0 +1,5 @@
+help.PeerColorSet
+=================
+
+.. autoclass:: hydrogram.raw.base.help.PeerColorSet()
+    :members:

@@ -1,0 +1,5 @@
+PageBlockSlideshow
+==================
+
+.. autoclass:: hydrogram.raw.types.PageBlockSlideshow()
+    :members:

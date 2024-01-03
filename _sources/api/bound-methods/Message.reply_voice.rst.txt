@@ -1,0 +1,4 @@
+Message.reply_voice()
+=====================
+
+.. automethod:: hydrogram.types.Message.reply_voice()

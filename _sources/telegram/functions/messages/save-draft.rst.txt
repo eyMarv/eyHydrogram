@@ -1,0 +1,5 @@
+messages.SaveDraft
+==================
+
+.. autoclass:: hydrogram.raw.functions.messages.SaveDraft()
+    :members:

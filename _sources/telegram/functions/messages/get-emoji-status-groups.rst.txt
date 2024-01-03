@@ -1,0 +1,5 @@
+messages.GetEmojiStatusGroups
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiStatusGroups()
+    :members:

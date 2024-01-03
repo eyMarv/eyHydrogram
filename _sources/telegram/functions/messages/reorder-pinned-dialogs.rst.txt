@@ -1,0 +1,5 @@
+messages.ReorderPinnedDialogs
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReorderPinnedDialogs()
+    :members:

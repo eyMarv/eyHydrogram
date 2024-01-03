@@ -1,0 +1,5 @@
+messages.SendEncryptedService
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendEncryptedService()
+    :members:

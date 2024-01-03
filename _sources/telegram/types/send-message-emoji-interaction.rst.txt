@@ -1,0 +1,5 @@
+SendMessageEmojiInteraction
+===========================
+
+.. autoclass:: hydrogram.raw.types.SendMessageEmojiInteraction()
+    :members:

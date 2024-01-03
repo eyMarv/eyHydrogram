@@ -1,0 +1,5 @@
+UserProfilePhotoEmpty
+=====================
+
+.. autoclass:: hydrogram.raw.types.UserProfilePhotoEmpty()
+    :members:

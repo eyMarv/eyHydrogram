@@ -1,0 +1,5 @@
+MessageActionChatEditPhoto
+==========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatEditPhoto()
+    :members:

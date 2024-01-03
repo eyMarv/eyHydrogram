@@ -1,0 +1,5 @@
+MediaAreaCoordinates
+====================
+
+.. autoclass:: hydrogram.raw.base.MediaAreaCoordinates()
+    :members:

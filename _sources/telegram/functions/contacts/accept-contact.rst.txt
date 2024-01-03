@@ -1,0 +1,5 @@
+contacts.AcceptContact
+======================
+
+.. autoclass:: hydrogram.raw.functions.contacts.AcceptContact()
+    :members:

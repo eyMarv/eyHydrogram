@@ -1,0 +1,5 @@
+messages.SavedDialogsSlice
+==========================
+
+.. autoclass:: hydrogram.raw.types.messages.SavedDialogsSlice()
+    :members:

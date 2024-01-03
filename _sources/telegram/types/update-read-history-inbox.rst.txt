@@ -1,0 +1,5 @@
+UpdateReadHistoryInbox
+======================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadHistoryInbox()
+    :members:

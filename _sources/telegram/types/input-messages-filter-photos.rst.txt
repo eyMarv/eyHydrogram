@@ -1,0 +1,5 @@
+InputMessagesFilterPhotos
+=========================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterPhotos()
+    :members:

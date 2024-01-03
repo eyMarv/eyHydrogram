@@ -1,0 +1,5 @@
+InputMediaGeoLive
+=================
+
+.. autoclass:: hydrogram.raw.types.InputMediaGeoLive()
+    :members:

@@ -1,0 +1,5 @@
+InlineQueryPeerTypeMegagroup
+============================
+
+.. autoclass:: hydrogram.raw.types.InlineQueryPeerTypeMegagroup()
+    :members:

@@ -1,0 +1,5 @@
+MessageActionGameScore
+======================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGameScore()
+    :members:

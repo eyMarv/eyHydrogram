@@ -1,0 +1,5 @@
+auth.CancelCode
+===============
+
+.. autoclass:: hydrogram.raw.functions.auth.CancelCode()
+    :members:

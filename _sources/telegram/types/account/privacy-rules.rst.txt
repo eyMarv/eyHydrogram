@@ -1,0 +1,5 @@
+account.PrivacyRules
+====================
+
+.. autoclass:: hydrogram.raw.types.account.PrivacyRules()
+    :members:

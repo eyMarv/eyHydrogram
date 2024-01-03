@@ -1,0 +1,5 @@
+InputStorePaymentPremiumSubscription
+====================================
+
+.. autoclass:: hydrogram.raw.types.InputStorePaymentPremiumSubscription()
+    :members:

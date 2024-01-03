@@ -1,0 +1,5 @@
+auth.SentCodeTypeSms
+====================
+
+.. autoclass:: hydrogram.raw.types.auth.SentCodeTypeSms()
+    :members:

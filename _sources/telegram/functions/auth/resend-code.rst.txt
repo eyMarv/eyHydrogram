@@ -1,0 +1,5 @@
+auth.ResendCode
+===============
+
+.. autoclass:: hydrogram.raw.functions.auth.ResendCode()
+    :members:

@@ -1,0 +1,5 @@
+PostInteractionCountersMessage
+==============================
+
+.. autoclass:: hydrogram.raw.types.PostInteractionCountersMessage()
+    :members:

@@ -1,0 +1,5 @@
+contacts.GetLocated
+===================
+
+.. autoclass:: hydrogram.raw.functions.contacts.GetLocated()
+    :members:

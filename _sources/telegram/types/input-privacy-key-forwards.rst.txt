@@ -1,0 +1,5 @@
+InputPrivacyKeyForwards
+=======================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyKeyForwards()
+    :members:

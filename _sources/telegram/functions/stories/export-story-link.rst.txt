@@ -1,0 +1,5 @@
+stories.ExportStoryLink
+=======================
+
+.. autoclass:: hydrogram.raw.functions.stories.ExportStoryLink()
+    :members:

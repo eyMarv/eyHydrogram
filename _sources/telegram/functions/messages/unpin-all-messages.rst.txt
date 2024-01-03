@@ -1,0 +1,5 @@
+messages.UnpinAllMessages
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.UnpinAllMessages()
+    :members:

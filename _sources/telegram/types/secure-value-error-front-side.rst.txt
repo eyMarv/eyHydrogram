@@ -1,0 +1,5 @@
+SecureValueErrorFrontSide
+=========================
+
+.. autoclass:: hydrogram.raw.types.SecureValueErrorFrontSide()
+    :members:

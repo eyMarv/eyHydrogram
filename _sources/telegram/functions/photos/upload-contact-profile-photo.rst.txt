@@ -1,0 +1,5 @@
+photos.UploadContactProfilePhoto
+================================
+
+.. autoclass:: hydrogram.raw.functions.photos.UploadContactProfilePhoto()
+    :members:

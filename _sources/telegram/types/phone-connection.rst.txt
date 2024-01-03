@@ -1,0 +1,5 @@
+PhoneConnection
+===============
+
+.. autoclass:: hydrogram.raw.types.PhoneConnection()
+    :members:

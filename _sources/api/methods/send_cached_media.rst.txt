@@ -1,0 +1,4 @@
+send_cached_media()
+===================
+
+.. automethod:: hydrogram.Client.send_cached_media()

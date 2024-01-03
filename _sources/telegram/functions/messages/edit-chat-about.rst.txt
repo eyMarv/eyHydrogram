@@ -1,0 +1,5 @@
+messages.EditChatAbout
+======================
+
+.. autoclass:: hydrogram.raw.functions.messages.EditChatAbout()
+    :members:

@@ -1,0 +1,5 @@
+AccessPointRule
+===============
+
+.. autoclass:: hydrogram.raw.base.AccessPointRule()
+    :members:

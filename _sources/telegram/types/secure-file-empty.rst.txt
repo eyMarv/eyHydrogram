@@ -1,0 +1,5 @@
+SecureFileEmpty
+===============
+
+.. autoclass:: hydrogram.raw.types.SecureFileEmpty()
+    :members:

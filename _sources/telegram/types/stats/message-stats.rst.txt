@@ -1,0 +1,5 @@
+stats.MessageStats
+==================
+
+.. autoclass:: hydrogram.raw.types.stats.MessageStats()
+    :members:

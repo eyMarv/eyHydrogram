@@ -1,0 +1,5 @@
+stories.IncrementStoryViews
+===========================
+
+.. autoclass:: hydrogram.raw.functions.stories.IncrementStoryViews()
+    :members:

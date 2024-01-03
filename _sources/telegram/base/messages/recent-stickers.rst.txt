@@ -1,0 +1,5 @@
+messages.RecentStickers
+=======================
+
+.. autoclass:: hydrogram.raw.base.messages.RecentStickers()
+    :members:

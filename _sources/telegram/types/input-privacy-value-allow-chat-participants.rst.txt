@@ -1,0 +1,5 @@
+InputPrivacyValueAllowChatParticipants
+======================================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyValueAllowChatParticipants()
+    :members:

@@ -1,0 +1,5 @@
+messages.SavedGifsNotModified
+=============================
+
+.. autoclass:: hydrogram.raw.types.messages.SavedGifsNotModified()
+    :members:

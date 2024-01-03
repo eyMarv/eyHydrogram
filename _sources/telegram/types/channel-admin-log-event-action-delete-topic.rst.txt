@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionDeleteTopic
+=====================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionDeleteTopic()
+    :members:

@@ -1,0 +1,5 @@
+InputGeoPoint
+=============
+
+.. autoclass:: hydrogram.raw.base.InputGeoPoint()
+    :members:

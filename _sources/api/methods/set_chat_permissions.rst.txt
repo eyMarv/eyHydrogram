@@ -1,0 +1,4 @@
+set_chat_permissions()
+======================
+
+.. automethod:: hydrogram.Client.set_chat_permissions()

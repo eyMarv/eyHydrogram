@@ -1,0 +1,5 @@
+messages.SearchGlobal
+=====================
+
+.. autoclass:: hydrogram.raw.functions.messages.SearchGlobal()
+    :members:

@@ -1,0 +1,5 @@
+MessageActionChatJoinedByRequest
+================================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatJoinedByRequest()
+    :members:

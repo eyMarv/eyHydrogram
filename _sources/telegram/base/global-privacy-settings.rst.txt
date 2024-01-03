@@ -1,0 +1,5 @@
+GlobalPrivacySettings
+=====================
+
+.. autoclass:: hydrogram.raw.base.GlobalPrivacySettings()
+    :members:

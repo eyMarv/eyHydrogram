@@ -1,0 +1,4 @@
+ChatEvent
+=========
+
+.. autoclass:: hydrogram.types.ChatEvent()

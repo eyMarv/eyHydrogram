@@ -1,0 +1,5 @@
+premium.GetBoostsList
+=====================
+
+.. autoclass:: hydrogram.raw.functions.premium.GetBoostsList()
+    :members:

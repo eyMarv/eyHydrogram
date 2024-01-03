@@ -1,0 +1,5 @@
+contacts.AddContact
+===================
+
+.. autoclass:: hydrogram.raw.functions.contacts.AddContact()
+    :members:

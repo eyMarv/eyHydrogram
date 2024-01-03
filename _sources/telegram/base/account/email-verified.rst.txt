@@ -1,0 +1,5 @@
+account.EmailVerified
+=====================
+
+.. autoclass:: hydrogram.raw.base.account.EmailVerified()
+    :members:

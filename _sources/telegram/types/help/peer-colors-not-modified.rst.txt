@@ -1,0 +1,5 @@
+help.PeerColorsNotModified
+==========================
+
+.. autoclass:: hydrogram.raw.types.help.PeerColorsNotModified()
+    :members:

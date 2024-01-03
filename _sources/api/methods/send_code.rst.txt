@@ -1,0 +1,4 @@
+send_code()
+===========
+
+.. automethod:: hydrogram.Client.send_code()

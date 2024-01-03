@@ -1,0 +1,4 @@
+Message.reply_animation()
+=========================
+
+.. automethod:: hydrogram.types.Message.reply_animation()

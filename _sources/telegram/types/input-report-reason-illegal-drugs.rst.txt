@@ -1,0 +1,5 @@
+InputReportReasonIllegalDrugs
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputReportReasonIllegalDrugs()
+    :members:

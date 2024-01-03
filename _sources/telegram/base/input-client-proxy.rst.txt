@@ -1,0 +1,5 @@
+InputClientProxy
+================
+
+.. autoclass:: hydrogram.raw.base.InputClientProxy()
+    :members:

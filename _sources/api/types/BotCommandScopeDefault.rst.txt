@@ -1,0 +1,4 @@
+BotCommandScopeDefault
+======================
+
+.. autoclass:: hydrogram.types.BotCommandScopeDefault()

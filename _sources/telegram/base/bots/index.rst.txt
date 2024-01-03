@@ -1,0 +1,10 @@
+Bots
+====
+
+.. module:: hydrogram.raw.base.bots
+
+.. toctree::
+    :titlesonly:
+
+    BotInfo <bot-info>
+

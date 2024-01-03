@@ -1,0 +1,5 @@
+WallPaperSettings
+=================
+
+.. autoclass:: hydrogram.raw.base.WallPaperSettings()
+    :members:

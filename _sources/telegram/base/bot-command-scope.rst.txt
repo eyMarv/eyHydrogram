@@ -1,0 +1,5 @@
+BotCommandScope
+===============
+
+.. autoclass:: hydrogram.raw.base.BotCommandScope()
+    :members:

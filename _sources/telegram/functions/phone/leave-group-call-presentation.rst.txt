@@ -1,0 +1,5 @@
+phone.LeaveGroupCallPresentation
+================================
+
+.. autoclass:: hydrogram.raw.functions.phone.LeaveGroupCallPresentation()
+    :members:

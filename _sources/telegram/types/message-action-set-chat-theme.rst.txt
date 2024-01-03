@@ -1,0 +1,5 @@
+MessageActionSetChatTheme
+=========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionSetChatTheme()
+    :members:

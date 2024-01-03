@@ -1,0 +1,5 @@
+SecureValueTypeUtilityBill
+==========================
+
+.. autoclass:: hydrogram.raw.types.SecureValueTypeUtilityBill()
+    :members:

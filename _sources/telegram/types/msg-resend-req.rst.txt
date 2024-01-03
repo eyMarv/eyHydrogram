@@ -1,0 +1,5 @@
+MsgResendReq
+============
+
+.. autoclass:: hydrogram.raw.types.MsgResendReq()
+    :members:

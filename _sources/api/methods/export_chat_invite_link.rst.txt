@@ -1,0 +1,4 @@
+export_chat_invite_link()
+=========================
+
+.. automethod:: hydrogram.Client.export_chat_invite_link()

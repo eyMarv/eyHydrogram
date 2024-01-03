@@ -1,0 +1,5 @@
+SecureValueErrorTranslationFile
+===============================
+
+.. autoclass:: hydrogram.raw.types.SecureValueErrorTranslationFile()
+    :members:

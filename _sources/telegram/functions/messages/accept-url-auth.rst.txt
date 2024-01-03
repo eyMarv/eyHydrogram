@@ -1,0 +1,5 @@
+messages.AcceptUrlAuth
+======================
+
+.. autoclass:: hydrogram.raw.functions.messages.AcceptUrlAuth()
+    :members:

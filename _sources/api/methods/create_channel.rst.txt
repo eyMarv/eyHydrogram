@@ -1,0 +1,4 @@
+create_channel()
+================
+
+.. automethod:: hydrogram.Client.create_channel()

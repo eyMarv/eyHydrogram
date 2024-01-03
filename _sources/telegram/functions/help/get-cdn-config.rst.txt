@@ -1,0 +1,5 @@
+help.GetCdnConfig
+=================
+
+.. autoclass:: hydrogram.raw.functions.help.GetCdnConfig()
+    :members:

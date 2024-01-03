@@ -1,0 +1,5 @@
+UpdateBotMessageReactions
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotMessageReactions()
+    :members:

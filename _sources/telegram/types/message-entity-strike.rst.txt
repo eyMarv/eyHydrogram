@@ -1,0 +1,5 @@
+MessageEntityStrike
+===================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityStrike()
+    :members:

@@ -1,0 +1,4 @@
+VideoChatScheduled
+==================
+
+.. autoclass:: hydrogram.types.VideoChatScheduled()

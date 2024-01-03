@@ -1,0 +1,5 @@
+MessageEntityCashtag
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityCashtag()
+    :members:

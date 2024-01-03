@@ -1,0 +1,5 @@
+account.SendConfirmPhoneCode
+============================
+
+.. autoclass:: hydrogram.raw.functions.account.SendConfirmPhoneCode()
+    :members:

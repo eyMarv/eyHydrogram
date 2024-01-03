@@ -1,0 +1,5 @@
+InputPrivacyKeyAddedByPhone
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputPrivacyKeyAddedByPhone()
+    :members:

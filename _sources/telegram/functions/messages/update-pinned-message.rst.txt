@@ -1,0 +1,5 @@
+messages.UpdatePinnedMessage
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.UpdatePinnedMessage()
+    :members:

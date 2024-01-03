@@ -1,0 +1,4 @@
+ChatPermissions
+===============
+
+.. autoclass:: hydrogram.types.ChatPermissions()

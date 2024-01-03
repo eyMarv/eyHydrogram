@@ -1,0 +1,5 @@
+AutoSaveException
+=================
+
+.. autoclass:: hydrogram.raw.base.AutoSaveException()
+    :members:

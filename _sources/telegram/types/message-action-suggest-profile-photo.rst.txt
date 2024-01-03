@@ -1,0 +1,5 @@
+MessageActionSuggestProfilePhoto
+================================
+
+.. autoclass:: hydrogram.raw.types.MessageActionSuggestProfilePhoto()
+    :members:

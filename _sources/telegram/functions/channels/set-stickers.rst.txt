@@ -1,0 +1,5 @@
+channels.SetStickers
+====================
+
+.. autoclass:: hydrogram.raw.functions.channels.SetStickers()
+    :members:

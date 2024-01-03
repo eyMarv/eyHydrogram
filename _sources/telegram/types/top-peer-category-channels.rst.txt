@@ -1,0 +1,5 @@
+TopPeerCategoryChannels
+=======================
+
+.. autoclass:: hydrogram.raw.types.TopPeerCategoryChannels()
+    :members:

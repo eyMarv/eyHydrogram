@@ -1,0 +1,5 @@
+MessageEntityMention
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityMention()
+    :members:

@@ -1,0 +1,5 @@
+StatsGraphError
+===============
+
+.. autoclass:: hydrogram.raw.types.StatsGraphError()
+    :members:

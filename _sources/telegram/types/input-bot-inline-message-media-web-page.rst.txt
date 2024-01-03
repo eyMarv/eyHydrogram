@@ -1,0 +1,5 @@
+InputBotInlineMessageMediaWebPage
+=================================
+
+.. autoclass:: hydrogram.raw.types.InputBotInlineMessageMediaWebPage()
+    :members:

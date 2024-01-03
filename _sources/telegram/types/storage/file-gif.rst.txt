@@ -1,0 +1,5 @@
+storage.FileGif
+===============
+
+.. autoclass:: hydrogram.raw.types.storage.FileGif()
+    :members:

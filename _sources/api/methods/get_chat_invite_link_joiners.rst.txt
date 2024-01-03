@@ -1,0 +1,4 @@
+get_chat_invite_link_joiners()
+==============================
+
+.. automethod:: hydrogram.Client.get_chat_invite_link_joiners()

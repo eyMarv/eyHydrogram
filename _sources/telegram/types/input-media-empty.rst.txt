@@ -1,0 +1,5 @@
+InputMediaEmpty
+===============
+
+.. autoclass:: hydrogram.raw.types.InputMediaEmpty()
+    :members:

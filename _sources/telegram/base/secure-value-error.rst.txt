@@ -1,0 +1,5 @@
+SecureValueError
+================
+
+.. autoclass:: hydrogram.raw.base.SecureValueError()
+    :members:

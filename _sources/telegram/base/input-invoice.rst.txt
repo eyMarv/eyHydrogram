@@ -1,0 +1,5 @@
+InputInvoice
+============
+
+.. autoclass:: hydrogram.raw.base.InputInvoice()
+    :members:

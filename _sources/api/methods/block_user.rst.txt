@@ -1,0 +1,4 @@
+block_user()
+============
+
+.. automethod:: hydrogram.Client.block_user()

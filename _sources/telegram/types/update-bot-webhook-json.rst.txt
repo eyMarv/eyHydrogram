@@ -1,0 +1,5 @@
+UpdateBotWebhookJSON
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotWebhookJSON()
+    :members:

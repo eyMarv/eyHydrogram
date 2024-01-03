@@ -1,0 +1,5 @@
+DhGenFail
+=========
+
+.. autoclass:: hydrogram.raw.types.DhGenFail()
+    :members:

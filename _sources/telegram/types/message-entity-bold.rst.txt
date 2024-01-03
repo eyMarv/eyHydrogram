@@ -1,0 +1,5 @@
+MessageEntityBold
+=================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityBold()
+    :members:

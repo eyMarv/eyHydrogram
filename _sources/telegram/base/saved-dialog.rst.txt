@@ -1,0 +1,5 @@
+SavedDialog
+===========
+
+.. autoclass:: hydrogram.raw.base.SavedDialog()
+    :members:

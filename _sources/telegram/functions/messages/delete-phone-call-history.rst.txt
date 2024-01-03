@@ -1,0 +1,5 @@
+messages.DeletePhoneCallHistory
+===============================
+
+.. autoclass:: hydrogram.raw.functions.messages.DeletePhoneCallHistory()
+    :members:

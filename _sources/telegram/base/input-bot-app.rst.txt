@@ -1,0 +1,5 @@
+InputBotApp
+===========
+
+.. autoclass:: hydrogram.raw.base.InputBotApp()
+    :members:

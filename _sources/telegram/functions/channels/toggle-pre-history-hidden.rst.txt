@@ -1,0 +1,5 @@
+channels.TogglePreHistoryHidden
+===============================
+
+.. autoclass:: hydrogram.raw.functions.channels.TogglePreHistoryHidden()
+    :members:

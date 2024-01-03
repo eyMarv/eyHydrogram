@@ -1,0 +1,4 @@
+sign_in_bot()
+=============
+
+.. automethod:: hydrogram.Client.sign_in_bot()

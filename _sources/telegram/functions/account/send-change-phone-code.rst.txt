@@ -1,0 +1,5 @@
+account.SendChangePhoneCode
+===========================
+
+.. autoclass:: hydrogram.raw.functions.account.SendChangePhoneCode()
+    :members:

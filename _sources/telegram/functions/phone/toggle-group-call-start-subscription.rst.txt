@@ -1,0 +1,5 @@
+phone.ToggleGroupCallStartSubscription
+======================================
+
+.. autoclass:: hydrogram.raw.functions.phone.ToggleGroupCallStartSubscription()
+    :members:

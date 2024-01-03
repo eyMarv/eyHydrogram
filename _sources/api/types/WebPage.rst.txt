@@ -1,0 +1,4 @@
+WebPage
+=======
+
+.. autoclass:: hydrogram.types.WebPage()

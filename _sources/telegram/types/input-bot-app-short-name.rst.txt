@@ -1,0 +1,5 @@
+InputBotAppShortName
+====================
+
+.. autoclass:: hydrogram.raw.types.InputBotAppShortName()
+    :members:

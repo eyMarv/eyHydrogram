@@ -1,0 +1,5 @@
+messages.GetMessagesReactions
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetMessagesReactions()
+    :members:

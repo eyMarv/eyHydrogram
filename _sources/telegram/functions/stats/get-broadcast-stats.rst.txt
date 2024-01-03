@@ -1,0 +1,5 @@
+stats.GetBroadcastStats
+=======================
+
+.. autoclass:: hydrogram.raw.functions.stats.GetBroadcastStats()
+    :members:

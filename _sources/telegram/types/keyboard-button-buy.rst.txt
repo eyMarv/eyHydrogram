@@ -1,0 +1,5 @@
+KeyboardButtonBuy
+=================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonBuy()
+    :members:

@@ -1,0 +1,5 @@
+Ping
+====
+
+.. autoclass:: hydrogram.raw.functions.Ping()
+    :members:

@@ -1,0 +1,5 @@
+StatsURL
+========
+
+.. autoclass:: hydrogram.raw.types.StatsURL()
+    :members:

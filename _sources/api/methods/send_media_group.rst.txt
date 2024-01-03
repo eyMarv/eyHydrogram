@@ -1,0 +1,4 @@
+send_media_group()
+==================
+
+.. automethod:: hydrogram.Client.send_media_group()

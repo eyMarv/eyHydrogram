@@ -1,0 +1,4 @@
+User.unblock()
+==============
+
+.. automethod:: hydrogram.types.User.unblock()

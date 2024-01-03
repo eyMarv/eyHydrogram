@@ -1,0 +1,5 @@
+folders.EditPeerFolders
+=======================
+
+.. autoclass:: hydrogram.raw.functions.folders.EditPeerFolders()
+    :members:

@@ -1,0 +1,5 @@
+help.GetPeerColors
+==================
+
+.. autoclass:: hydrogram.raw.functions.help.GetPeerColors()
+    :members:

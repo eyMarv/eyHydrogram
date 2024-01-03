@@ -1,0 +1,5 @@
+DestroyAuthKeyFail
+==================
+
+.. autoclass:: hydrogram.raw.types.DestroyAuthKeyFail()
+    :members:

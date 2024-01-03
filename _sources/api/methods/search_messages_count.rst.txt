@@ -1,0 +1,4 @@
+search_messages_count()
+=======================
+
+.. automethod:: hydrogram.Client.search_messages_count()

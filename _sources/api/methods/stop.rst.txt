@@ -1,0 +1,4 @@
+stop()
+======
+
+.. automethod:: hydrogram.Client.stop()

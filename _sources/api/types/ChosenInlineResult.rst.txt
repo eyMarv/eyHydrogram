@@ -1,0 +1,4 @@
+ChosenInlineResult
+==================
+
+.. autoclass:: hydrogram.types.ChosenInlineResult()

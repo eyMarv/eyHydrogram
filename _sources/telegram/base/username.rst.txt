@@ -1,0 +1,5 @@
+Username
+========
+
+.. autoclass:: hydrogram.raw.base.Username()
+    :members:

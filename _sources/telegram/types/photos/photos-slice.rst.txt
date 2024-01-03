@@ -1,0 +1,5 @@
+photos.PhotosSlice
+==================
+
+.. autoclass:: hydrogram.raw.types.photos.PhotosSlice()
+    :members:

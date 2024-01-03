@@ -1,0 +1,4 @@
+WebAppInfo
+==========
+
+.. autoclass:: hydrogram.types.WebAppInfo()

@@ -1,0 +1,5 @@
+UserStatusEmpty
+===============
+
+.. autoclass:: hydrogram.raw.types.UserStatusEmpty()
+    :members:

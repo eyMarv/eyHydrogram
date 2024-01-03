@@ -1,0 +1,5 @@
+SecureFile
+==========
+
+.. autoclass:: hydrogram.raw.types.SecureFile()
+    :members:

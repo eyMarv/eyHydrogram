@@ -1,0 +1,5 @@
+SendMessageRecordVideoAction
+============================
+
+.. autoclass:: hydrogram.raw.types.SendMessageRecordVideoAction()
+    :members:

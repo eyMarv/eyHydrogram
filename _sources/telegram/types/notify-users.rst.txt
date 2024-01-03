@@ -1,0 +1,5 @@
+NotifyUsers
+===========
+
+.. autoclass:: hydrogram.raw.types.NotifyUsers()
+    :members:

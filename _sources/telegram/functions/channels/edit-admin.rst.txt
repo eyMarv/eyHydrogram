@@ -1,0 +1,5 @@
+channels.EditAdmin
+==================
+
+.. autoclass:: hydrogram.raw.functions.channels.EditAdmin()
+    :members:

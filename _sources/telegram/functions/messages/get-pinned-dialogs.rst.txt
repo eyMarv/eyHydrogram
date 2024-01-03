@@ -1,0 +1,5 @@
+messages.GetPinnedDialogs
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetPinnedDialogs()
+    :members:

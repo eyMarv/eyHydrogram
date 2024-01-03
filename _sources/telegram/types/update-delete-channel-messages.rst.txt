@@ -1,0 +1,5 @@
+UpdateDeleteChannelMessages
+===========================
+
+.. autoclass:: hydrogram.raw.types.UpdateDeleteChannelMessages()
+    :members:

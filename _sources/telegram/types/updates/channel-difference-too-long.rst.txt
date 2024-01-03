@@ -1,0 +1,5 @@
+updates.ChannelDifferenceTooLong
+================================
+
+.. autoclass:: hydrogram.raw.types.updates.ChannelDifferenceTooLong()
+    :members:

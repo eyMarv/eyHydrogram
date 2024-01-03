@@ -1,0 +1,5 @@
+TextEmail
+=========
+
+.. autoclass:: hydrogram.raw.types.TextEmail()
+    :members:

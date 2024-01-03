@@ -1,0 +1,4 @@
+User.listen()
+=============
+
+.. automethod:: hydrogram.types.User.listen()

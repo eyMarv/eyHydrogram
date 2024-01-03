@@ -1,0 +1,5 @@
+payments.PaymentReceipt
+=======================
+
+.. autoclass:: hydrogram.raw.base.payments.PaymentReceipt()
+    :members:

@@ -1,0 +1,4 @@
+Message.reply_photo()
+=====================
+
+.. automethod:: hydrogram.types.Message.reply_photo()

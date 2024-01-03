@@ -1,0 +1,5 @@
+PrivacyValueAllowUsers
+======================
+
+.. autoclass:: hydrogram.raw.types.PrivacyValueAllowUsers()
+    :members:

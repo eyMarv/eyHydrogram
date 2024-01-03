@@ -1,0 +1,5 @@
+account.UpdateDeviceLocked
+==========================
+
+.. autoclass:: hydrogram.raw.functions.account.UpdateDeviceLocked()
+    :members:

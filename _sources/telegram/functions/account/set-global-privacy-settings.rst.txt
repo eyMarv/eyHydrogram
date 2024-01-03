@@ -1,0 +1,5 @@
+account.SetGlobalPrivacySettings
+================================
+
+.. autoclass:: hydrogram.raw.functions.account.SetGlobalPrivacySettings()
+    :members:

@@ -1,0 +1,5 @@
+payments.AssignPlayMarketTransaction
+====================================
+
+.. autoclass:: hydrogram.raw.functions.payments.AssignPlayMarketTransaction()
+    :members:

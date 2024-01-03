@@ -1,0 +1,5 @@
+stories.GetAllReadPeerStories
+=============================
+
+.. autoclass:: hydrogram.raw.functions.stories.GetAllReadPeerStories()
+    :members:

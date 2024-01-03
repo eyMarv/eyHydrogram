@@ -1,0 +1,4 @@
+Message.download()
+==================
+
+.. automethod:: hydrogram.types.Message.download()

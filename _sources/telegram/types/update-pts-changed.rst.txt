@@ -1,0 +1,5 @@
+UpdatePtsChanged
+================
+
+.. autoclass:: hydrogram.raw.types.UpdatePtsChanged()
+    :members:

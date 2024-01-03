@@ -1,0 +1,5 @@
+help.UserInfo
+=============
+
+.. autoclass:: hydrogram.raw.types.help.UserInfo()
+    :members:

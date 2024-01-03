@@ -1,0 +1,5 @@
+messages.ClearRecentReactions
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ClearRecentReactions()
+    :members:

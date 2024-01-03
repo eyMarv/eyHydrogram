@@ -1,0 +1,5 @@
+messages.StartBot
+=================
+
+.. autoclass:: hydrogram.raw.functions.messages.StartBot()
+    :members:

@@ -1,0 +1,5 @@
+account.CheckUsername
+=====================
+
+.. autoclass:: hydrogram.raw.functions.account.CheckUsername()
+    :members:

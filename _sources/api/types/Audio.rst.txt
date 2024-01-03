@@ -1,0 +1,4 @@
+Audio
+=====
+
+.. autoclass:: hydrogram.types.Audio()

@@ -1,0 +1,5 @@
+InputMessagesFilterRoundVoice
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputMessagesFilterRoundVoice()
+    :members:

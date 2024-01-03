@@ -1,0 +1,5 @@
+InputNotifyUsers
+================
+
+.. autoclass:: hydrogram.raw.types.InputNotifyUsers()
+    :members:

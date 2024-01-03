@@ -1,0 +1,5 @@
+phone.SaveDefaultGroupCallJoinAs
+================================
+
+.. autoclass:: hydrogram.raw.functions.phone.SaveDefaultGroupCallJoinAs()
+    :members:

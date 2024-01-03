@@ -1,0 +1,5 @@
+help.SetBotUpdatesStatus
+========================
+
+.. autoclass:: hydrogram.raw.functions.help.SetBotUpdatesStatus()
+    :members:

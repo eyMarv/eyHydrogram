@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionToggleGroupCallSetting
+================================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionToggleGroupCallSetting()
+    :members:

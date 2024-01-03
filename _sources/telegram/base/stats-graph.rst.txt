@@ -1,0 +1,5 @@
+StatsGraph
+==========
+
+.. autoclass:: hydrogram.raw.base.StatsGraph()
+    :members:

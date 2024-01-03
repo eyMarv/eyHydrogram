@@ -1,0 +1,4 @@
+send_sticker()
+==============
+
+.. automethod:: hydrogram.Client.send_sticker()

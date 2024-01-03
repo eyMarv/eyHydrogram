@@ -1,0 +1,5 @@
+StoryReactionPublicForward
+==========================
+
+.. autoclass:: hydrogram.raw.types.StoryReactionPublicForward()
+    :members:

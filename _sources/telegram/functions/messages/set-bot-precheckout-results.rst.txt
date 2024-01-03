@@ -1,0 +1,5 @@
+messages.SetBotPrecheckoutResults
+=================================
+
+.. autoclass:: hydrogram.raw.functions.messages.SetBotPrecheckoutResults()
+    :members:

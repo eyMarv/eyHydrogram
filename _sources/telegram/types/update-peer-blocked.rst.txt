@@ -1,0 +1,5 @@
+UpdatePeerBlocked
+=================
+
+.. autoclass:: hydrogram.raw.types.UpdatePeerBlocked()
+    :members:

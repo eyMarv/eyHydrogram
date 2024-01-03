@@ -1,0 +1,5 @@
+messages.SendVote
+=================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendVote()
+    :members:

@@ -1,0 +1,5 @@
+contacts.ResolvePhone
+=====================
+
+.. autoclass:: hydrogram.raw.functions.contacts.ResolvePhone()
+    :members:

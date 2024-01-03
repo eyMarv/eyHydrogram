@@ -1,0 +1,5 @@
+TextSubscript
+=============
+
+.. autoclass:: hydrogram.raw.types.TextSubscript()
+    :members:

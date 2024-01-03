@@ -1,0 +1,5 @@
+messages.DeleteSavedHistory
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.DeleteSavedHistory()
+    :members:

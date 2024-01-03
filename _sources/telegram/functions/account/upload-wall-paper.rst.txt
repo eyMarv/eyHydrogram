@@ -1,0 +1,5 @@
+account.UploadWallPaper
+=======================
+
+.. autoclass:: hydrogram.raw.functions.account.UploadWallPaper()
+    :members:

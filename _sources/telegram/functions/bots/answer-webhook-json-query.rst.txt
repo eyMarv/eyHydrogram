@@ -1,0 +1,5 @@
+bots.AnswerWebhookJSONQuery
+===========================
+
+.. autoclass:: hydrogram.raw.functions.bots.AnswerWebhookJSONQuery()
+    :members:

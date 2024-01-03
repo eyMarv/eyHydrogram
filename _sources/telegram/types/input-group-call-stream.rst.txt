@@ -1,0 +1,5 @@
+InputGroupCallStream
+====================
+
+.. autoclass:: hydrogram.raw.types.InputGroupCallStream()
+    :members:

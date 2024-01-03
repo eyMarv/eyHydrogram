@@ -1,0 +1,5 @@
+UpdateDialogFilters
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdateDialogFilters()
+    :members:

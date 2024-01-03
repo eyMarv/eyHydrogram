@@ -1,0 +1,5 @@
+PostAddress
+===========
+
+.. autoclass:: hydrogram.raw.types.PostAddress()
+    :members:

@@ -1,0 +1,5 @@
+messages.ArchivedStickers
+=========================
+
+.. autoclass:: hydrogram.raw.base.messages.ArchivedStickers()
+    :members:

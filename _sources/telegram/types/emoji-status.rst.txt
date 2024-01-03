@@ -1,0 +1,5 @@
+EmojiStatus
+===========
+
+.. autoclass:: hydrogram.raw.types.EmojiStatus()
+    :members:

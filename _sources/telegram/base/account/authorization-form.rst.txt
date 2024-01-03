@@ -1,0 +1,5 @@
+account.AuthorizationForm
+=========================
+
+.. autoclass:: hydrogram.raw.base.account.AuthorizationForm()
+    :members:

@@ -1,0 +1,4 @@
+Chat.set_protected_content()
+============================
+
+.. automethod:: hydrogram.types.Chat.set_protected_content()

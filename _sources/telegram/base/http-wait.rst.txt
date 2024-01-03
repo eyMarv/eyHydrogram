@@ -1,0 +1,5 @@
+HttpWait
+========
+
+.. autoclass:: hydrogram.raw.base.HttpWait()
+    :members:

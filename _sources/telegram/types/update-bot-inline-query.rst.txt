@@ -1,0 +1,5 @@
+UpdateBotInlineQuery
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotInlineQuery()
+    :members:

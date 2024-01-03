@@ -1,0 +1,5 @@
+DialogFolder
+============
+
+.. autoclass:: hydrogram.raw.types.DialogFolder()
+    :members:

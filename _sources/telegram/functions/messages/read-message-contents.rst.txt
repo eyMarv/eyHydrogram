@@ -1,0 +1,5 @@
+messages.ReadMessageContents
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.ReadMessageContents()
+    :members:

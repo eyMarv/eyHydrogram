@@ -1,0 +1,5 @@
+messages.CheckChatInvite
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.CheckChatInvite()
+    :members:

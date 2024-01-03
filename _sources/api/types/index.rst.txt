@@ -1,0 +1,310 @@
+Available Types
+===============
+
+This page is about Hydrogram Types. All types listed here are available through the ``hydrogram.types`` package.
+Unless required as argument to a client method, most of the types don't need to be manually instantiated because they
+are only returned by other methods. You also don't need to import them, unless you want to type-hint your variables.
+
+.. code-block:: python
+
+    from hydrogram.types import User, Message, ...
+
+.. note::
+
+    Optional fields always exist inside the object, but they could be empty and contain the value of ``None``.
+    Empty fields aren't shown when, for example, using ``print(message)`` and this means that
+    ``hasattr(message, "photo")`` always returns ``True``.
+
+    To tell whether a field is set or not, do a simple boolean check: ``if message.photo: ...``.
+
+-----
+
+.. currentmodule:: hydrogram.types
+
+Users & Chats
+-------------
+
+.. autosummary::
+    :nosignatures:
+
+    User
+    Chat
+    ChatPreview
+    ChatPhoto
+    ChatMember
+    ChatPermissions
+    ChatPrivileges
+    ChatInviteLink
+    ChatAdminWithInviteLinks
+    ChatEvent
+    ChatEventFilter
+    ChatMemberUpdated
+    ChatJoinRequest
+    ChatJoiner
+    Dialog
+    Restriction
+    EmojiStatus
+
+.. toctree::
+    :hidden:
+
+    User
+    Chat
+    ChatPreview
+    ChatPhoto
+    ChatMember
+    ChatPermissions
+    ChatPrivileges
+    ChatInviteLink
+    ChatAdminWithInviteLinks
+    ChatEvent
+    ChatEventFilter
+    ChatMemberUpdated
+    ChatJoinRequest
+    ChatJoiner
+    Dialog
+    Restriction
+    EmojiStatus
+
+Messages & Media
+----------------
+
+.. autosummary::
+    :nosignatures:
+
+    Message
+    MessageEntity
+    Photo
+    Thumbnail
+    Audio
+    Document
+    Animation
+    Video
+    Voice
+    VideoNote
+    Contact
+    Location
+    Venue
+    Sticker
+    Game
+    WebPage
+    Poll
+    PollOption
+    Dice
+    Reaction
+    VideoChatScheduled
+    VideoChatStarted
+    VideoChatEnded
+    VideoChatMembersInvited
+    WebAppData
+    MessageReactions
+    ChatReactions
+
+.. toctree::
+    :hidden:
+
+    Message
+    MessageEntity
+    Photo
+    Thumbnail
+    Audio
+    Document
+    Animation
+    Video
+    Voice
+    VideoNote
+    Contact
+    Location
+    Venue
+    Sticker
+    Game
+    WebPage
+    Poll
+    PollOption
+    Dice
+    Reaction
+    VideoChatScheduled
+    VideoChatStarted
+    VideoChatEnded
+    VideoChatMembersInvited
+    WebAppData
+    MessageReactions
+    ChatReactions
+
+Bot keyboards
+-------------
+
+.. autosummary::
+    :nosignatures:
+
+    ReplyKeyboardMarkup
+    KeyboardButton
+    ReplyKeyboardRemove
+    InlineKeyboardMarkup
+    InlineKeyboardButton
+    LoginUrl
+    ForceReply
+    CallbackQuery
+    GameHighScore
+    CallbackGame
+    WebAppInfo
+    MenuButton
+    MenuButtonCommands
+    MenuButtonWebApp
+    MenuButtonDefault
+    SentWebAppMessage
+
+.. toctree::
+    :hidden:
+
+    ReplyKeyboardMarkup
+    KeyboardButton
+    ReplyKeyboardRemove
+    InlineKeyboardMarkup
+    InlineKeyboardButton
+    LoginUrl
+    ForceReply
+    CallbackQuery
+    GameHighScore
+    CallbackGame
+    WebAppInfo
+    MenuButton
+    MenuButtonCommands
+    MenuButtonWebApp
+    MenuButtonDefault
+    SentWebAppMessage
+
+Bot commands
+-------------
+
+.. autosummary::
+    :nosignatures:
+
+    BotCommand
+    BotCommandScope
+    BotCommandScopeDefault
+    BotCommandScopeAllPrivateChats
+    BotCommandScopeAllGroupChats
+    BotCommandScopeAllChatAdministrators
+    BotCommandScopeChat
+    BotCommandScopeChatAdministrators
+    BotCommandScopeChatMember
+
+.. toctree::
+    :hidden:
+
+    BotCommand
+    BotCommandScope
+    BotCommandScopeDefault
+    BotCommandScopeAllPrivateChats
+    BotCommandScopeAllGroupChats
+    BotCommandScopeAllChatAdministrators
+    BotCommandScopeChat
+    BotCommandScopeChatAdministrators
+    BotCommandScopeChatMember
+
+Input Media
+-----------
+
+.. autosummary::
+    :nosignatures:
+
+    InputMedia
+    InputMediaPhoto
+    InputMediaVideo
+    InputMediaAudio
+    InputMediaAnimation
+    InputMediaDocument
+    InputPhoneContact
+
+.. toctree::
+    :hidden:
+
+    InputMedia
+    InputMediaPhoto
+    InputMediaVideo
+    InputMediaAudio
+    InputMediaAnimation
+    InputMediaDocument
+    InputPhoneContact
+
+Inline Mode
+-----------
+
+.. autosummary::
+    :nosignatures:
+
+    InlineQuery
+    InlineQueryResult
+    InlineQueryResultCachedAudio
+    InlineQueryResultCachedDocument
+    InlineQueryResultCachedAnimation
+    InlineQueryResultCachedPhoto
+    InlineQueryResultCachedSticker
+    InlineQueryResultCachedVideo
+    InlineQueryResultCachedVoice
+    InlineQueryResultArticle
+    InlineQueryResultAudio
+    InlineQueryResultContact
+    InlineQueryResultDocument
+    InlineQueryResultAnimation
+    InlineQueryResultLocation
+    InlineQueryResultPhoto
+    InlineQueryResultVenue
+    InlineQueryResultVideo
+    InlineQueryResultVoice
+    ChosenInlineResult
+
+.. toctree::
+    :hidden:
+
+    InlineQuery
+    InlineQueryResult
+    InlineQueryResultCachedAudio
+    InlineQueryResultCachedDocument
+    InlineQueryResultCachedAnimation
+    InlineQueryResultCachedPhoto
+    InlineQueryResultCachedSticker
+    InlineQueryResultCachedVideo
+    InlineQueryResultCachedVoice
+    InlineQueryResultArticle
+    InlineQueryResultAudio
+    InlineQueryResultContact
+    InlineQueryResultDocument
+    InlineQueryResultAnimation
+    InlineQueryResultLocation
+    InlineQueryResultPhoto
+    InlineQueryResultVenue
+    InlineQueryResultVideo
+    InlineQueryResultVoice
+    ChosenInlineResult
+
+InputMessageContent
+-------------------
+
+.. autosummary::
+    :nosignatures:
+
+    InputMessageContent
+    InputTextMessageContent
+
+.. toctree::
+    :hidden:
+
+    InputMessageContent
+    InputTextMessageContent
+
+Authorization
+-------------
+
+.. autosummary::
+    :nosignatures:
+
+    SentCode
+    TermsOfService
+
+.. toctree::
+    :hidden:
+
+    SentCode
+    TermsOfService

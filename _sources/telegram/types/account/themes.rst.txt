@@ -1,0 +1,5 @@
+account.Themes
+==============
+
+.. autoclass:: hydrogram.raw.types.account.Themes()
+    :members:

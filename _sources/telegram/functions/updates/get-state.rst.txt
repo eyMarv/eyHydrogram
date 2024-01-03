@@ -1,0 +1,5 @@
+updates.GetState
+================
+
+.. autoclass:: hydrogram.raw.functions.updates.GetState()
+    :members:

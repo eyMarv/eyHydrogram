@@ -1,0 +1,4 @@
+get_dialogs_count()
+===================
+
+.. automethod:: hydrogram.Client.get_dialogs_count()

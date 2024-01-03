@@ -1,0 +1,5 @@
+messages.EditMessage
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.EditMessage()
+    :members:

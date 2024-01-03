@@ -1,0 +1,5 @@
+PhoneCallRequested
+==================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallRequested()
+    :members:

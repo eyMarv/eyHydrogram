@@ -1,0 +1,5 @@
+ThemeSettings
+=============
+
+.. autoclass:: hydrogram.raw.base.ThemeSettings()
+    :members:

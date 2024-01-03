@@ -1,0 +1,5 @@
+BadServerSalt
+=============
+
+.. autoclass:: hydrogram.raw.types.BadServerSalt()
+    :members:

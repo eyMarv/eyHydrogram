@@ -1,0 +1,5 @@
+payments.ClearSavedInfo
+=======================
+
+.. autoclass:: hydrogram.raw.functions.payments.ClearSavedInfo()
+    :members:

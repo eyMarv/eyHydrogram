@@ -1,0 +1,5 @@
+InitConnection
+==============
+
+.. autoclass:: hydrogram.raw.functions.InitConnection()
+    :members:

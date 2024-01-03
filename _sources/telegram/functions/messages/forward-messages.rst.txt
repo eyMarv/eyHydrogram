@@ -1,0 +1,5 @@
+messages.ForwardMessages
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.ForwardMessages()
+    :members:

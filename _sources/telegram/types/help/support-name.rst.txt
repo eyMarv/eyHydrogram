@@ -1,0 +1,5 @@
+help.SupportName
+================
+
+.. autoclass:: hydrogram.raw.types.help.SupportName()
+    :members:

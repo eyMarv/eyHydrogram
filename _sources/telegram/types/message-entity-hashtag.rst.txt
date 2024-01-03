@@ -1,0 +1,5 @@
+MessageEntityHashtag
+====================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityHashtag()
+    :members:

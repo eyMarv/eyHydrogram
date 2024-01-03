@@ -1,0 +1,4 @@
+remove_handler()
+================
+
+.. automethod:: hydrogram.Client.remove_handler()

@@ -1,0 +1,5 @@
+account.GetRecentEmojiStatuses
+==============================
+
+.. autoclass:: hydrogram.raw.functions.account.GetRecentEmojiStatuses()
+    :members:

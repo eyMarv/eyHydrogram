@@ -1,0 +1,17 @@
+Upload
+======
+
+.. module:: hydrogram.raw.functions.upload
+
+.. toctree::
+    :titlesonly:
+
+    GetCdnFile <get-cdn-file>
+    GetCdnFileHashes <get-cdn-file-hashes>
+    GetFile <get-file>
+    GetFileHashes <get-file-hashes>
+    GetWebFile <get-web-file>
+    ReuploadCdnFile <reupload-cdn-file>
+    SaveBigFilePart <save-big-file-part>
+    SaveFilePart <save-file-part>
+

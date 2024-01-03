@@ -1,0 +1,5 @@
+help.GetConfig
+==============
+
+.. autoclass:: hydrogram.raw.functions.help.GetConfig()
+    :members:

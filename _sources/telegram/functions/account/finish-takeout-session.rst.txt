@@ -1,0 +1,5 @@
+account.FinishTakeoutSession
+============================
+
+.. autoclass:: hydrogram.raw.functions.account.FinishTakeoutSession()
+    :members:

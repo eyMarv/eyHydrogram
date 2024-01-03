@@ -1,0 +1,5 @@
+InputAppEvent
+=============
+
+.. autoclass:: hydrogram.raw.types.InputAppEvent()
+    :members:

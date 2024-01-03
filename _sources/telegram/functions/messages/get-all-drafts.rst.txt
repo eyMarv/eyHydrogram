@@ -1,0 +1,5 @@
+messages.GetAllDrafts
+=====================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetAllDrafts()
+    :members:

@@ -1,0 +1,5 @@
+account.RegisterDevice
+======================
+
+.. autoclass:: hydrogram.raw.functions.account.RegisterDevice()
+    :members:

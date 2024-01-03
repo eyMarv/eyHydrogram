@@ -1,0 +1,5 @@
+PageBlockTitle
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockTitle()
+    :members:

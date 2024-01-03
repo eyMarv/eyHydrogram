@@ -1,0 +1,5 @@
+messages.GetSearchCounters
+==========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetSearchCounters()
+    :members:

@@ -1,0 +1,5 @@
+Pong
+====
+
+.. autoclass:: hydrogram.raw.types.Pong()
+    :members:

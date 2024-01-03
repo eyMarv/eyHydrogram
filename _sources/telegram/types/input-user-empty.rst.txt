@@ -1,0 +1,5 @@
+InputUserEmpty
+==============
+
+.. autoclass:: hydrogram.raw.types.InputUserEmpty()
+    :members:

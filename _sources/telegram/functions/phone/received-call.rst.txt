@@ -1,0 +1,5 @@
+phone.ReceivedCall
+==================
+
+.. autoclass:: hydrogram.raw.functions.phone.ReceivedCall()
+    :members:

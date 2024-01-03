@@ -1,0 +1,5 @@
+channels.ReorderPinnedForumTopics
+=================================
+
+.. autoclass:: hydrogram.raw.functions.channels.ReorderPinnedForumTopics()
+    :members:

@@ -1,0 +1,5 @@
+KeyboardButtonSimpleWebView
+===========================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonSimpleWebView()
+    :members:

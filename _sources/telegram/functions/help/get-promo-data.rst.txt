@@ -1,0 +1,5 @@
+help.GetPromoData
+=================
+
+.. autoclass:: hydrogram.raw.functions.help.GetPromoData()
+    :members:

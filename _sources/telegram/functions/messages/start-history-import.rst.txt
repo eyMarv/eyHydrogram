@@ -1,0 +1,5 @@
+messages.StartHistoryImport
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.StartHistoryImport()
+    :members:

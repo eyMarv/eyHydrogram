@@ -1,0 +1,4 @@
+Chat.join()
+===========
+
+.. automethod:: hydrogram.types.Chat.join()

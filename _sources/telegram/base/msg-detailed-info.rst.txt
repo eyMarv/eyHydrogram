@@ -1,0 +1,5 @@
+MsgDetailedInfo
+===============
+
+.. autoclass:: hydrogram.raw.base.MsgDetailedInfo()
+    :members:

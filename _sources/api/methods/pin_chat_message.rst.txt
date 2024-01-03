@@ -1,0 +1,4 @@
+pin_chat_message()
+==================
+
+.. automethod:: hydrogram.Client.pin_chat_message()

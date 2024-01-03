@@ -1,0 +1,4 @@
+ChatAdminWithInviteLinks
+========================
+
+.. autoclass:: hydrogram.types.ChatAdminWithInviteLinks()

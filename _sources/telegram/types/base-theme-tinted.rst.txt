@@ -1,0 +1,5 @@
+BaseThemeTinted
+===============
+
+.. autoclass:: hydrogram.raw.types.BaseThemeTinted()
+    :members:

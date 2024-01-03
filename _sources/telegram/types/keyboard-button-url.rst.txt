@@ -1,0 +1,5 @@
+KeyboardButtonUrl
+=================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonUrl()
+    :members:

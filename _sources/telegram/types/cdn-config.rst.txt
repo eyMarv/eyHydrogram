@@ -1,0 +1,5 @@
+CdnConfig
+=========
+
+.. autoclass:: hydrogram.raw.types.CdnConfig()
+    :members:

@@ -1,0 +1,5 @@
+messages.SendInlineBotResult
+============================
+
+.. autoclass:: hydrogram.raw.functions.messages.SendInlineBotResult()
+    :members:

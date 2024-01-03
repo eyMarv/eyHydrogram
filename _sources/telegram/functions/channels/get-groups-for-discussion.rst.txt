@@ -1,0 +1,5 @@
+channels.GetGroupsForDiscussion
+===============================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetGroupsForDiscussion()
+    :members:

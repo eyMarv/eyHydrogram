@@ -1,0 +1,5 @@
+MessageEntityBlockquote
+=======================
+
+.. autoclass:: hydrogram.raw.types.MessageEntityBlockquote()
+    :members:

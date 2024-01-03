@@ -1,0 +1,5 @@
+messages.SaveGif
+================
+
+.. autoclass:: hydrogram.raw.functions.messages.SaveGif()
+    :members:

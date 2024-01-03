@@ -1,0 +1,5 @@
+BotCommandScopeUsers
+====================
+
+.. autoclass:: hydrogram.raw.types.BotCommandScopeUsers()
+    :members:

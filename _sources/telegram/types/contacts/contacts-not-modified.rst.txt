@@ -1,0 +1,5 @@
+contacts.ContactsNotModified
+============================
+
+.. autoclass:: hydrogram.raw.types.contacts.ContactsNotModified()
+    :members:

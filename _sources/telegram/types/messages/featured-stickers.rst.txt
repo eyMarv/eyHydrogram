@@ -1,0 +1,5 @@
+messages.FeaturedStickers
+=========================
+
+.. autoclass:: hydrogram.raw.types.messages.FeaturedStickers()
+    :members:

@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionToggleAntiSpam
+========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionToggleAntiSpam()
+    :members:

@@ -1,0 +1,5 @@
+UpdateChannelTooLong
+====================
+
+.. autoclass:: hydrogram.raw.types.UpdateChannelTooLong()
+    :members:

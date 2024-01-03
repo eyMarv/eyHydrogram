@@ -1,0 +1,5 @@
+ChatParticipantAdmin
+====================
+
+.. autoclass:: hydrogram.raw.types.ChatParticipantAdmin()
+    :members:

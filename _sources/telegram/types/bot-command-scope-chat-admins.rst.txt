@@ -1,0 +1,5 @@
+BotCommandScopeChatAdmins
+=========================
+
+.. autoclass:: hydrogram.raw.types.BotCommandScopeChatAdmins()
+    :members:

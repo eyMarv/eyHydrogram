@@ -1,0 +1,5 @@
+MessageActionChatAddUser
+========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionChatAddUser()
+    :members:

@@ -1,0 +1,5 @@
+MessageMediaWebPage
+===================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaWebPage()
+    :members:

@@ -1,0 +1,5 @@
+ChatReactionsNone
+=================
+
+.. autoclass:: hydrogram.raw.types.ChatReactionsNone()
+    :members:

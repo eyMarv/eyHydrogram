@@ -1,0 +1,5 @@
+messages.GetRecentLocations
+===========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetRecentLocations()
+    :members:

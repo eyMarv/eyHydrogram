@@ -1,0 +1,5 @@
+phone.GetGroupCallJoinAs
+========================
+
+.. autoclass:: hydrogram.raw.functions.phone.GetGroupCallJoinAs()
+    :members:

@@ -1,0 +1,5 @@
+stickers.RenameStickerSet
+=========================
+
+.. autoclass:: hydrogram.raw.functions.stickers.RenameStickerSet()
+    :members:

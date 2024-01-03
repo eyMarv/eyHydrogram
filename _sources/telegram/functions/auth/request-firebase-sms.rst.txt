@@ -1,0 +1,5 @@
+auth.RequestFirebaseSms
+=======================
+
+.. autoclass:: hydrogram.raw.functions.auth.RequestFirebaseSms()
+    :members:

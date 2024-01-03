@@ -1,0 +1,5 @@
+BaseThemeDay
+============
+
+.. autoclass:: hydrogram.raw.types.BaseThemeDay()
+    :members:

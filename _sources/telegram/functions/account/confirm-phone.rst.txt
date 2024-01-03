@@ -1,0 +1,5 @@
+account.ConfirmPhone
+====================
+
+.. autoclass:: hydrogram.raw.functions.account.ConfirmPhone()
+    :members:

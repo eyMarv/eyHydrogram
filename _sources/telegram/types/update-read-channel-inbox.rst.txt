@@ -1,0 +1,5 @@
+UpdateReadChannelInbox
+======================
+
+.. autoclass:: hydrogram.raw.types.UpdateReadChannelInbox()
+    :members:

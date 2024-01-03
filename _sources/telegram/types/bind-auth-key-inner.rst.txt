@@ -1,0 +1,5 @@
+BindAuthKeyInner
+================
+
+.. autoclass:: hydrogram.raw.types.BindAuthKeyInner()
+    :members:

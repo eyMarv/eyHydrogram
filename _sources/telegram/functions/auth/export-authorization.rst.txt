@@ -1,0 +1,5 @@
+auth.ExportAuthorization
+========================
+
+.. autoclass:: hydrogram.raw.functions.auth.ExportAuthorization()
+    :members:

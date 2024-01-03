@@ -1,0 +1,5 @@
+messages.StickerSetNotModified
+==============================
+
+.. autoclass:: hydrogram.raw.types.messages.StickerSetNotModified()
+    :members:

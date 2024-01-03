@@ -1,0 +1,4 @@
+Game
+====
+
+.. autoclass:: hydrogram.types.Game()

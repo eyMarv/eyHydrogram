@@ -1,0 +1,5 @@
+ClientDHInnerData
+=================
+
+.. autoclass:: hydrogram.raw.base.ClientDHInnerData()
+    :members:

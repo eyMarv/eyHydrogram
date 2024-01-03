@@ -1,0 +1,5 @@
+channels.EditCreator
+====================
+
+.. autoclass:: hydrogram.raw.functions.channels.EditCreator()
+    :members:

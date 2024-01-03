@@ -1,0 +1,5 @@
+ExportedContactToken
+====================
+
+.. autoclass:: hydrogram.raw.base.ExportedContactToken()
+    :members:

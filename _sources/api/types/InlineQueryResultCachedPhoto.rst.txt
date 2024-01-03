@@ -1,0 +1,4 @@
+InlineQueryResultCachedPhoto
+============================
+
+.. autoclass:: hydrogram.types.InlineQueryResultCachedPhoto()

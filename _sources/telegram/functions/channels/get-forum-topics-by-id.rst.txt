@@ -1,0 +1,5 @@
+channels.GetForumTopicsByID
+===========================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetForumTopicsByID()
+    :members:

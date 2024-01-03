@@ -1,0 +1,5 @@
+DocumentAttributeVideo
+======================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeVideo()
+    :members:

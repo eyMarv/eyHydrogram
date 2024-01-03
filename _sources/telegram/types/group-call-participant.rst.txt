@@ -1,0 +1,5 @@
+GroupCallParticipant
+====================
+
+.. autoclass:: hydrogram.raw.types.GroupCallParticipant()
+    :members:

@@ -1,0 +1,5 @@
+UserStatusOnline
+================
+
+.. autoclass:: hydrogram.raw.types.UserStatusOnline()
+    :members:

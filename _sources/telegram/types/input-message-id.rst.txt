@@ -1,0 +1,5 @@
+InputMessageID
+==============
+
+.. autoclass:: hydrogram.raw.types.InputMessageID()
+    :members:

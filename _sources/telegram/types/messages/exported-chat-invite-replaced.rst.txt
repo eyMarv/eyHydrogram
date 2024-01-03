@@ -1,0 +1,5 @@
+messages.ExportedChatInviteReplaced
+===================================
+
+.. autoclass:: hydrogram.raw.types.messages.ExportedChatInviteReplaced()
+    :members:

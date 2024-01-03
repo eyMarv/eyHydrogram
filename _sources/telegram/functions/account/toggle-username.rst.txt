@@ -1,0 +1,5 @@
+account.ToggleUsername
+======================
+
+.. autoclass:: hydrogram.raw.functions.account.ToggleUsername()
+    :members:

@@ -1,0 +1,5 @@
+DocumentAttributeAudio
+======================
+
+.. autoclass:: hydrogram.raw.types.DocumentAttributeAudio()
+    :members:

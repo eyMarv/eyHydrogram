@@ -1,0 +1,4 @@
+mark_chat_unread()
+==================
+
+.. automethod:: hydrogram.Client.mark_chat_unread()

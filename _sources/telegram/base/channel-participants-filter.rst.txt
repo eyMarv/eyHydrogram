@@ -1,0 +1,5 @@
+ChannelParticipantsFilter
+=========================
+
+.. autoclass:: hydrogram.raw.base.ChannelParticipantsFilter()
+    :members:

@@ -1,0 +1,4 @@
+set_bot_commands()
+==================
+
+.. automethod:: hydrogram.Client.set_bot_commands()

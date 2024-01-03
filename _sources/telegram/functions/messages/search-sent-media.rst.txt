@@ -1,0 +1,5 @@
+messages.SearchSentMedia
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.SearchSentMedia()
+    :members:

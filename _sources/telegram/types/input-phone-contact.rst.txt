@@ -1,0 +1,5 @@
+InputPhoneContact
+=================
+
+.. autoclass:: hydrogram.raw.types.InputPhoneContact()
+    :members:

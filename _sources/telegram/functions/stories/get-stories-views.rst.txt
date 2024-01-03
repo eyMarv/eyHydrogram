@@ -1,0 +1,5 @@
+stories.GetStoriesViews
+=======================
+
+.. autoclass:: hydrogram.raw.functions.stories.GetStoriesViews()
+    :members:

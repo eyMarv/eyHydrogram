@@ -1,0 +1,5 @@
+storage.FileUnknown
+===================
+
+.. autoclass:: hydrogram.raw.types.storage.FileUnknown()
+    :members:

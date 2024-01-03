@@ -1,0 +1,5 @@
+MessageViews
+============
+
+.. autoclass:: hydrogram.raw.types.MessageViews()
+    :members:

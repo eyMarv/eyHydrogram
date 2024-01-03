@@ -1,0 +1,14 @@
+Photos
+======
+
+.. module:: hydrogram.raw.functions.photos
+
+.. toctree::
+    :titlesonly:
+
+    DeletePhotos <delete-photos>
+    GetUserPhotos <get-user-photos>
+    UpdateProfilePhoto <update-profile-photo>
+    UploadContactProfilePhoto <upload-contact-profile-photo>
+    UploadProfilePhoto <upload-profile-photo>
+

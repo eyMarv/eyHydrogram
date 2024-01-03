@@ -1,0 +1,5 @@
+UpdatePrivacy
+=============
+
+.. autoclass:: hydrogram.raw.types.UpdatePrivacy()
+    :members:

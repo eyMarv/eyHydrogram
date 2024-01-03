@@ -1,0 +1,5 @@
+SearchResultsCalendarPeriod
+===========================
+
+.. autoclass:: hydrogram.raw.base.SearchResultsCalendarPeriod()
+    :members:

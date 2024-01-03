@@ -1,0 +1,4 @@
+get_messages()
+==============
+
+.. automethod:: hydrogram.Client.get_messages()

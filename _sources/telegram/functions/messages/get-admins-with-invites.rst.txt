@@ -1,0 +1,5 @@
+messages.GetAdminsWithInvites
+=============================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetAdminsWithInvites()
+    :members:

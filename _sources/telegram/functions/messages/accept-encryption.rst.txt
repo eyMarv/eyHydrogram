@@ -1,0 +1,5 @@
+messages.AcceptEncryption
+=========================
+
+.. autoclass:: hydrogram.raw.functions.messages.AcceptEncryption()
+    :members:

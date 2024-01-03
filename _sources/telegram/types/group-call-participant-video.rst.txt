@@ -1,0 +1,5 @@
+GroupCallParticipantVideo
+=========================
+
+.. autoclass:: hydrogram.raw.types.GroupCallParticipantVideo()
+    :members:

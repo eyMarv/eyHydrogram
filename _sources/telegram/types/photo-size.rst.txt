@@ -1,0 +1,5 @@
+PhotoSize
+=========
+
+.. autoclass:: hydrogram.raw.types.PhotoSize()
+    :members:

@@ -1,0 +1,5 @@
+upload.GetCdnFileHashes
+=======================
+
+.. autoclass:: hydrogram.raw.functions.upload.GetCdnFileHashes()
+    :members:

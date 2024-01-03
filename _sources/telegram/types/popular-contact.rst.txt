@@ -1,0 +1,5 @@
+PopularContact
+==============
+
+.. autoclass:: hydrogram.raw.types.PopularContact()
+    :members:

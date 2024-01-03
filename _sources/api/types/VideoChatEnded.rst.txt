@@ -1,0 +1,4 @@
+VideoChatEnded
+==============
+
+.. autoclass:: hydrogram.types.VideoChatEnded()

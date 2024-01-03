@@ -1,0 +1,12 @@
+Photos
+======
+
+.. module:: hydrogram.raw.types.photos
+
+.. toctree::
+    :titlesonly:
+
+    Photo <photo>
+    Photos <photos>
+    PhotosSlice <photos-slice>
+

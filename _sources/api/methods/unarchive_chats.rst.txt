@@ -1,0 +1,4 @@
+unarchive_chats()
+=================
+
+.. automethod:: hydrogram.Client.unarchive_chats()

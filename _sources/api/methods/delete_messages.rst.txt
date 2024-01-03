@@ -1,0 +1,4 @@
+delete_messages()
+=================
+
+.. automethod:: hydrogram.Client.delete_messages()

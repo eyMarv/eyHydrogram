@@ -1,0 +1,5 @@
+UpdateStory
+===========
+
+.. autoclass:: hydrogram.raw.types.UpdateStory()
+    :members:

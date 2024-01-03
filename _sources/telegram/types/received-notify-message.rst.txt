@@ -1,0 +1,5 @@
+ReceivedNotifyMessage
+=====================
+
+.. autoclass:: hydrogram.raw.types.ReceivedNotifyMessage()
+    :members:

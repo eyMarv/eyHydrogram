@@ -1,0 +1,4 @@
+terminate()
+===========
+
+.. automethod:: hydrogram.Client.terminate()

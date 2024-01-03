@@ -1,0 +1,5 @@
+channels.DeleteChannel
+======================
+
+.. autoclass:: hydrogram.raw.functions.channels.DeleteChannel()
+    :members:

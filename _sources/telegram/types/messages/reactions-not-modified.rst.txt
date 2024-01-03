@@ -1,0 +1,5 @@
+messages.ReactionsNotModified
+=============================
+
+.. autoclass:: hydrogram.raw.types.messages.ReactionsNotModified()
+    :members:

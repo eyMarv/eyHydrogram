@@ -1,0 +1,5 @@
+premium.ApplyBoost
+==================
+
+.. autoclass:: hydrogram.raw.functions.premium.ApplyBoost()
+    :members:

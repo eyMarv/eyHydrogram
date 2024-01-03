@@ -1,0 +1,5 @@
+updates.DifferenceSlice
+=======================
+
+.. autoclass:: hydrogram.raw.types.updates.DifferenceSlice()
+    :members:

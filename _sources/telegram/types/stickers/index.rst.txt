@@ -1,0 +1,10 @@
+Stickers
+========
+
+.. module:: hydrogram.raw.types.stickers
+
+.. toctree::
+    :titlesonly:
+
+    SuggestedShortName <suggested-short-name>
+

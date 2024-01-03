@@ -1,0 +1,5 @@
+account.SentEmailCode
+=====================
+
+.. autoclass:: hydrogram.raw.types.account.SentEmailCode()
+    :members:

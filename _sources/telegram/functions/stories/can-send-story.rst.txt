@@ -1,0 +1,5 @@
+stories.CanSendStory
+====================
+
+.. autoclass:: hydrogram.raw.functions.stories.CanSendStory()
+    :members:

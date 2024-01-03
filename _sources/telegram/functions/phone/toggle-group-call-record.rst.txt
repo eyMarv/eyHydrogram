@@ -1,0 +1,5 @@
+phone.ToggleGroupCallRecord
+===========================
+
+.. autoclass:: hydrogram.raw.functions.phone.ToggleGroupCallRecord()
+    :members:

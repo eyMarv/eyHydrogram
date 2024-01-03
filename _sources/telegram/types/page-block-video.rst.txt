@@ -1,0 +1,5 @@
+PageBlockVideo
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockVideo()
+    :members:

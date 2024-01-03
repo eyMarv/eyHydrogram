@@ -1,0 +1,5 @@
+account.SetAccountTTL
+=====================
+
+.. autoclass:: hydrogram.raw.functions.account.SetAccountTTL()
+    :members:

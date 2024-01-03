@@ -1,0 +1,5 @@
+payments.GiveawayInfo
+=====================
+
+.. autoclass:: hydrogram.raw.types.payments.GiveawayInfo()
+    :members:

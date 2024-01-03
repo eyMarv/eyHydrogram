@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionUpdatePinned
+======================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionUpdatePinned()
+    :members:

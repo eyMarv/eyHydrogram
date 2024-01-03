@@ -1,0 +1,5 @@
+updates.DifferenceEmpty
+=======================
+
+.. autoclass:: hydrogram.raw.types.updates.DifferenceEmpty()
+    :members:

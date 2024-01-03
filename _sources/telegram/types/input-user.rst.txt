@@ -1,0 +1,5 @@
+InputUser
+=========
+
+.. autoclass:: hydrogram.raw.types.InputUser()
+    :members:

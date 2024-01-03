@@ -1,0 +1,5 @@
+MsgsStateReq
+============
+
+.. autoclass:: hydrogram.raw.types.MsgsStateReq()
+    :members:

@@ -1,0 +1,5 @@
+messages.ExportedChatInvite
+===========================
+
+.. autoclass:: hydrogram.raw.base.messages.ExportedChatInvite()
+    :members:

@@ -1,0 +1,5 @@
+messages.ChannelMessages
+========================
+
+.. autoclass:: hydrogram.raw.types.messages.ChannelMessages()
+    :members:

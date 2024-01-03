@@ -1,0 +1,5 @@
+PremiumGiftCodeOption
+=====================
+
+.. autoclass:: hydrogram.raw.base.PremiumGiftCodeOption()
+    :members:

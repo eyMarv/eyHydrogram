@@ -1,0 +1,5 @@
+InputInvoiceSlug
+================
+
+.. autoclass:: hydrogram.raw.types.InputInvoiceSlug()
+    :members:

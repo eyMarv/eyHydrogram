@@ -1,0 +1,5 @@
+SponsoredWebPage
+================
+
+.. autoclass:: hydrogram.raw.base.SponsoredWebPage()
+    :members:

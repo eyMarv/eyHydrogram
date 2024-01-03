@@ -1,0 +1,5 @@
+InputMediaDice
+==============
+
+.. autoclass:: hydrogram.raw.types.InputMediaDice()
+    :members:

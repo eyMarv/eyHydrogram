@@ -1,0 +1,5 @@
+account.UploadRingtone
+======================
+
+.. autoclass:: hydrogram.raw.functions.account.UploadRingtone()
+    :members:

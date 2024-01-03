@@ -1,0 +1,5 @@
+Boost
+=====
+
+.. autoclass:: hydrogram.raw.base.Boost()
+    :members:

@@ -1,0 +1,5 @@
+messages.TranslateText
+======================
+
+.. autoclass:: hydrogram.raw.functions.messages.TranslateText()
+    :members:

@@ -1,0 +1,5 @@
+phone.SendSignalingData
+=======================
+
+.. autoclass:: hydrogram.raw.functions.phone.SendSignalingData()
+    :members:

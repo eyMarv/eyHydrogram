@@ -1,0 +1,5 @@
+messages.GetEmojiKeywordsDifference
+===================================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetEmojiKeywordsDifference()
+    :members:

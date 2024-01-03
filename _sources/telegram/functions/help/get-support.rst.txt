@@ -1,0 +1,5 @@
+help.GetSupport
+===============
+
+.. autoclass:: hydrogram.raw.functions.help.GetSupport()
+    :members:

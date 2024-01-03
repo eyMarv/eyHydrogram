@@ -1,0 +1,5 @@
+account.UpdateStatus
+====================
+
+.. autoclass:: hydrogram.raw.functions.account.UpdateStatus()
+    :members:

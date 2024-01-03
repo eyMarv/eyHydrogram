@@ -1,0 +1,5 @@
+InputPeerUserFromMessage
+========================
+
+.. autoclass:: hydrogram.raw.types.InputPeerUserFromMessage()
+    :members:

@@ -1,0 +1,5 @@
+MessageActionGroupCallScheduled
+===============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGroupCallScheduled()
+    :members:

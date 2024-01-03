@@ -1,0 +1,5 @@
+UpdateChatParticipantDelete
+===========================
+
+.. autoclass:: hydrogram.raw.types.UpdateChatParticipantDelete()
+    :members:

@@ -1,0 +1,4 @@
+get_dialogs()
+=============
+
+.. automethod:: hydrogram.Client.get_dialogs()

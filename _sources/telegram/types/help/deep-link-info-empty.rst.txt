@@ -1,0 +1,5 @@
+help.DeepLinkInfoEmpty
+======================
+
+.. autoclass:: hydrogram.raw.types.help.DeepLinkInfoEmpty()
+    :members:

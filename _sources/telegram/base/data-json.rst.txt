@@ -1,0 +1,5 @@
+DataJSON
+========
+
+.. autoclass:: hydrogram.raw.base.DataJSON()
+    :members:

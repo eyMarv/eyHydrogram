@@ -1,0 +1,5 @@
+InputGeoPointEmpty
+==================
+
+.. autoclass:: hydrogram.raw.types.InputGeoPointEmpty()
+    :members:

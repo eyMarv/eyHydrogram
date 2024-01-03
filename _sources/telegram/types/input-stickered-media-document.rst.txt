@@ -1,0 +1,5 @@
+InputStickeredMediaDocument
+===========================
+
+.. autoclass:: hydrogram.raw.types.InputStickeredMediaDocument()
+    :members:

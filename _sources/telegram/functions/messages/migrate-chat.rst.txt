@@ -1,0 +1,5 @@
+messages.MigrateChat
+====================
+
+.. autoclass:: hydrogram.raw.functions.messages.MigrateChat()
+    :members:

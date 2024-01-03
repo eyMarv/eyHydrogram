@@ -1,0 +1,4 @@
+InputMediaPhoto
+===============
+
+.. autoclass:: hydrogram.types.InputMediaPhoto()

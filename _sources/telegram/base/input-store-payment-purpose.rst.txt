@@ -1,0 +1,5 @@
+InputStorePaymentPurpose
+========================
+
+.. autoclass:: hydrogram.raw.base.InputStorePaymentPurpose()
+    :members:

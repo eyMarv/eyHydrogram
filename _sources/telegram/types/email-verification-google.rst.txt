@@ -1,0 +1,5 @@
+EmailVerificationGoogle
+=======================
+
+.. autoclass:: hydrogram.raw.types.EmailVerificationGoogle()
+    :members:

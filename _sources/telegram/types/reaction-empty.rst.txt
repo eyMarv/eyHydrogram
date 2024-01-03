@@ -1,0 +1,5 @@
+ReactionEmpty
+=============
+
+.. autoclass:: hydrogram.raw.types.ReactionEmpty()
+    :members:

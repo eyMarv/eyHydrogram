@@ -1,0 +1,5 @@
+InputPhotoEmpty
+===============
+
+.. autoclass:: hydrogram.raw.types.InputPhotoEmpty()
+    :members:

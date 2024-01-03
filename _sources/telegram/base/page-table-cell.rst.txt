@@ -1,0 +1,5 @@
+PageTableCell
+=============
+
+.. autoclass:: hydrogram.raw.base.PageTableCell()
+    :members:

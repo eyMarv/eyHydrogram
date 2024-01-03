@@ -1,0 +1,4 @@
+get_inline_bot_results()
+========================
+
+.. automethod:: hydrogram.Client.get_inline_bot_results()

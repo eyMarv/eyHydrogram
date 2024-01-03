@@ -1,0 +1,5 @@
+UpdateLangPack
+==============
+
+.. autoclass:: hydrogram.raw.types.UpdateLangPack()
+    :members:

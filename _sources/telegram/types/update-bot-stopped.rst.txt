@@ -1,0 +1,5 @@
+UpdateBotStopped
+================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotStopped()
+    :members:

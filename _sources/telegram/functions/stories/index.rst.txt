@@ -1,0 +1,33 @@
+Stories
+=======
+
+.. module:: hydrogram.raw.functions.stories
+
+.. toctree::
+    :titlesonly:
+
+    ActivateStealthMode <activate-stealth-mode>
+    CanSendStory <can-send-story>
+    DeleteStories <delete-stories>
+    EditStory <edit-story>
+    ExportStoryLink <export-story-link>
+    GetAllReadPeerStories <get-all-read-peer-stories>
+    GetAllStories <get-all-stories>
+    GetChatsToSend <get-chats-to-send>
+    GetPeerMaxIDs <get-peer-max-i-ds>
+    GetPeerStories <get-peer-stories>
+    GetPinnedStories <get-pinned-stories>
+    GetStoriesArchive <get-stories-archive>
+    GetStoriesByID <get-stories-by-id>
+    GetStoriesViews <get-stories-views>
+    GetStoryReactionsList <get-story-reactions-list>
+    GetStoryViewsList <get-story-views-list>
+    IncrementStoryViews <increment-story-views>
+    ReadStories <read-stories>
+    Report <report>
+    SendReaction <send-reaction>
+    SendStory <send-story>
+    ToggleAllStoriesHidden <toggle-all-stories-hidden>
+    TogglePeerStoriesHidden <toggle-peer-stories-hidden>
+    TogglePinned <toggle-pinned>
+

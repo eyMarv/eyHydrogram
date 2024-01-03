@@ -1,0 +1,4 @@
+InlineQueryResultVideo
+======================
+
+.. autoclass:: hydrogram.types.InlineQueryResultVideo()

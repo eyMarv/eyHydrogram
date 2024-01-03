@@ -1,0 +1,5 @@
+InputStorePaymentPremiumGiftCode
+================================
+
+.. autoclass:: hydrogram.raw.types.InputStorePaymentPremiumGiftCode()
+    :members:

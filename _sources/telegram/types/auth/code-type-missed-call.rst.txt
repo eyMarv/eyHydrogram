@@ -1,0 +1,5 @@
+auth.CodeTypeMissedCall
+=======================
+
+.. autoclass:: hydrogram.raw.types.auth.CodeTypeMissedCall()
+    :members:

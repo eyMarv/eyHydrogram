@@ -1,0 +1,5 @@
+SecurePlainPhone
+================
+
+.. autoclass:: hydrogram.raw.types.SecurePlainPhone()
+    :members:

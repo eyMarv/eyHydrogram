@@ -1,0 +1,5 @@
+ReqPqMulti
+==========
+
+.. autoclass:: hydrogram.raw.functions.ReqPqMulti()
+    :members:

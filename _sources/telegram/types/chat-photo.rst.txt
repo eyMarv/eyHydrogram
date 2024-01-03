@@ -1,0 +1,5 @@
+ChatPhoto
+=========
+
+.. autoclass:: hydrogram.raw.types.ChatPhoto()
+    :members:

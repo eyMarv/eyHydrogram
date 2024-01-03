@@ -1,0 +1,5 @@
+messages.GetCustomEmojiDocuments
+================================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetCustomEmojiDocuments()
+    :members:

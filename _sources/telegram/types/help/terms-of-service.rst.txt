@@ -1,0 +1,5 @@
+help.TermsOfService
+===================
+
+.. autoclass:: hydrogram.raw.types.help.TermsOfService()
+    :members:

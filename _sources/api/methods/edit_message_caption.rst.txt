@@ -1,0 +1,4 @@
+edit_message_caption()
+======================
+
+.. automethod:: hydrogram.Client.edit_message_caption()

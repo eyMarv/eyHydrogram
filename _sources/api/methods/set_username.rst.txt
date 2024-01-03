@@ -1,0 +1,4 @@
+set_username()
+==============
+
+.. automethod:: hydrogram.Client.set_username()

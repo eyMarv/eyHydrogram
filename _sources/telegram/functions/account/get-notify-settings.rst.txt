@@ -1,0 +1,5 @@
+account.GetNotifySettings
+=========================
+
+.. autoclass:: hydrogram.raw.functions.account.GetNotifySettings()
+    :members:

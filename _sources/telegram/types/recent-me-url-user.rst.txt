@@ -1,0 +1,5 @@
+RecentMeUrlUser
+===============
+
+.. autoclass:: hydrogram.raw.types.RecentMeUrlUser()
+    :members:

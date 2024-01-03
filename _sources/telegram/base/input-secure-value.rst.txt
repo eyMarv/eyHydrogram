@@ -1,0 +1,5 @@
+InputSecureValue
+================
+
+.. autoclass:: hydrogram.raw.base.InputSecureValue()
+    :members:

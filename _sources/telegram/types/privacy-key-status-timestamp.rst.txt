@@ -1,0 +1,5 @@
+PrivacyKeyStatusTimestamp
+=========================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyStatusTimestamp()
+    :members:

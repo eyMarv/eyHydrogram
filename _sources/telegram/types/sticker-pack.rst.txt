@@ -1,0 +1,5 @@
+StickerPack
+===========
+
+.. autoclass:: hydrogram.raw.types.StickerPack()
+    :members:

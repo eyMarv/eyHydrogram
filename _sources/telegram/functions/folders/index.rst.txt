@@ -1,0 +1,10 @@
+Folders
+=======
+
+.. module:: hydrogram.raw.functions.folders
+
+.. toctree::
+    :titlesonly:
+
+    EditPeerFolders <edit-peer-folders>
+

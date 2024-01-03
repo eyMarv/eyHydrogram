@@ -1,0 +1,5 @@
+AttachMenuBotsNotModified
+=========================
+
+.. autoclass:: hydrogram.raw.types.AttachMenuBotsNotModified()
+    :members:

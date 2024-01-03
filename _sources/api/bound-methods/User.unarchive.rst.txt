@@ -1,0 +1,4 @@
+User.unarchive()
+================
+
+.. automethod:: hydrogram.types.User.unarchive()

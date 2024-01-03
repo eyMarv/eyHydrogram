@@ -1,0 +1,5 @@
+TopPeer
+=======
+
+.. autoclass:: hydrogram.raw.types.TopPeer()
+    :members:

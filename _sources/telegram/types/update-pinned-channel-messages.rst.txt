@@ -1,0 +1,5 @@
+UpdatePinnedChannelMessages
+===========================
+
+.. autoclass:: hydrogram.raw.types.UpdatePinnedChannelMessages()
+    :members:

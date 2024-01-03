@@ -1,0 +1,5 @@
+messages.SponsoredMessagesEmpty
+===============================
+
+.. autoclass:: hydrogram.raw.types.messages.SponsoredMessagesEmpty()
+    :members:

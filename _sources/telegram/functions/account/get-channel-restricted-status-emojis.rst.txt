@@ -1,0 +1,5 @@
+account.GetChannelRestrictedStatusEmojis
+========================================
+
+.. autoclass:: hydrogram.raw.functions.account.GetChannelRestrictedStatusEmojis()
+    :members:

@@ -1,0 +1,5 @@
+ReactionCustomEmoji
+===================
+
+.. autoclass:: hydrogram.raw.types.ReactionCustomEmoji()
+    :members:

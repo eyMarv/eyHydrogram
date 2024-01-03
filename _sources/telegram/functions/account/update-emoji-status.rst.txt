@@ -1,0 +1,5 @@
+account.UpdateEmojiStatus
+=========================
+
+.. autoclass:: hydrogram.raw.functions.account.UpdateEmojiStatus()
+    :members:

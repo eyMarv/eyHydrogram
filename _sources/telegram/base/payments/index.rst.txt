@@ -1,0 +1,18 @@
+Payments
+========
+
+.. module:: hydrogram.raw.base.payments
+
+.. toctree::
+    :titlesonly:
+
+    BankCardData <bank-card-data>
+    CheckedGiftCode <checked-gift-code>
+    ExportedInvoice <exported-invoice>
+    GiveawayInfo <giveaway-info>
+    PaymentForm <payment-form>
+    PaymentReceipt <payment-receipt>
+    PaymentResult <payment-result>
+    SavedInfo <saved-info>
+    ValidatedRequestedInfo <validated-requested-info>
+

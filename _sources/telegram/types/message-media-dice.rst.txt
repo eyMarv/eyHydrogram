@@ -1,0 +1,5 @@
+MessageMediaDice
+================
+
+.. autoclass:: hydrogram.raw.types.MessageMediaDice()
+    :members:

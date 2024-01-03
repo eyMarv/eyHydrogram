@@ -1,0 +1,5 @@
+messages.DeleteScheduledMessages
+================================
+
+.. autoclass:: hydrogram.raw.functions.messages.DeleteScheduledMessages()
+    :members:

@@ -1,0 +1,5 @@
+contacts.DeleteContacts
+=======================
+
+.. autoclass:: hydrogram.raw.functions.contacts.DeleteContacts()
+    :members:

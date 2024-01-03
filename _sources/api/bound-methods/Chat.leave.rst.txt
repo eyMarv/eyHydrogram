@@ -1,0 +1,4 @@
+Chat.leave()
+============
+
+.. automethod:: hydrogram.types.Chat.leave()

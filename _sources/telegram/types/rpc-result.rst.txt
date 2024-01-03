@@ -1,0 +1,5 @@
+RpcResult
+=========
+
+.. autoclass:: hydrogram.raw.types.RpcResult()
+    :members:

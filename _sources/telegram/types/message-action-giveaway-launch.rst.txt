@@ -1,0 +1,5 @@
+MessageActionGiveawayLaunch
+===========================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGiveawayLaunch()
+    :members:

@@ -1,0 +1,4 @@
+Message.reply_cached_media()
+============================
+
+.. automethod:: hydrogram.types.Message.reply_cached_media()

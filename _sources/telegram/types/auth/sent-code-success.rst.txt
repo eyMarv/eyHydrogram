@@ -1,0 +1,5 @@
+auth.SentCodeSuccess
+====================
+
+.. autoclass:: hydrogram.raw.types.auth.SentCodeSuccess()
+    :members:

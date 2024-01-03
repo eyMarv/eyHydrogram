@@ -1,0 +1,5 @@
+account.InvalidateSignInCodes
+=============================
+
+.. autoclass:: hydrogram.raw.functions.account.InvalidateSignInCodes()
+    :members:

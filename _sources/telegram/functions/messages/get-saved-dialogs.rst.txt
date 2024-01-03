@@ -1,0 +1,5 @@
+messages.GetSavedDialogs
+========================
+
+.. autoclass:: hydrogram.raw.functions.messages.GetSavedDialogs()
+    :members:

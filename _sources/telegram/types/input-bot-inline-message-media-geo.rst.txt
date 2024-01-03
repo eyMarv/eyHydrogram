@@ -1,0 +1,5 @@
+InputBotInlineMessageMediaGeo
+=============================
+
+.. autoclass:: hydrogram.raw.types.InputBotInlineMessageMediaGeo()
+    :members:

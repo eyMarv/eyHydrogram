@@ -1,0 +1,5 @@
+auth.ResetAuthorizations
+========================
+
+.. autoclass:: hydrogram.raw.functions.auth.ResetAuthorizations()
+    :members:

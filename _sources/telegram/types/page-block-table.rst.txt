@@ -1,0 +1,5 @@
+PageBlockTable
+==============
+
+.. autoclass:: hydrogram.raw.types.PageBlockTable()
+    :members:

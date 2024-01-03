@@ -1,0 +1,5 @@
+auth.ImportLoginToken
+=====================
+
+.. autoclass:: hydrogram.raw.functions.auth.ImportLoginToken()
+    :members:

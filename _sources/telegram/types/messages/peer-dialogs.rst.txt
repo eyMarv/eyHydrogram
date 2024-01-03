@@ -1,0 +1,5 @@
+messages.PeerDialogs
+====================
+
+.. autoclass:: hydrogram.raw.types.messages.PeerDialogs()
+    :members:

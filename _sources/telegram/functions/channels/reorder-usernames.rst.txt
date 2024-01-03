@@ -1,0 +1,5 @@
+channels.ReorderUsernames
+=========================
+
+.. autoclass:: hydrogram.raw.functions.channels.ReorderUsernames()
+    :members:

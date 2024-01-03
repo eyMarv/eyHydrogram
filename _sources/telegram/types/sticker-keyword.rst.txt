@@ -1,0 +1,5 @@
+StickerKeyword
+==============
+
+.. autoclass:: hydrogram.raw.types.StickerKeyword()
+    :members:

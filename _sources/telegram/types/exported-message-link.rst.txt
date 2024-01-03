@@ -1,0 +1,5 @@
+ExportedMessageLink
+===================
+
+.. autoclass:: hydrogram.raw.types.ExportedMessageLink()
+    :members:

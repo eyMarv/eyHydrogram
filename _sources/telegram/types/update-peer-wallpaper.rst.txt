@@ -1,0 +1,5 @@
+UpdatePeerWallpaper
+===================
+
+.. autoclass:: hydrogram.raw.types.UpdatePeerWallpaper()
+    :members:

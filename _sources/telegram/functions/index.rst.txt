@@ -1,0 +1,49 @@
+:tocdepth: 1
+
+Raw Functions
+=============
+
+.. module:: hydrogram.raw.functions
+
+.. toctree::
+    :titlesonly:
+
+    account/index
+    auth/index
+    bots/index
+    channels/index
+    chatlists/index
+    contacts/index
+    contest/index
+    folders/index
+    help/index
+    langpack/index
+    messages/index
+    payments/index
+    phone/index
+    photos/index
+    premium/index
+    stats/index
+    stickers/index
+    stories/index
+    updates/index
+    upload/index
+    users/index
+    DestroyAuthKey <destroy-auth-key>
+    DestroySession <destroy-session>
+    GetFutureSalts <get-future-salts>
+    InitConnection <init-connection>
+    InvokeAfterMsg <invoke-after-msg>
+    InvokeAfterMsgs <invoke-after-msgs>
+    InvokeWithLayer <invoke-with-layer>
+    InvokeWithMessagesRange <invoke-with-messages-range>
+    InvokeWithTakeout <invoke-with-takeout>
+    InvokeWithoutUpdates <invoke-without-updates>
+    Ping <ping>
+    PingDelayDisconnect <ping-delay-disconnect>
+    ReqDHParams <req-dh-params>
+    ReqPq <req-pq>
+    ReqPqMulti <req-pq-multi>
+    RpcDropAnswer <rpc-drop-answer>
+    SetClientDHParams <set-client-dh-params>
+

@@ -1,0 +1,5 @@
+UpdateBotPrecheckoutQuery
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateBotPrecheckoutQuery()
+    :members:

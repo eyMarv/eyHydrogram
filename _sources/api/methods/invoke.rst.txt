@@ -1,0 +1,4 @@
+invoke()
+========
+
+.. automethod:: hydrogram.Client.invoke()

@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionTogglePreHistoryHidden
+================================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionTogglePreHistoryHidden()
+    :members:

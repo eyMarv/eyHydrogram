@@ -1,0 +1,4 @@
+Chat.set_title()
+================
+
+.. automethod:: hydrogram.types.Chat.set_title()

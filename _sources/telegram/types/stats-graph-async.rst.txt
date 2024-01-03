@@ -1,0 +1,5 @@
+StatsGraphAsync
+===============
+
+.. autoclass:: hydrogram.raw.types.StatsGraphAsync()
+    :members:

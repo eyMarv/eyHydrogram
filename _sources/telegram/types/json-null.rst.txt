@@ -1,0 +1,5 @@
+JsonNull
+========
+
+.. autoclass:: hydrogram.raw.types.JsonNull()
+    :members:

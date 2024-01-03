@@ -1,0 +1,5 @@
+UpdateEncryptedChatTyping
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateEncryptedChatTyping()
+    :members:

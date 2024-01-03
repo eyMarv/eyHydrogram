@@ -1,0 +1,5 @@
+messages.Dialogs
+================
+
+.. autoclass:: hydrogram.raw.types.messages.Dialogs()
+    :members:

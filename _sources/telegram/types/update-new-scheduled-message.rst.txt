@@ -1,0 +1,5 @@
+UpdateNewScheduledMessage
+=========================
+
+.. autoclass:: hydrogram.raw.types.UpdateNewScheduledMessage()
+    :members:

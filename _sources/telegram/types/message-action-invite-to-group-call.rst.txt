@@ -1,0 +1,5 @@
+MessageActionInviteToGroupCall
+==============================
+
+.. autoclass:: hydrogram.raw.types.MessageActionInviteToGroupCall()
+    :members:

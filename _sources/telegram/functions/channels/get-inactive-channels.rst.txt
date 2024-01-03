@@ -1,0 +1,5 @@
+channels.GetInactiveChannels
+============================
+
+.. autoclass:: hydrogram.raw.functions.channels.GetInactiveChannels()
+    :members:

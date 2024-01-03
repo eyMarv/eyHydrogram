@@ -1,0 +1,5 @@
+account.GetTheme
+================
+
+.. autoclass:: hydrogram.raw.functions.account.GetTheme()
+    :members:

@@ -1,0 +1,5 @@
+SecureValue
+===========
+
+.. autoclass:: hydrogram.raw.types.SecureValue()
+    :members:

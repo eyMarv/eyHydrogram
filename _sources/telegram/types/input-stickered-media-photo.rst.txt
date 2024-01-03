@@ -1,0 +1,5 @@
+InputStickeredMediaPhoto
+========================
+
+.. autoclass:: hydrogram.raw.types.InputStickeredMediaPhoto()
+    :members:

@@ -1,0 +1,5 @@
+PrivacyKeyPhoneP2P
+==================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyPhoneP2P()
+    :members:

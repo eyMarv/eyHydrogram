@@ -1,0 +1,4 @@
+approve_all_chat_join_requests()
+================================
+
+.. automethod:: hydrogram.Client.approve_all_chat_join_requests()

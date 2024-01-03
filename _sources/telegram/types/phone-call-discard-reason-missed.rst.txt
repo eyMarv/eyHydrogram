@@ -1,0 +1,5 @@
+PhoneCallDiscardReasonMissed
+============================
+
+.. autoclass:: hydrogram.raw.types.PhoneCallDiscardReasonMissed()
+    :members:

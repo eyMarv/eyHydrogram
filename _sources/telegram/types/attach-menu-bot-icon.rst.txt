@@ -1,0 +1,5 @@
+AttachMenuBotIcon
+=================
+
+.. autoclass:: hydrogram.raw.types.AttachMenuBotIcon()
+    :members:

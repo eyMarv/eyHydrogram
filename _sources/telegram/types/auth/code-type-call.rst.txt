@@ -1,0 +1,5 @@
+auth.CodeTypeCall
+=================
+
+.. autoclass:: hydrogram.raw.types.auth.CodeTypeCall()
+    :members:

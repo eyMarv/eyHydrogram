@@ -1,0 +1,5 @@
+DestroyAuthKeyRes
+=================
+
+.. autoclass:: hydrogram.raw.base.DestroyAuthKeyRes()
+    :members:

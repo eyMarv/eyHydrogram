@@ -1,0 +1,5 @@
+NotifyPeer
+==========
+
+.. autoclass:: hydrogram.raw.base.NotifyPeer()
+    :members:

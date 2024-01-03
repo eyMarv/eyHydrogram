@@ -1,0 +1,4 @@
+get_chat_history_count()
+========================
+
+.. automethod:: hydrogram.Client.get_chat_history_count()

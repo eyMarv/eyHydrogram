@@ -1,0 +1,5 @@
+account.SetAuthorizationTTL
+===========================
+
+.. autoclass:: hydrogram.raw.functions.account.SetAuthorizationTTL()
+    :members:

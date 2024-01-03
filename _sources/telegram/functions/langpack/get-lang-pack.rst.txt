@@ -1,0 +1,5 @@
+langpack.GetLangPack
+====================
+
+.. autoclass:: hydrogram.raw.functions.langpack.GetLangPack()
+    :members:

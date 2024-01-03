@@ -1,0 +1,5 @@
+UpdateMessageID
+===============
+
+.. autoclass:: hydrogram.raw.types.UpdateMessageID()
+    :members:

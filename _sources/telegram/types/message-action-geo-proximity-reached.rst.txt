@@ -1,0 +1,5 @@
+MessageActionGeoProximityReached
+================================
+
+.. autoclass:: hydrogram.raw.types.MessageActionGeoProximityReached()
+    :members:

@@ -1,0 +1,5 @@
+MessageReplyStoryHeader
+=======================
+
+.. autoclass:: hydrogram.raw.types.MessageReplyStoryHeader()
+    :members:

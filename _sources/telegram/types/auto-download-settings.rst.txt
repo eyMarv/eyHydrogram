@@ -1,0 +1,5 @@
+AutoDownloadSettings
+====================
+
+.. autoclass:: hydrogram.raw.types.AutoDownloadSettings()
+    :members:

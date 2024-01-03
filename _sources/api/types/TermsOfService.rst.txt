@@ -1,0 +1,4 @@
+TermsOfService
+==============
+
+.. autoclass:: hydrogram.types.TermsOfService()

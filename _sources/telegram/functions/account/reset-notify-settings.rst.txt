@@ -1,0 +1,5 @@
+account.ResetNotifySettings
+===========================
+
+.. autoclass:: hydrogram.raw.functions.account.ResetNotifySettings()
+    :members:

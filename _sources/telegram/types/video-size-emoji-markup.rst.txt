@@ -1,0 +1,5 @@
+VideoSizeEmojiMarkup
+====================
+
+.. autoclass:: hydrogram.raw.types.VideoSizeEmojiMarkup()
+    :members:

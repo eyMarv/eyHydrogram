@@ -1,0 +1,5 @@
+messages.Search
+===============
+
+.. autoclass:: hydrogram.raw.functions.messages.Search()
+    :members:

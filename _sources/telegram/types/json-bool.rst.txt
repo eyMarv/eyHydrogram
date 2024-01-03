@@ -1,0 +1,5 @@
+JsonBool
+========
+
+.. autoclass:: hydrogram.raw.types.JsonBool()
+    :members:

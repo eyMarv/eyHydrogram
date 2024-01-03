@@ -1,0 +1,5 @@
+InputWebFileLocation
+====================
+
+.. autoclass:: hydrogram.raw.base.InputWebFileLocation()
+    :members:

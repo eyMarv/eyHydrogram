@@ -1,0 +1,5 @@
+auth.ExportedAuthorization
+==========================
+
+.. autoclass:: hydrogram.raw.base.auth.ExportedAuthorization()
+    :members:

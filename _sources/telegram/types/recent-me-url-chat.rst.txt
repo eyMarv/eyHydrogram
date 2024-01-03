@@ -1,0 +1,5 @@
+RecentMeUrlChat
+===============
+
+.. autoclass:: hydrogram.raw.types.RecentMeUrlChat()
+    :members:

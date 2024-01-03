@@ -1,0 +1,5 @@
+ChannelAdminLogEventActionStartGroupCall
+========================================
+
+.. autoclass:: hydrogram.raw.types.ChannelAdminLogEventActionStartGroupCall()
+    :members:

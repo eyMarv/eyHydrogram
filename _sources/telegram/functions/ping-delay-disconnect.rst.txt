@@ -1,0 +1,5 @@
+PingDelayDisconnect
+===================
+
+.. autoclass:: hydrogram.raw.functions.PingDelayDisconnect()
+    :members:

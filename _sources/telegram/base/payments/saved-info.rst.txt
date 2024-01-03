@@ -1,0 +1,5 @@
+payments.SavedInfo
+==================
+
+.. autoclass:: hydrogram.raw.base.payments.SavedInfo()
+    :members:

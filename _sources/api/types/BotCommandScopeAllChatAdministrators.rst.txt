@@ -1,0 +1,4 @@
+BotCommandScopeAllChatAdministrators
+====================================
+
+.. autoclass:: hydrogram.types.BotCommandScopeAllChatAdministrators()

@@ -1,0 +1,4 @@
+restrict_chat_member()
+======================
+
+.. automethod:: hydrogram.Client.restrict_chat_member()

@@ -1,0 +1,69 @@
+Channels
+========
+
+.. module:: hydrogram.raw.functions.channels
+
+.. toctree::
+    :titlesonly:
+
+    CheckUsername <check-username>
+    ClickSponsoredMessage <click-sponsored-message>
+    ConvertToGigagroup <convert-to-gigagroup>
+    CreateChannel <create-channel>
+    CreateForumTopic <create-forum-topic>
+    DeactivateAllUsernames <deactivate-all-usernames>
+    DeleteChannel <delete-channel>
+    DeleteHistory <delete-history>
+    DeleteMessages <delete-messages>
+    DeleteParticipantHistory <delete-participant-history>
+    DeleteTopicHistory <delete-topic-history>
+    EditAdmin <edit-admin>
+    EditBanned <edit-banned>
+    EditCreator <edit-creator>
+    EditForumTopic <edit-forum-topic>
+    EditLocation <edit-location>
+    EditPhoto <edit-photo>
+    EditTitle <edit-title>
+    ExportMessageLink <export-message-link>
+    GetAdminLog <get-admin-log>
+    GetAdminedPublicChannels <get-admined-public-channels>
+    GetChannelRecommendations <get-channel-recommendations>
+    GetChannels <get-channels>
+    GetForumTopics <get-forum-topics>
+    GetForumTopicsByID <get-forum-topics-by-id>
+    GetFullChannel <get-full-channel>
+    GetGroupsForDiscussion <get-groups-for-discussion>
+    GetInactiveChannels <get-inactive-channels>
+    GetLeftChannels <get-left-channels>
+    GetMessages <get-messages>
+    GetParticipant <get-participant>
+    GetParticipants <get-participants>
+    GetSendAs <get-send-as>
+    GetSponsoredMessages <get-sponsored-messages>
+    InviteToChannel <invite-to-channel>
+    JoinChannel <join-channel>
+    LeaveChannel <leave-channel>
+    ReadHistory <read-history>
+    ReadMessageContents <read-message-contents>
+    ReorderPinnedForumTopics <reorder-pinned-forum-topics>
+    ReorderUsernames <reorder-usernames>
+    ReportAntiSpamFalsePositive <report-anti-spam-false-positive>
+    ReportSpam <report-spam>
+    SetDiscussionGroup <set-discussion-group>
+    SetStickers <set-stickers>
+    ToggleAntiSpam <toggle-anti-spam>
+    ToggleForum <toggle-forum>
+    ToggleJoinRequest <toggle-join-request>
+    ToggleJoinToSend <toggle-join-to-send>
+    ToggleParticipantsHidden <toggle-participants-hidden>
+    TogglePreHistoryHidden <toggle-pre-history-hidden>
+    ToggleSignatures <toggle-signatures>
+    ToggleSlowMode <toggle-slow-mode>
+    ToggleUsername <toggle-username>
+    ToggleViewForumAsMessages <toggle-view-forum-as-messages>
+    UpdateColor <update-color>
+    UpdateEmojiStatus <update-emoji-status>
+    UpdatePinnedForumTopic <update-pinned-forum-topic>
+    UpdateUsername <update-username>
+    ViewSponsoredMessage <view-sponsored-message>
+

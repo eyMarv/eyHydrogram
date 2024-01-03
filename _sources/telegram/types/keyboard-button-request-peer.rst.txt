@@ -1,0 +1,5 @@
+KeyboardButtonRequestPeer
+=========================
+
+.. autoclass:: hydrogram.raw.types.KeyboardButtonRequestPeer()
+    :members:

@@ -1,0 +1,5 @@
+InputMediaPhotoExternal
+=======================
+
+.. autoclass:: hydrogram.raw.types.InputMediaPhotoExternal()
+    :members:

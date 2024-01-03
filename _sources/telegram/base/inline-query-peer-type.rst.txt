@@ -1,0 +1,5 @@
+InlineQueryPeerType
+===================
+
+.. autoclass:: hydrogram.raw.base.InlineQueryPeerType()
+    :members:

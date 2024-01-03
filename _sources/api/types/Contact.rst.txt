@@ -1,0 +1,4 @@
+Contact
+=======
+
+.. autoclass:: hydrogram.types.Contact()

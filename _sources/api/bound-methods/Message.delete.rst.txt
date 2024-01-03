@@ -1,0 +1,4 @@
+Message.delete()
+================
+
+.. automethod:: hydrogram.types.Message.delete()

@@ -1,0 +1,5 @@
+PhotoStrippedSize
+=================
+
+.. autoclass:: hydrogram.raw.types.PhotoStrippedSize()
+    :members:

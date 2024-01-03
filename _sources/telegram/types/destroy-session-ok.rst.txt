@@ -1,0 +1,5 @@
+DestroySessionOk
+================
+
+.. autoclass:: hydrogram.raw.types.DestroySessionOk()
+    :members:

@@ -1,0 +1,5 @@
+phone.EditGroupCallParticipant
+==============================
+
+.. autoclass:: hydrogram.raw.functions.phone.EditGroupCallParticipant()
+    :members:

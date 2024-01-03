@@ -1,0 +1,5 @@
+phone.GroupParticipants
+=======================
+
+.. autoclass:: hydrogram.raw.base.phone.GroupParticipants()
+    :members:

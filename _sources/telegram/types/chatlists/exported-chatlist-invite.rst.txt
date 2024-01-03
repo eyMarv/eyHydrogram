@@ -1,0 +1,5 @@
+chatlists.ExportedChatlistInvite
+================================
+
+.. autoclass:: hydrogram.raw.types.chatlists.ExportedChatlistInvite()
+    :members:

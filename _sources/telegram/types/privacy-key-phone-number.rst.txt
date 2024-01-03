@@ -1,0 +1,5 @@
+PrivacyKeyPhoneNumber
+=====================
+
+.. autoclass:: hydrogram.raw.types.PrivacyKeyPhoneNumber()
+    :members:

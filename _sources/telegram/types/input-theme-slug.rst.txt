@@ -1,0 +1,5 @@
+InputThemeSlug
+==============
+
+.. autoclass:: hydrogram.raw.types.InputThemeSlug()
+    :members:
